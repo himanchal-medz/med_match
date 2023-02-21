@@ -1,0 +1,106 @@
+item_code,brand,Master Catalogue name,medicine_type,exp_sku_brand,mod_brand,count_cap,exp_sku_brand2,exp_sku_brand3,exp_sku_brand4,pack,manufacturer,catg,subcatg,mrp
+1022414,caryon-z cap 1*10,,capsule,caryon z,caryon z 10s,1,caryon,caryon,caryon,,FOREGEN HEALTHCARE PVT.LTD.,,,46.0
+1034889,femiclo-v cap 1*3,,capsule,femiclo v,femiclo v 3s,1,femiclo,femiclo,femiclo,,FOREGEN HEALTHCARE PVT.LTD.,,,139.7
+1045087,supracal os cap 1*10,,capsule,supracal os,supracal os 10s,1,supracal,supracal,supracal,,PHARMED SYNERGY,,,216.0
+1045595,calten cap 1*10,,capsule,calten,calten 10s,1,calten,calten,calten,,IPCA=( IPM ),,,90.0
+1046520,geridys caps 1*10,,capsule,geridys,geridys 10s,1,geridys,geridys,geridys,,ALEMBIC-( SPECIA ),,,61.0
+1056958,ferofast cap 1*10,,capsule,ferofast,ferofast 10s,1,ferofast,ferofast,ferofast,,ALKEM-(ARISE),,,51.0
+1057038,lefumide-20 cap 1*10,,capsule,lefumide,lefumide 20 10s,1,lefumide,lefumide,lefumide,,CIPLA-( SPECIALITY-3 ),,,209.91
+1057324,omlasoft cap 1*10,,capsule,omlasoft,oasoft 10s,1,omlasoft,omlasoft,omlasoft,,CIPLA-( NURTURE-1 ),,,99.0
+1057348,lefumide-10 cap 1*10,,capsule,lefumide,lefumide 10 10s,1,lefumide,lefumide,lefumide,,CIPLA-( SPECIALITY-3 ),,,97.65
+1057441,biflin cap 1*10,,capsule,biflin,biflin 10s,1,biflin,biflin,biflin,,CIPLA-( NURTURE-1 ),,,68.5
+1058304,mobix cap 1*10,,capsule,mobix,mobix 10s,1,mobix,mobix,mobix,,CIPLA-( NURTURE-1 ),,,69.6
+1069294,ashvagandha cap 60,,capsule,ashvagandha,ashvagandha 60,1,ashvagandha,ashvagandha,ashvagandha,,HIMALAYA (ZINDEL-WELLNESS),,,180.0
+1069295,brahmi cap 1*60,,capsule,brahmi,brahmi 60s,1,brahmi,brahmi,brahmi,,HIMALAYA (ZINDEL-WELLNESS),,,165.0
+1069297,lasuna cap 1*60,,capsule,lasuna,lasuna 60s,1,lasuna,lasuna,lasuna,,HIMALAYA (ZANDRA),,,180.0
+1069299,shallaki cap 60,,capsule,shallaki,shallaki 60,1,shallaki,shallaki,shallaki,,HIMALAYA (ZINDEL-WELLNESS),,,180.0
+1069300,triphala cap 60,,capsule,triphala,triphala 60,1,triphala,triphala,triphala,,HIMALAYA (ZINDEL-WELLNESS),,,200.0
+1070104,prepro cap 1*10,,capsule,prepro,prepro 10s,1,prepro,prepro,prepro,,FOURRTS PERMIERE GASTRO,,,178.0
+1070354,shatavari caps 1*60,,capsule,shatavari,shatavari 60s,1,shatavari,shatavari,shatavari,,HIMALAYA (ZANDRA),,,200.0
+1070642,freeflex cap [univ] 1*15,,capsule,freeflex,freeflex [univ] 15s,1,freeflex,freeflex,freeflex,,UNIVERSAL,,,279.48
+1070648,multivate fm cap 1*30,,capsule,multivate fm,multivate fm 30s,1,multivate,multivate,multivate,,UNIVERSAL,,,71.58
+1080973,l.gold cap 1*6,,capsule,l.gold,l.gold 6s,1,l.gold,l.gold,l.gold,,ALGEN HEALTHCARE,,,549.0
+1081096,dicfast gm caps 1*10,,capsule,dicfastgm,dicfast 10s,1,dicfastgm,dicfastgm,dicfastgm,,FOREGEN HEALTHCARE PVT.LTD.,,,148.5
+1081637,talekt cap 1*60,,capsule,talekt,talekt 60s,1,talekt,talekt,talekt,,HIMALAYA,,,100.0
+1081639,picrolax cap 1*10,,capsule,picrolax,picrolax 10s,1,picrolax,picrolax,picrolax,,HIMALAYA,,,25.0
+1081710,altraflam-sr cap 1*10,,capsule,altraflam,altraflam 10s,1,altraflam,altraflam,altraflam,,SUN PHARMA=[ PHARMA-LIFE ],,,44.54
+1093553,shuddha guggulu cap 1*60,,capsule,shuddha guggulu,shuddha guggulu 60s,1,shuddha,shuddha,shuddha,,HIMALAYA (ZANDRA),,,250.0
+1093563,tulsi cap 1*60,,capsule,tulsi,tulsi 60s,1,tulsi,tulsi,tulsi,,HIMALAYA (ZINDEL-WELLNESS),,,150.0
+1094009,bael cap 1*60,,capsule,bael,bael 60s,1,bael,bael,bael,,HIMALAYA (ZINDEL-WELLNESS),,,136.0
+1104200,haridra cap 1*60,,capsule,haridra,haridra 60s,1,haridra,haridra,haridra,,HIMALAYA (ZANDRA),,,147.0
+1104267,adtrol plus caps 1*15,,capsule,adtrol plus,adtrol plus 15s,1,adtrol,adtrol,adtrol,,WANBURY=( OSTEOLIFE ),,,328.9
+1104312,vasaka cap 1*60,,capsule,vasaka,vasaka 60s,1,vasaka,vasaka,vasaka,,HIMALAYA (ZINDEL-WELLNESS),,,110.0
+1104349,gokshura caps 1*60,,capsule,gokshura,gokshura 60s,1,gokshura,gokshura,gokshura,,HIMALAYA (ZINDEL-WELLNESS),,,220.0
+1104350,punarnava caps 1*60,,capsule,punarnava,punarnava 60s,1,punarnava,punarnava,punarnava,,HIMALAYA,,,110.0
+1104956,neugatrip-75 cap 1*10,,capsule,neugatrip,neugatrip 75 10s,1,neugatrip,neugatrip,neugatrip,,SUN PHARMA=[ SOLUS-M ],,,207.0
+1105300,geriflo d cap 1*30,,capsule,geriflo d,geriflo d 30s,1,geriflo,geriflo,geriflo,,ALEMBIC ( OURON ),,,635.9
+1105670,velcera-200 cap 1*30,,capsule,velcera,velcera 200 30s,1,velcera,velcera,velcera,,AJANTA-[ AUREUS ],,,165.0
+1105671,velcera-400 cap 1*30,,capsule,velcera,velcera 400 30s,1,velcera,velcera,velcera,,AJANTA-[ AUREUS ],,,180.0
+1116185,folwise plus cap 1*15,,capsule,folwise plus,folwise plus 15s,1,folwise,folwise,folwise,,UNIVERSAL,,,115.25
+1116385,zrd cap 1*10,,capsule,zrd,zrd 10s,1,zrd,zrd,zrd,,SERUM INSTITUTE OF INDIA,,,88.9
+1116462,mecogen cap 1*10,,capsule,mecogen,mecogen 10s,1,mecogen,mecogen,mecogen,,ALGEN HEALTHCARE,,,85.0
+1116885,gemiuro-300 cap 1*10,,capsule,gemiuro,gemiuro 300 10s,1,gemiuro,gemiuro,gemiuro,,RONYD,,,279.0
+1116916,amalki cap 1*60,,capsule,amalki,amalki 60s,1,amalki,amalki,amalki,,HIMALAYA (ZINDEL-WELLNESS),,,200.0
+1117561,abrofyl cap 1*10,,capsule,abrofyl,abrofyl 10s,1,abrofyl,abrofyl,abrofyl,,ALKEM-(ARISE),,,42.75
+1117904,zarate-d cap 1*6,,capsule,zarate d,zarate d 6s,1,zarate,zarate,zarate,,PFIZER-( FUTURA ),,,47.0
+1127998,celofast cap 1*10,,capsule,celofast,celofast 10s,1,celofast,celofast,celofast,,CIPLA-( NURTURE-1 ),,,0.0
+1128638,r.b.tone cap 1*15,,capsule,r.b.tone,r.b.tone 15s,1,r.b.tone,r.b.tone,r.b.tone,,MEDLEY-( NUTRAKARE ),,,77.0
+1129071,myotol-f cap 1*10,,capsule,myotol f,myotol f 10s,1,myotol,myotol,myotol,,WANBURY-(WOW),,,144.3
+1129330,vaionuron cap 1*10,,capsule,vaionuron,vaionuron 10s,1,vaionuron,vaionuron,vaionuron,,RONYD (ASTA)_,,,179.9
+1139651,magnofil cap 1*10,,capsule,magnofil,magnofil 10s,1,magnofil,magnofil,magnofil,,FOURRTS:-[ SP. ],,,95.0
+1139956,apc cap 1*10,,capsule,apc,apc 10s,1,apc,apc,apc,,ALGEN HEALTHCARE,,,89.0
+1140421,alafin cap 1*10,,capsule,alafin,alafin 10s,1,alafin,alafin,alafin,,FOURRTS PREMIERE DIABETO,,,228.0
+1140505,kapikachhu cap 60s,,capsule,kapikachhu,kapikachhu 60s,1,kapikachhu,kapikachhu,kapikachhu,,HIMALAYA (ZINDEL-WELLNESS),,,200.0
+1140507,shigru cap 60,,capsule,shigru,shigru 60,1,shigru,shigru,shigru,,HIMALAYA (ZINDEL-WELLNESS),,,180.0
+1140524,sunithi cap 50,,capsule,sunithi,sunithi 50,1,sunithi,sunithi,sunithi,,HIMALAYA,,,0.0
+1151433,candid-cl cap 1*3,,capsule,candid cl,candid cl 3s,1,candid,candid,candid,,(GLENMARK),,,146.0
+1162417,meganac cap 1*10,,capsule,meganac,meganac 10s,1,meganac,meganac,meganac,,WINMARK,,,100.0
+1162649,supamove-8 cap 1*10,,capsule,supamove,supamove 8 10s,1,supamove,supamove,supamove,,DR.REDDY^S LABORATORIES LTD.,,,236.0
+1163174,gfh-10 cap 1*10,,capsule,gfh,gfh 10 10s,1,gfh,gfh,gfh,,MITIS BIOMEDICS LTD.,,,499.0
+1163303,mecograce-pg cap 1*10,,capsule,mecograce pg,mecograce pg 10s,1,mecograce,mecograce,mecograce,,STANLEY HEALTHCARE PVT.LTD.,,,159.0
+1163312,fracheal caps 1*10,,capsule,fracheal,fracheal 10s,1,fracheal,fracheal,fracheal,,WINMARK,,,230.0
+1163384,oxalcep cap 1*10,,capsule,oxalcep,oxalcep 10s,1,oxalcep,oxalcep,oxalcep,,FOURRTS:-[ SP. ],,,199.0
+1163568,dutalfa cap 1*20,,capsule,dutalfa,dutalfa 20s,1,dutalfa,dutalfa,dutalfa,,(DRL),,,296.25
+1174108,cetsure cap 1*10,,capsule,cetsure,cetsure 10s,1,cetsure,cetsure,cetsure,,ASSURE LIFE SCIENCE PVT LTD.,,,52.0
+1174168,r.b.tone cap 1*15,,capsule,r.b.tone,r.b.tone 15s,1,r.b.tone,r.b.tone,r.b.tone,,(MEDLEY),,,77.0
+1174190,ayurslim cap 3*60,,capsule,ayurslim,ayurslim 3 60,1,ayurslim,ayurslim,ayurslim,,HIMALAYA (ZINDEL-WELLNESS),,,700.0
+1174217,ayurslim cap 1*60,,capsule,ayurslim,ayurslim 60s,1,ayurslim,ayurslim,ayurslim,,HIMALAYA (ZINDEL-WELLNESS),,,260.0
+1174331,polyblock cap 1*10,,capsule,polyblock,polyblock 10s,1,polyblock,polyblock,polyblock,,NEXGEN-ESSENTIA DIV,,,275.0
+1174464,femiclo-xt cap 1*3,,capsule,femiclo,femiclo 3s,1,femiclo,femiclo,femiclo,,FOREGEN HEALTHCARE PVT.LTD.,,,96.0
+1174785,pbt cap 1*10,,capsule,pbt,pbt 10s,1,pbt,pbt,pbt,,ERINOME,,,105.0
+1174792,zq-10 cap 1*10,,capsule,zq,zq 10 10s,1,zq,zq,zq,,ERINOME,,,526.0
+1175064,mirumigest cap 1*10,,capsule,mirumigest,mirumigest 10s,1,mirumigest,mirumigest,mirumigest,,ALEMBIC-( ALCARE ),,,569.4
+1175289,oxitard cap 1*10,,capsule,oxitard,oxitard 10s,1,oxitard,oxitard,oxitard,,HIMALAYA,,,80.0
+1175614,prepro-ibs cap 1*10,,capsule,prepro ibs,prepro ibs 10s,1,prepro,prepro,prepro,,FOURRTS PERMIERE GASTRO,,,409.0
+1185811,acobol-p cap 1*10,,capsule,acobol p,acobol p 10s,1,acobol,acobol,acobol,,ANG LIFESCIENCES PVT LTD,,,130.0
+1196362,mecograce cap 1*10,,capsule,mecograce,mecograce 10s,1,mecograce,mecograce,mecograce,,STANLEY HEALTHCARE PVT.LTD.,,,155.0
+1209334,truceprol cap 1*10,,capsule,truceprol,truceprol 10s,1,truceprol,truceprol,truceprol,,TORRENT (UNOSPIRIT),,,240.1
+1210140,l.gold max cap 3*10,,capsule,l.gold max,l.gold max 3 10,1,l.gold,l.gold,l.gold,,ALGEN HEALTHCARE,,,629.0
+1220170,somaday dsr cap 1*10,,capsule,somaday dsr,somaday dsr 10s,1,somaday,somaday,somaday,,KAYRA INNOPHARM,,,110.0
+1220200,geriflo d cap 1*30,,capsule,geriflo d,geriflo d 30s,1,geriflo,geriflo,geriflo,,(ALEMBIC),,,796.7
+1220861,alfadosin-4 cap 1*10,,capsule,alfadosin,alfadosin 4 10s,1,alfadosin,alfadosin,alfadosin,,KAYRA INNOPHARM,,,182.5
+1220862,alfadosin-8 cap 1*10,,capsule,alfadosin,alfadosin 8 10s,1,alfadosin,alfadosin,alfadosin,,KAYRA INNOPHARM,,,295.5
+1221091,olfital cap 1*10,,capsule,olfital,olfital 10s,1,olfital,olfital,olfital,,GLENMARK-[ PHARMA ],,,180.0
+1221602,limox 600mg cap 1*10,,capsule,limox,limox 600 10s,1,limox,limox,limox,,(GEN.),,,361.95
+1221790,supracal os cap 1*10,,capsule,supracal os,supracal os 10s,1,supracal,supracal,supracal,,(PHARMED),,,216.0
+1222847,pantawock-dsr cap 1*10,,capsule,pantawock dsr,pantawock dsr 10s,1,pantawock,pantawock,pantawock,,MEDWOCK PHARMACEUTICALS,,,115.0
+1233170,immugard-200 cap 1*15,,capsule,immugard,immugard 200 15s,1,immugard,immugard,immugard,,ARISTO MF-1,,,75.0
+1233314,oftagel cap 1*10,,capsule,oftagel,oftagel 10s,1,oftagel,oftagel,oftagel,,(AJANTA),,,0.0
+1233369,alfadol cap 1*10,,capsule,alfadol,alfadol 10s,1,alfadol,alfadol,alfadol,,(GEN.),,,99.1
+1233720,applygen cap 1*7,,capsule,applygen,applygen 7s,1,applygen,applygen,applygen,,RONYD,,,120.0
+1234071,momb9 cap 1*10,,capsule,momb9,momb9 10s,1,momb9,momb9,momb9,,EMCURE:-[ XENNEX ],,,172.0
+1234127,arsho quit cap (b.b.) 1*60,,capsule,arsho quit,arsho quit b.b. 60s,1,arsho,arsho,arsho,,B B LABORATORIES,,,289.0
+1234746,kayra-d3 cap 1*4,,capsule,kayra d3,kayra d3 4s,1,kayra,kayra,kayra,,KAYRA INNOPHARM,,,131.0
+1234765,vitoz-hd cap 1*10,,capsule,vitoz hd,vitoz hd 10s,1,vitoz,vitoz,vitoz,,CURITON LIFE SCIENCES PVT. LTD.,,,219.0
+1234843,platup cap 1*10,,capsule,platup,platup 10s,1,platup,platup,platup,,FAITH PHARMACEUTICALS LTD,,,600.0
+1234844,platup ds cap 1*10,,capsule,platup ds,platup ds 10s,1,platup,platup,platup,,FAITH PHARMACEUTICALS LTD,,,750.0
+1234845,quick-sr cap 1*10,,capsule,quick,quick 10s,1,quick,quick,quick,,FAITH PHARMACEUTICALS LTD,,,140.0
+1245325,recoup cap 1*10,,capsule,recoup,recoup 10s,1,recoup,recoup,recoup,,FAITH PHARMACEUTICALS LTD,,,350.0
+1245570,actigold-4g sg caps 1*10,,capsule,actigold 4g sg,actigold 4g sg 10s,1,actigold 4g,actigold,actigold,,LIFEMED HEALTHCARE,,,554.9
+1245577,savegut cap 1*10,,capsule,savegut,savegut 10s,1,savegut,savegut,savegut,,LIFEMED HEALTHCARE,,,289.0
+1245654,mymigold s.g cap 1*10,,capsule,mymigold s.g,mymigold s.g 10s,1,mymigold,mymigold,mymigold,,HBC PHARMA,,,189.0
+1246198,ultracan cap 1*10,,capsule,ultracan,ultracan 10s,1,ultracan,ultracan,ultracan,,FAITH PHARMACEUTICALS LTD,,,320.0
+1246254,weltone gold cap 1*10,,capsule,weltone gold,weltone gold 10s,1,weltone,weltone,weltone,,DELCURE LIFESCIENCES LTD.,,,187.0
+5819,evecare cap 1*30,,capsule,evecare,evecare 30s,1,evecare,evecare,evecare,,HIMALAYA (ZANDRA),,,175.0
+6023,herbolax cap 1*10,,capsule,herbolax,herbolax 10s,1,herbolax,herbolax,herbolax,,HIMALAYA,,,50.0
+7633,tentex royal cap 1*10,,capsule,tentex royal,tentex royal 10s,1,tentex,tentex,tentex,,HIMALAYA,,,225.0

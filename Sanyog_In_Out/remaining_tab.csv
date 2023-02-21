@@ -1,0 +1,249 @@
+item_code,brand,Master Catalogue name,medicine_type,exp_sku_brand,mod_brand,count_tab,exp_sku_brand2,exp_sku_brand3,exp_sku_brand4,pack,manufacturer,catg,subcatg,mrp
+1000047,candizole t tab 1*8,,tablet,candizole t,candizole t 8s,1,candizole,candizole,candizole,,AJANTA-[ ALMIRON ],,,35.0
+1010740,benclamet forte tab 1*10,,tablet,benclamet forte,benclamet forte 10s,1,benclamet,benclamet,benclamet,,RPG IMPULSE,,,24.25
+1010741,benclamet tab 1*10,,tablet,benclamet,benclamet 10s,1,benclamet,benclamet,benclamet,,RPG IMPULSE,,,13.35
+1011055,menosan tab 1*30,,tablet,menosan,menosan 30s,1,menosan,menosan,menosan,,HIMALAYA (ZANDRA),,,180.0
+1011057,reosto tab 1*30,,tablet,reosto,reosto 30s,1,reosto,reosto,reosto,,HIMALAYA (ZANDRA),,,165.0
+1011059,rumalaya fotre tab 1*30,,tablet,rumalaya fotre,rumalaya fotre 30s,1,rumalaya,rumalaya,rumalaya,,HIMALAYA,,,180.0
+1022190,logical m tab 1*15,,tablet,logical m,logical m 15s,1,logical,logical,logical,,SERUM INSTITUTE OF INDIA,,,69.25
+1022480,psycholsnz-15mg tab 1*10,,tablet,psycholsnz,psycholsnz 15 10s,1,psycholsnz,psycholsnz,psycholsnz,,IPCA=( INNOVA ),,,68.0
+1033362,maxitrol tab 1*10,,tablet,maxitrol,maxitrol 10s,1,maxitrol,maxitrol,maxitrol,,ALGEN HEALTHCARE,,,103.9
+1033943,limigen-1 tab 1*10,,tablet,limigen,limigen 1 10s,1,limigen,limigen,limigen,,ALGEN HEALTHCARE,,,22.0
+1034717,fortafan 10 tab 1*10,,tablet,fortafan,fortafan 10 10s,1,fortafan,fortafan,fortafan,,ALEMBIC-( ENTERON-GASTRO ),,,19.8
+1034738,calciem tab 1*15,,tablet,calciem,calciem 15s,1,calciem,calciem,calciem,,EMCURE:-[ XENNEA ],,,65.8
+1034911,absolut dm tab 1*15,,tablet,absolut dm,absolut dm 15s,1,absolut,absolut,absolut,,PHARMED ACE,,,335.0
+1044987,fortafan plus tab 1*10,,tablet,fortafan plus,fortafan plus 10s,1,fortafan,fortafan,fortafan,,ALEMBIC-( ENTERON-GASTRO ),,,27.0
+1045622,elitox tab 50mg 1*10,,tablet,elitox,elitox 50 10s,1,elitox,elitox,elitox,,SUN PHARMA=[ C.V-LIFE ],,,120.1
+1045624,elitox tab 25mg 1*10,,tablet,elitox,elitox 25 10s,1,elitox,elitox,elitox,,SUN PHARMA=[ C.V-LIFE ],,,63.58
+1045770,solufer tab 1*10,,tablet,solufer,solufer 10s,1,solufer,solufer,solufer,,ALKEM-(BERGEN_ASTA),,,56.0
+1046027,himplasia tab 1*30,,tablet,himplasia,himplasia 30s,1,himplasia,himplasia,himplasia,,HIMALAYA,,,160.0
+1046155,enzovexx-65 tab 1*10,,tablet,enzovexx,enzovexx 65 10s,1,enzovexx,enzovexx,enzovexx,,ZUVENTUS HEALTHCARE LTD,,,69.6
+1046224,ultizyme tab 1*10,,tablet,ultizyme,ultizyme 10s,1,ultizyme,ultizyme,ultizyme,,MEDLEY-( NUTRAKARE ),,,110.0
+1056759,oeriforte tab 100^s,,tablet,oeriforte,oeriforte 100 s,1,oeriforte,oeriforte,oeriforte,,(GEN.),,,75.0
+1056816,mylpower o tab 1*10,,tablet,mylpower o,mylpower o 10s,1,mylpower,mylpower,mylpower,,IPCA=( INTIMA ),,,60.0
+1056931,itoprid tab 1*10,,tablet,itoprid,itoprid 10s,1,itoprid,itoprid,itoprid,,CIPLA-( SUPRACARE ),,,54.31
+1057014,alfacip 0.25 tab 1*10,,tablet,alfacip 0.25,alfacip 0.25 10s,1,alfacip,alfacip,alfacip,,CIPLA-( SPECIALITY-3 ),,,54.3
+1057099,lomac 10 tab 1*10,,tablet,lomac,lomac 10 10s,1,lomac,lomac,lomac,,CIPLA-( NURTURE-1 ),,,22.75
+1057100,lomac 20 tab 1*10,,tablet,lomac,lomac 20 10s,1,lomac,lomac,lomac,,CIPLA-( NURTURE-1 ),,,70.5
+1057107,niflet 5 tab 1*10,,tablet,niflet,niflet 5 10s,1,niflet,niflet,niflet,,CIPLA-( NURTURE-1 ),,,7.25
+1057120,obestat 10 tab 1*10,,tablet,obestat,obestat 10 10s,1,obestat,obestat,obestat,,CIPLA-( NURTURE-1 ),,,160.77
+1057395,z@d dt-20 tab 1*14,,tablet,z@d,z@d 20 1 14,1,z@d,z@d,z@d,,DR.REDDY-[ WINTURA ],,,23.0
+1068791,olopat tab 1*10,,tablet,olopat,olopat 10s,1,olopat,olopat,olopat,,AJANTA-[ AUREUS ],,,67.0
+1069298,neem tab 1*60,,tablet,neem,neem 60s,1,neem,neem,neem,,HIMALAYA (ZINDEL-WELLNESS),,,180.0
+1069610,justsleep-1 tab 1*10,,tablet,justsleep,justsleep 1 10s,1,justsleep,justsleep,justsleep,,EMCURE:-[ XENNEX ],,,38.9
+1069612,justsleep-2 tab 1*10,,tablet,justsleep,justsleep 2 10s,1,justsleep,justsleep,justsleep,,EMCURE:-[ XENNEX ],,,65.15
+1069662,tabi tab 1*30,,tablet,,tabletis 30s,2,,,,,DR.REDDY-[ FUTURA LEO ],,,503.53
+1069722,bresol tab 1*60,,tablet,bresol,bresol 60s,1,bresol,bresol,bresol,,HIMALAYA,,,165.0
+1069757,omnicold tab 1*10,,tablet,omnicold,omnicold 10s,1,omnicold,omnicold,omnicold,,CIPLA-( NURTURE-1 ),,,15.0
+1069970,oxigud tab 1*10,,tablet,oxigud,oxigud 10s,1,oxigud,oxigud,oxigud,,FOREGEN (GENASIA BIOTECH),,,55.0
+1070031,zanoxicam 4mg tabs 1*10,,tablet,zanoxicam,zanoxicam 4 10s,1,zanoxicam,zanoxicam,zanoxicam,,AJANTA-[ ALMIRON ],,,38.0
+1070033,zanoxicam 8mg tabs 1*10,,tablet,zanoxicam,zanoxicam 8 10s,1,zanoxicam,zanoxicam,zanoxicam,,AJANTA-[ ALMIRON ],,,58.0
+1070090,lmontus tab 1*15,,tablet,lmontus,lmontus 15s,1,lmontus,lmontus,lmontus,,FOURRTS:-[ VIBRANT ],,,277.0
+1070150,guardian tab 1*6,,tablet,guardian,guardian 6s,1,guardian,guardian,guardian,,CIPLA-( IMPULSE ),,,140.0
+1081024,dutalfa tab 1*10,,tablet,dutalfa,dutalfa 10s,1,dutalfa,dutalfa,dutalfa,,DR.REDDY^S LABORATORIES LTD.,,,112.0
+1081044,onfast tab,,tablet,onfast,onfast,1,onfast,onfast,onfast,,FOREGEN (GENASIA BIOTECH),,,52.0
+1081517,solufer-xt tab 1*10,,tablet,solufer,solufer 10s,1,solufer,solufer,solufer,,ALKEM-(BERGEN_ASTA),,,73.0
+1081621,nicotex-4 [mint-tab] 10tab,,tablet,nicotex 4 [mint,nicotex 4 [mint 10s,1,nicotex 4,nicotex,nicotex,,CIPLA ( IMPULSE-2 ),,,80.0
+1081623,nicogum-2 tab 1*10,,tablet,nicogum,nicogum 2 10s,1,nicogum,nicogum,nicogum,,CIPLA-( RESPIRATORY-I ),,,75.0
+1081713,casera-tab 1*30,,tablet,casera,casera 30s,1,casera,casera,casera,,SUN PHARMA=[ CROSSLAND-1 ],,,198.0
+1081963,thiofenac-4 tab 1*10,,tablet,thiofenac,thiofenac 4 10s,1,thiofenac,thiofenac,thiofenac,,AJANTA-[ ALMIRON ],,,115.0
+1081964,thiofenac-8 tab 1*10,,tablet,thiofenac,thiofenac 8 10s,1,thiofenac,thiofenac,thiofenac,,AJANTA-[ ALMIRON ],,,183.0
+1082154,cefstrung 200 mg tab 1*10,,tablet,cefstrung,cefstrung 200 10s,1,cefstrung,cefstrung,cefstrung,,CIPLA-( SPECTRA-2 ),,,119.0
+1082162,sifek tab 1*10,,tablet,sifek,sifek 10s,1,sifek,sifek,sifek,,CIPLA-( NURTURE-1 ),,,60.0
+1092816,oxyquine-400 tab 1*10,,tablet,oxyquine,oxyquine 400 10s,1,oxyquine,oxyquine,oxyquine,,RONYD DERMAJOINT HEALTH,,,120.0
+1092824,ranidapril tab 10mg 1*10,,tablet,ranidapril,ranidapril 10 10s,1,ranidapril,ranidapril,ranidapril,,SUN PHARMA=[ C.V-LIFE ],,,157.0
+1092916,omnigra 50 mg 1*4 tab,,tablet,omnigra,omnigra 50 4s,1,omnigra,omnigra,omnigra,,CIPLA-( NURTURE-1 ),,,75.6
+1092974,omnicid tab mint,,tablet,omnicid,omnicid mint,1,omnicid,omnicid,omnicid,,CIPLA-( NURTURE-1 ),,,10.83
+1092982,justsleep-3 tab 1*10,,tablet,justsleep,justsleep 3 10s,1,justsleep,justsleep,justsleep,,EMCURE:-[ XENNEX ],,,84.0
+1093188,bronchosolvin tab 1*10,,tablet,bronchosolvin,bronchosolvin 10s,1,bronchosolvin,bronchosolvin,bronchosolvin,,(IPCA),,,22.0
+1093588,xplod-iso tab 10^s,,tablet,xplod iso,xplod iso 10 s,1,xplod,xplod,xplod,,EMCURE:-[ XENNEX ],,,175.0
+1093771,femarelle tab [30] 1x30,,tablet,femarelle,femarelle [30] 30s,1,femarelle,femarelle,femarelle,,SVIZERA HEALTHCARE,,,510.0
+1104272,osteocid tabs 1*10,,tablet,osteocid,osteocid 10s,1,osteocid,osteocid,osteocid,,WANBURY=( OSTEOLIFE ),,,82.5
+1104273,osteocid d tabs 1*10,,tablet,osteocid d,osteocid d 10s,1,osteocid,osteocid,osteocid,,WANBURY=( OSTEOLIFE ),,,110.0
+1104341,ettlax tab 1*10,,tablet,ettlax,ettlax 10s,1,ettlax,ettlax,ettlax,,DIRECT(UNIMARCK HEALTHCARE LTD.),,,45.0
+1104419,ocurax 800 tab 5s,,tablet,ocurax,ocurax 800 5s,1,ocurax,ocurax,ocurax,,IPCA=( BIONOVA ),,,0.0
+1104505,pronthodin tab 1*10,,tablet,pronthodin,pronthodin 10s,1,pronthodin,pronthodin,pronthodin,,NEXGEN-RX-MAIN-DIV,,,95.0
+1104670,doliza plus tab 1*10,,tablet,doliza plus,doliza plus 10s,1,doliza,doliza,doliza,,SUN PHARMA=[ REXTAR ],,,16.0
+1104691,doliza tab 1*10,,tablet,doliza,doliza 10s,1,doliza,doliza,doliza,,SUN PHARMA=[ REXTAR ],,,11.0
+1104704,tamusulin 0.2 tab 1*10,,tablet,tamusulin 0.2,tamusulin 0.2 10s,1,tamusulin,tamusulin,tamusulin,,IPCA=( URO ),,,41.0
+1104705,tamusulin 0.4 tab 1*15,,tablet,tamusulin 0.4,tamusulin 0.4 15s,1,tamusulin,tamusulin,tamusulin,,IPCA=( URO ),,,148.82
+1104706,tamusulin d tab 1*10,,tablet,tamusulin d,tamusulin d 10s,1,tamusulin,tamusulin,tamusulin,,IPCA=( URO ),,,185.9
+1104707,tamusulin t tab 1*10,,tablet,tamusulin t,tamusulin t 10s,1,tamusulin,tamusulin,tamusulin,,IPCA=( URO ),,,189.0
+1104720,freya tab 1*10,,tablet,freya,freya 10s,1,freya,freya,freya,,SUN PHARMA=[ CROSSLAND-1 ],,,60.0
+1104838,tagara tab 1*60,,tablet,tagara,tagara 60s,1,tagara,tagara,tagara,,HIMALAYA (ZINDEL-WELLNESS),,,220.0
+1104860,cilokem-100mg tab 1*10,,tablet,cilokem,cilokem 100 10s,1,cilokem,cilokem,cilokem,,ALKEM-(CARDIOLOGY-2),,,115.0
+1104861,cilokem-50mg tab 1*10,,tablet,cilokem,cilokem 50 10s,1,cilokem,cilokem,cilokem,,ALKEM-(CARDIOLOGY-2),,,60.0
+1105042,vihycal tabs 10 1*10,,tablet,vihycal,vihycal 10 10s,1,vihycal,vihycal,vihycal,,ALEMBIC-( DAWAR ),,,47.5
+1105449,azifine+250mg tab 1*6,,tablet,azifine+250mg,azifine+250 6s,1,azifine+250mg,azifine+250mg,azifine+250mg,,GLENMARK-[ MAJESTA ],,,58.46
+1105450,azifine+500mg tab 1*3,,tablet,azifine+500mg,azifine+500 3s,1,azifine+500mg,azifine+500mg,azifine+500mg,,GLENMARK-[ MAJESTA ],,,118.89
+1105488,oxapro tab 1*10,,tablet,oxapro,oxapro 10s,1,oxapro,oxapro,oxapro,,ZUVENTUS HEALTHCARE LTD,,,62.0
+1105755,eslomet-2.5 tab 1*10,,tablet,eslomet 2.5,eslomet 2.5 10s,1,eslomet,eslomet,eslomet,,ZUVENTUS HEALTHCARE LTD,,,116.05
+1105756,eslomet-5 tab 1*10,,tablet,eslomet,eslomet 5 10s,1,eslomet,eslomet,eslomet,,ZUVENTUS HEALTHCARE LTD,,,130.15
+1105939,pantastic 40 tab 1*10,,tablet,pantastic,pantastic 40 10s,1,pantastic,pantastic,pantastic,,WANBURY=( SURGLIFE ),,,72.0
+1105947,rabiplus fast tab 1*10,,tablet,rabiplus fast,rabiplus fast 10s,1,rabiplus,rabiplus,rabiplus,,WANBURY=( SURGLIFE ),,,68.0
+1106040,rosatan-20 tab 1*10,,tablet,rosatan,rosatan 20 10s,1,rosatan,rosatan,rosatan,,EMCURE:-[ CRIANTE ],,,63.0
+1106046,rosatan sa tab 1*10,,tablet,rosatan sa,rosatan sa 10s,1,rosatan,rosatan,rosatan,,EMCURE:-[ CRIANTE ],,,75.0
+1106049,vitanova d3-tab 1*4,,tablet,vitanova d3,vitanova d3 4s,1,vitanova,vitanova,vitanova,,ZUVENTUS HEALTHCARE LTD,,,109.69
+1106164,pronara-ds tab 1*10,,tablet,pronara ds,pronara ds 10s,1,pronara,pronara,pronara,,RPG IMPULSE,,,72.0
+1116811,econova tab 1*10,,tablet,econova,econova 10s,1,econova,econova,econova,,GLENMARK INTERGRACE G@G,,,542.0
+1117105,estosafe-p tab 1*10,,tablet,estosafe p,estosafe p 10s,1,estosafe,estosafe,estosafe,,WANBURY=( OSTEOLIFE ),,,80.0
+1117440,olopat ax tab 1*10,,tablet,olopat ax,olopat ax 10s,1,olopat,olopat,olopat,,AJANTA-[ AUREUS ],,,70.0
+1128129,oxyquine-200 tab 1*10,,tablet,oxyquine,oxyquine 200 10s,1,oxyquine,oxyquine,oxyquine,,RONYD DERMAJOINT HEALTH,,,69.0
+1128159,diozam-10 tab 1*10,,tablet,diozam,diozam 10 10s,1,diozam,diozam,diozam,,DIOS LIFESCIENCES,,,92.18
+1128444,folact tab 1*10,,tablet,folact,folact 10s,1,folact,folact,folact,,DIRECT(UNIMARCK HEALTHCARE LTD.),,,65.0
+1128870,itoprid tab 1*10,,tablet,itoprid,itoprid 10s,1,itoprid,itoprid,itoprid,,CIPLA-( SUPRACARE ),,,54.31
+1128941,mr.gam tab 1*10,,tablet,mr.gam,mr.gam 10s,1,mr.gam,mr.gam,mr.gam,,GLENMARK INTERGRACE G@G,,,270.0
+1139577,prema-75 tab 1*10,,tablet,prema,prema 75 10s,1,prema,prema,prema,,ALGEN HEALTHCARE,,,109.0
+1151427,lmontus tab 1*15,,tablet,lmontus,lmontus 15s,1,lmontus,lmontus,lmontus,,(FOURTS),,,277.0
+1151814,pabatab-bz tab 1*10,,tablet,paba,paba bzs 10s,2,paba,paba,paba,,MENARINI RAUNAQ PHARMA LTD.,,,135.0
+1162202,qvir kit tab 1kit,,tablet,qvir kit,qvir kit 1kit,1,qvir,qvir,qvir,,CIPLA-( HIV ),,,173.5
+1162379,lmontus-fx tab 1*10,,tablet,lmontus fx,lmontus fx 10s,1,lmontus,lmontus,lmontus,,FOURRTS:-[ VIBRANT ],,,120.0
+1162491,cnfactiv tab 1*10,,tablet,cnfactiv,cnfactiv 10s,1,cnfactiv,cnfactiv,cnfactiv,,ERIS-{ NIKKOS },,,143.0
+1162496,almito tab 1*10,,tablet,almito,almito 10s,1,almito,almito,almito,,ALKEM-(*PRIZMA ),,,173.0
+1162577,ofloglan-o tab 1,,tablet,ofloglan o,ofloglan o 1,1,ofloglan,ofloglan,ofloglan,,(GEN.),,,96.0
+1162657,xtraglo tab 1*10,,tablet,xtraglo,xtraglo 10s,1,xtraglo,xtraglo,xtraglo,,SUN PHARMA=[ PRIMALANDS ],,,163.0
+1163117,hairootz tab 1*15,,tablet,hairootz,hairootz 15s,1,hairootz,hairootz,hairootz,,DR.REDDY^S LABORATORIES LTD.,,,200.0
+1163301,flexjoint tab 1*10,,tablet,flexjoint,flexjoint 10s,1,flexjoint,flexjoint,flexjoint,,STANLEY HEALTHCARE PVT.LTD.,,,269.0
+1163541,mgd-3 tab 1*10,,tablet,mgd,d 3 10s,1,mgd,mgd,mgd,,PHARMED (TISKON),,,245.0
+1163596,tabi tabs 1*30,,tablet,,tabletis 30s,2,,,,,(DRL),,,1209.0
+1163612,keenuraon-od tab 1,,tablet,keenuraon od,keenuraon od 1,1,keenuraon,keenuraon,keenuraon,,KEE PHARMA,,,90.0
+1163874,canephron tab 1*10,,tablet,canephron,canephron 10s,1,canephron,canephron,canephron,,WIN-NATURAL,,,100.0
+1163875,imupret tab 1*10,,tablet,imupret,imupret 10s,1,imupret,imupret,imupret,,WIN-NATURAL,,,122.0
+1164074,udwell tab 1*10,,tablet,udwell,udwell 10s,1,udwell,udwell,udwell,,STANLEY HEALTHCARE PVT.LTD.,,,389.0
+1174199,hadjod tab 1*60,,tablet,hadjod,hadjod 60s,1,hadjod,hadjod,hadjod,,HIMALAYA (ZINDEL-WELLNESS),,,190.0
+1174212,vrikshamla tab 1*60,,tablet,vrikshamla,vrikshaa 60s,1,vrikshamla,vrikshamla,vrikshamla,,HIMALAYA (ZINDEL-WELLNESS),,,200.0
+1174410,meshashringi tab 1*60,,tablet,meshashringi,meshashringi 60s,1,meshashringi,meshashringi,meshashringi,,HIMALAYA (ZANDRA),,,165.0
+1174466,agnucaston tab 1*10,,tablet,agnucaston,agnucaston 10s,1,agnucaston,agnucaston,agnucaston,,WIN-NATURAL,,,143.0
+1174468,klimadynon tab 1*10,,tablet,klimadynon,klimadynon 10s,1,klimadynon,klimadynon,klimadynon,,WIN-NATURAL,,,118.0
+1174596,immusante tab 1*20,,tablet,immusante,immusante 20s,1,immusante,immusante,immusante,,HIMALAYA (ZANDRA),,,80.0
+1174786,plicet tab 1*10,,tablet,plicet,plicet 10s,1,plicet,plicet,plicet,,ERINOME,,,75.0
+1174849,lmontus-abl tab 1*10,,tablet,lmontus abl,lmontus abl 10s,1,lmontus,lmontus,lmontus,,FOURRTS:-[ VIBRANT ],,,229.0
+1175019,myristin tab 1*14,,tablet,myristin,myristin 1 14,1,myristin,myristin,myristin,,WINMARK,,,770.0
+1175118,anxiace-0.25 tab 1*10,,tablet,anxiace 0.25,anxiace 0.25 10s,1,anxiace,anxiace,anxiace,,FOREGEN HEALTHCARE PVT.LTD.,,,23.5
+1175119,anxiace-0.5 tab 1*10,,tablet,anxiace 0.5,anxiace 0.5 10s,1,anxiace,anxiace,anxiace,,FOREGEN HEALTHCARE PVT.LTD.,,,42.0
+1175121,anxiace-s tab 1*10,,tablet,anxiace s,anxiace s 10s,1,anxiace,anxiace,anxiace,,FOREGEN HEALTHCARE PVT.LTD.,,,76.0
+1175143,platoset tab 1*10,,tablet,platoset,platoset 10s,1,platoset,platoset,platoset,,RONYD,,,250.0
+1175144,platoset-ds tab 1*10,,tablet,platoset ds,platoset ds 10s,1,platoset,platoset,platoset,,RONYD,,,360.0
+1175417,addfem tab 1*3,,tablet,addfem,addfem 3s,1,addfem,addfem,addfem,,NOVACHEMLIFE SCIENCE PVT.LTD.,,,123.0
+1175421,calactive tab 1*10,,tablet,calactive,calactive 10s,1,calactive,calactive,calactive,,NOVACHEMLIFE SCIENCE PVT.LTD.,,,179.0
+1175425,enzonorm tab 1*10,,tablet,enzonorm,enzonorm 10s,1,enzonorm,enzonorm,enzonorm,,NOVACHEMLIFE SCIENCE PVT.LTD.,,,229.0
+1175429,ubishine tab 1*10,,tablet,ubishine,ubishine 10s,1,ubishine,ubishine,ubishine,,NOVACHEMLIFE SCIENCE PVT.LTD.,,,519.0
+1175523,rabgit-ace tab 1*10,,tablet,rabgit ace,rabgit ace 10s,1,rabgit,rabgit,rabgit,,STANLEY HEALTHCARE PVT.LTD.,,,97.0
+1175525,stancolin tab 1*10,,tablet,stancolin,stancolin 10s,1,stancolin,stancolin,stancolin,,STANLEY HEALTHCARE PVT.LTD.,,,425.0
+1185793,agpraz tab 1*10,,tablet,agpraz,agpraz 10s,1,agpraz,agpraz,agpraz,,ANG LIFESCIENCES PVT LTD,,,60.0
+1185808,ngflocin tab 1*10,,tablet,ngflocin,ngflocin 10s,1,ngflocin,ngflocin,ngflocin,,ANG LIFESCIENCES PVT LTD,,,55.2
+1186141,tablura 40 tablets 1*10,,tablet,,tabletlura 40s 10s,2,,,,,CIPLA LTD.,,,160.0
+1186143,tablura 80 tablets 1*10,,tablet,,tabletlura 80s 10s,2,,,,,CIPLA LTD.,,,330.0
+1196387,femark tab 1*10,,tablet,femark,femark 10s,1,femark,femark,femark,,DIRECT(UNIMARCK HEALTHCARE LTD.),,,93.0
+1196471,bye-llergy tab 1*10,,tablet,bye llergy,bye llergy 10s,1,bye,bye,bye,,GLENMARK,,,99.0
+1196641,cystone forte tab 1*30,,tablet,cystone forte,cystone forte 30s,1,cystone,cystone,cystone,,HIMALAYA,,,100.0
+1196654,ensist-m tab 1*10,,tablet,ensist m,ensist m 10s,1,ensist,ensist,ensist,,NOVACHEMLIFE SCIENCE PVT.LTD.,,,169.0
+1196663,doxijoy tab 1*10,,tablet,doxijoy,doxijoy 10s,1,doxijoy,doxijoy,doxijoy,,WINMARK,,,55.0
+1197156,lizrox tab 1*10,,tablet,lizrox,lizrox 10s,1,lizrox,lizrox,lizrox,,STANLEY HEALTHCARE PVT.LTD.,,,649.0
+1197565,doxilapreg tab 1*10,,tablet,doxilapreg,doxilapreg 10s,1,doxilapreg,doxilapreg,doxilapreg,,STANLEY HEALTHCARE PVT.LTD.,,,69.0
+1207628,vitagrace tab 1*10,,tablet,vitagrace,vitagrace 10s,1,vitagrace,vitagrace,vitagrace,,STANLEY HEALTHCARE PVT.LTD.,,,135.0
+1207684,prucalpa-2mg tab 1*10,,tablet,prucalpa,prucalpa 2 10s,1,prucalpa,prucalpa,prucalpa,,CIPLA LTD.,,,254.0
+1207963,cinfen+ tab 1*15,,tablet,cinfen+,cinfen+ 15s,1,cinfen+,cinfen+,cinfen+,,MEYER ORGANICS PVT LTD.,,,171.5
+1208010,calacimax-p tab 1*30,,tablet,calacimax p,calacimax p 30s,1,calacimax,calacimax,calacimax,,MEYER ORGANICS PVT LTD.,,,0.0
+1208259,vlasy tab 1*10,,tablet,vlasy,vlasy 10s,1,vlasy,vlasy,vlasy,,STANLEY HEALTHCARE PVT.LTD.,,,189.0
+1208334,platomax tab 1*10,,tablet,platomax,platomax 10s,1,platomax,platomax,platomax,,ALGEN HEALTHCARE,,,350.0
+1209451,tramaset tab 1,,tablet,tramaset,tramaset 1,1,tramaset,tramaset,tramaset,,AAREN HEALTHCARE PVT LTD,,,55.0
+1209564,arthaoff- m tab 1*10,,tablet,arthaoff m,arthaoff m 10s,1,arthaoff,arthaoff,arthaoff,,ERINOME,,,126.0
+1209983,retivis tab 10s,,tablet,retivis,retivis 10s,1,retivis,retivis,retivis,,AJANTA ANSCA,,,0.0
+1210115,mgd-3 tab 1*10,,tablet,mgd,d 3 10s,1,mgd,mgd,mgd,,(PHARMED),,,245.0
+1220135,dezoflow tab 1*10,,tablet,dezoflow,dezoflow 10s,1,dezoflow,dezoflow,dezoflow,,ABBOTT INDIA LIMITED,,,200.0
+1220137,adthyra tab 1*10,,tablet,adthyra,adthyra 10s,1,adthyra,adthyra,adthyra,,KAYRA INNOPHARM,,,298.0
+1220148,febera tab 1*10,,tablet,febera,febera 10s,1,febera,febera,febera,,KAYRA INNOPHARM,,,118.79
+1220156,proteolyse tab 1*10,,tablet,proteolyse,proteolyse 10s,1,proteolyse,proteolyse,proteolyse,,KAYRA INNOPHARM,,,248.0
+1220158,proteolyse forte tab 1*10,,tablet,proteolyse forte,proteolyse forte 10s,1,proteolyse,proteolyse,proteolyse,,KAYRA INNOPHARM,,,437.0
+1220160,serozeal 10 tab 1*10,,tablet,serozeal,serozeal 10 10s,1,serozeal,serozeal,serozeal,,KAYRA INNOPHARM,,,85.0
+1220162,serozeal 20 tab 1*10,,tablet,serozeal,serozeal 20 10s,1,serozeal,serozeal,serozeal,,KAYRA INNOPHARM,,,134.0
+1220164,serozeal 5 tab 1*10,,tablet,serozeal,serozeal 5 10s,1,serozeal,serozeal,serozeal,,KAYRA INNOPHARM,,,48.0
+1220166,serozeal plus tab 1*10,,tablet,serozeal plus,serozeal plus 10s,1,serozeal,serozeal,serozeal,,KAYRA INNOPHARM,,,96.0
+1220168,somaday 40mg tab 1*10,,tablet,somaday,somaday 40 10s,1,somaday,somaday,somaday,,KAYRA INNOPHARM,,,87.0
+1220172,zylosin d tab 1*10,,tablet,zylosin d,zylosin d 10s,1,zylosin,zylosin,zylosin,,KAYRA INNOPHARM,,,238.0
+1220189,thiocon-et tab 10*10,,tablet,thiocon et,thiocon et 10,1,thiocon,thiocon,thiocon,,UNICON LIFESCIENCES,,,285.0
+1220211,cilametxl tab 10/50 1*20,,tablet,cilametxl,cilametxl 10/50 20s,1,cilametxl,cilametxl,cilametxl,,FOREGEN (GENASIA BIOTECH),,,307.0
+1220213,cilametxl tab 10/25 1*20,,tablet,cilametxl,cilametxl 10/25 20s,1,cilametxl,cilametxl,cilametxl,,FOREGEN (GENASIA BIOTECH),,,234.0
+1220807,socril tab 1*10,,tablet,socril,socril 10s,1,socril,socril,socril,,SUN PHARMA CLASSIC,,,149.0
+1220858,adiver tab 1*10,,tablet,adiver,adiver 10s,1,adiver,adiver,adiver,,KAYRA INNOPHARM,,,877.0
+1221016,vucol-lc tab 1*10,,tablet,vucol lc,vucol lc 10s,1,vucol,vucol,vucol,,ALGEN HEALTHCARE,,,123.0
+1221226,nik-clav-lb-625 tab 1*6,,tablet,nik clav lb,nik clav lb 625 6s,1,nik clav,nik,nik,,ALGEN HEALTHCARE,,,160.0
+1221228,denol-p tab 1*10,,tablet,denol p,denol p 10s,1,denol,denol,denol,,ALGEN HEALTHCARE,,,109.0
+1221937,endonok tab 1*10,,tablet,endonok,endonok 10s,1,endonok,endonok,endonok,,SERUM INSTITUTE OF INDIA,,,480.0
+1222225,vitoz tab 1*10,,tablet,vitoz,vitoz 10s,1,vitoz,vitoz,vitoz,,CURITON LIFE SCIENCES PVT. LTD.,,,115.0
+1222848,pantawock-40 tab 1*10,,tablet,pantawock,pantawock 40 10s,1,pantawock,pantawock,pantawock,,MEDWOCK PHARMACEUTICALS,,,90.0
+1232959,myoactive tab 1*10,,tablet,myoactive,myoactive 10s,1,myoactive,myoactive,myoactive,,FOURRTS PREMIERE DIABETO,,,190.0
+1233023,nikacef-375 tab 1*10,,tablet,nikacef,nikacef 375 10s,1,nikacef,nikacef,nikacef,,ALGEN HEALTHCARE,,,460.0
+1233310,acefile-p tab 1*10,,tablet,acefile p,acefile p 10s,1,acefile,acefile,acefile,,(AJANTA),,,66.25
+1233362,phycopure tab 1*30,,tablet,phycopure,phycopure 30s,1,phycopure,phycopure,phycopure,,STANLEY HEALTHCARE PVT.LTD.,,,2990.0
+1233373,itralase-200mg tab 1*10,,tablet,itralase,itralase 200 10s,1,itralase,itralase,itralase,,CIPLA ( IMPULSE-2 ),,,331.42
+1233816,myoceive+1.1g tab 1*10,,tablet,myoceive+1.1g,myoceive+1.1g 10s,1,myoceive+1.1g,myoceive+1.1g,myoceive+1.1g,,DR.REDDY^S LABORATORIES LTD.,,,290.0
+1233833,ucjoint tab 1*10,,tablet,ucjoint,ucjoint 10s,1,ucjoint,ucjoint,ucjoint,,WINMARK,,,335.0
+1233843,cipvir-200 mg  tab 1*10,,tablet,cipvir,cipvir 200 10s,1,cipvir,cipvir,cipvir,,CIPLA-( VITALIS-1 ),,,450.0
+1233917,immugard-c tab 1*10s,,tablet,immugard c,immugard c 1 10s,1,immugard,immugard,immugard,,ARISTO MF-1,,,75.0
+1234154,wheatgrass tab 1*60,,tablet,wheatgrass,wheatgrass 60s,1,wheatgrass,wheatgrass,wheatgrass,,B B LABORATORIES,,,325.0
+1234517,aqua-d3-60k 4 tab,,tablet,aqua d3 60k,aqua d3 60k 4,1,aqua d3,aqua,aqua,,WINMARK,,,130.0
+1234680,natozyme tab 1*10,,tablet,natozyme,natozyme 10s,1,natozyme,natozyme,natozyme,,AJANTA MEXLON,,,65.0
+1234789,duphalac chews tab 1,,tablet,duphalac chews,duphalac chews 1,1,duphalac,duphalac,duphalac,,ABBOTT INDIA LIMITED,,,270.0
+1234834,fozol tab 1*10,,tablet,fozol,fozol 10s,1,fozol,fozol,fozol,,FAITH PHARMACEUTICALS LTD,,,110.0
+1234840,mfg-1 tab 1*10,,tablet,mfg,mfg 1 10s,1,mfg,mfg,mfg,,FAITH PHARMACEUTICALS LTD,,,110.0
+1234841,mfg-2 tab 1*10,,tablet,mfg,mfg 2 10s,1,mfg,mfg,mfg,,FAITH PHARMACEUTICALS LTD,,,120.0
+1234849,synergesic-3 tab 1*10,,tablet,synergesic,synergesic 3 10s,1,synergesic,synergesic,synergesic,,FAITH PHARMACEUTICALS LTD,,,100.0
+1245006,lenangio 10mg tab 1*10,,tablet,lenangio,lenangio 10 10s,1,lenangio,lenangio,lenangio,,DR.REDDY^S LABORATORIES LTD.,,,1013.0
+1245227,predi-q tab 1*10,,tablet,predi q,predi q 10s,1,predi,predi,predi,,CURITON LIFE SCIENCES PVT. LTD.,,,63.3
+1245552,tenegood-20 tab 1*10,,tablet,tenegood,tenegood 20 10s,1,tenegood,tenegood,tenegood,,FOREGEN HEALTHCARE PVT.LTD.,,,119.75
+1245571,actigold tab 1*10,,tablet,actigold,actigold 10s,1,actigold,actigold,actigold,,LIFEMED HEALTHCARE,,,169.9
+1245584,rutosite-ds tab 1*10,,tablet,rutosite ds,rutosite ds 10s,1,rutosite,rutosite,rutosite,,LIFEMED HEALTHCARE,,,399.9
+1245712,kvalitet tab 1*10,,tablet,kvalitet,kvalitet 10s,1,kvalitet,kvalitet,kvalitet,,EXTIMUS HEALHCARE,,,888.0
+1245732,myofatige tab 1*10,,tablet,myofatige,myofatige 10s,1,myofatige,myofatige,myofatige,,FOURRTS PERMIERE GASTRO,,,207.0
+1246534,zenace-p tab 1*10,,tablet,zenace p,zenace p 10s,1,zenace,zenace,zenace,,ZENO HEALTH CARE,,,199.0
+1246546,cilametxl tab 10/50 1*15,,tablet,cilametxl,cilametxl 10/50 15s,1,cilametxl,cilametxl,cilametxl,,(AJANTA),,,307.0
+1246548,cilametxl tab 10/25 1*20,,tablet,cilametxl,cilametxl 10/25 20s,1,cilametxl,cilametxl,cilametxl,,(AJANTA),,,234.0
+1246663,zyvilda-50 tab 1*10,,tablet,zyvilda,zyvilda 50 10s,1,zyvilda,zyvilda,zyvilda,,THREE DOTS,,,120.0
+1246701,teleout-c tab 1*10,,tablet,teleout c,teleout c 10s,1,teleout,teleout,teleout,,FOREGEN (GENASIA BIOTECH),,,97.9
+1246911,voglibite gm-1/0.2 tab 1*10,,tablet,voglibitegm 1/0.2,voglibite 1/0.2 10s,1,voglibitegm,voglibitegm,voglibitegm,,CORONA:-(RADIANCE),,,115.1
+1246912,voglibite gm-2/0.2 tab 1*10,,tablet,voglibitegm 2/0.2,voglibite 2/0.2 10s,1,voglibitegm,voglibitegm,voglibitegm,,CORONA:-(RADIANCE),,,132.8
+1247264,dosin tab 1*10,,tablet,dosin,dosin 10s,1,dosin,dosin,dosin,,CORONA:- (XEMX),,,242.0
+1247318,briv+ tab 50mg 1*10,,tablet,briv+,briv+ 50 10s,1,briv+,briv+,briv+,,DR.REDDY^S LABORATORIES LTD.,,,140.0
+1247359,ultra d-3 4-k tab 1*15,,tablet,ultra d 3 4 k,ultra d 3 4 k 15s,1,ultra d 3 4,ultra d 3,ultra d,,MEYER ORGANICS PVT LTD.,,,175.0
+1247507,ezeeflame-sp tab 1*10,,tablet,ezeeflame sp,ezeeflame sp 10s,1,ezeeflame,ezeeflame,ezeeflame,,CURITON LIFE SCIENCES PVT. LTD.,,,109.0
+1247560,muciflo tab 1*10,,tablet,muciflo,muciflo 10s,1,muciflo,muciflo,muciflo,,ARISTO MF-1,,,160.0
+1247928,fnt tab 1*10,,tablet,fnt,fnt 10s,1,fnt,fnt,fnt,,FAITH PHARMACEUTICALS LTD,,,180.0
+1248342,noctura tab 1*10,,tablet,noctura,noctura 10s,1,noctura,noctura,noctura,,FOURRTS:-[ SP. ],,,47.0
+1248349,leside tab 1*10,,tablet,leside,leside 10s,1,leside,leside,leside,,ROSA LIFESCIENCES,,,85.0
+1248431,rtclear tab 1*10,,tablet,rtclear,rtclear 10s,1,rtclear,rtclear,rtclear,,SUN PHARMA=[ PHARMA ],,,209.0
+1248433,trikatu tab 1*60,,tablet,trikatu,trikatu 60s,1,trikatu,trikatu,trikatu,,HIMALAYA,,,180.0
+1248439,platenza tab 3*20,,tablet,platenza,platenza 3 20,1,platenza,platenza,platenza,,HIMALAYA (ZANDRA),,,120.0
+1248773,otern tab 1*14,,tablet,otern,otern 1 14,1,otern,otern,otern,,(ASTRA ZENECA),,,812.0
+1248807,tendoease tab 1*10,,tablet,tendoease,tendoease 10s,1,tendoease,tendoease,tendoease,,MEYER ORGANICS PVT LTD.,,,236.0
+1248815,lebatens tab 1*10,,tablet,lebatens,lebatens 10s,1,lebatens,lebatens,lebatens,,MEYER ORGANICS PVT LTD.,,,197.0
+1248820,vitapanto tab 1*10,,tablet,vitapanto,vitapanto 10s,1,vitapanto,vitapanto,vitapanto,,VITABOLIK PHARMACEUTICAL,,,99.0
+1248944,dydrohope tab 1*10,,tablet,dydrohope,dydrohope 10s,1,dydrohope,dydrohope,dydrohope,,CORONA REMEDIES,,,490.0
+5003,abana tab 1*60,,tablet,abana,abana 60s,1,abana,abana,abana,,HIMALAYA (ZANDRA),,,140.0
+5271,bronchosolvin tab 1*10,,tablet,bronchosolvin,bronchosolvin 10s,1,bronchosolvin,bronchosolvin,bronchosolvin,,IPCA=( PHARMA NEXT),,,22.0
+5398,celedol 100mg tab 1*10,,tablet,celedol,celedol 100 10s,1,celedol,celedol,celedol,,IPCA=( IPM ),,,20.0
+5399,celedol 200mg tab 1*10,,tablet,celedol,celedol 200 10s,1,celedol,celedol,celedol,,IPCA=( IPM ),,,25.0
+5558,confido tab 60^s,,tablet,confido,confido 60 s,1,confido,confido,confido,,HIMALAYA,,,170.0
+5604,cystone tab 1*60,,tablet,cystone,cystone 60s,1,cystone,cystone,cystone,,HIMALAYA,,,135.0
+5642,diabecon tab 1*60,,tablet,diabecon,diabecon 60s,1,diabecon,diabecon,diabecon,,HIMALAYA (ZANDRA),,,140.0
+5649,diarex tab 1*30,,tablet,diarex,diarex 30s,1,diarex,diarex,diarex,,HIMALAYA,,,90.0
+5935,gasex tab 1*100,,tablet,gasex,gasex 1 100,1,gasex,gasex,gasex,,HIMALAYA,,,160.0
+5945,geriforte tab 1*100,,tablet,geriforte,geriforte 1 100,1,geriforte,geriforte,geriforte,,HIMALAYA (ZANDRA),,,170.0
+6024,herbolax tab. 1*100,,tablet,herbolax,herbolax 1 100,1,herbolax,herbolax,herbolax,,HIMALAYA,,,135.0
+6147,koflet tab 1*10,,tablet,koflet,koflet 10s,1,koflet,koflet,koflet,,HIMALAYA,,,20.0
+6166,larither tab 1*6,,tablet,larither,larither 6s,1,larither,larither,larither,,IPCA=( INTIMA ),,,130.0
+6248,lukol tab 1*60,,tablet,lukol,lukol 60s,1,lukol,lukol,lukol,,HIMALAYA (ZANDRA),,,180.0
+6295,maganor tab 1*10,,tablet,maganor,maganor 10s,1,maganor,maganor,maganor,,ALKEM-(ARISE),,,53.7
+6308,mentat tab 1*60,,tablet,mentat,mentat 60s,1,mentat,mentat,mentat,,HIMALAYA,,,130.0
+6597,pilex forte tab 1*30,,tablet,pilex forte,pilex forte 30s,1,pilex,pilex,pilex,,HIMALAYA,,,90.0
+6598,pilex tab 60^s,,tablet,pilex,pilex 60 s,1,pilex,pilex,pilex,,HIMALAYA,,,150.0
+6654,purim tab 60^s,,tablet,purim,purim 60 s,1,purim,purim,purim,,HIMALAYA,,,120.0
+6811,rumalaya tab 60^s,,tablet,rumalaya,rumalaya 60 s,1,rumalaya,rumalaya,rumalaya,,HIMALAYA,,,120.0
+6838,septilin tab 1*60,,tablet,septilin,septilin 60s,1,septilin,septilin,septilin,,HIMALAYA,,,165.0
+6851,serpina tab 1*100,,tablet,serpina,serpina 1 100,1,serpina,serpina,serpina,,HIMALAYA (ZANDRA),,,120.0
+6918,speman tab 1*60,,tablet,speman,speman 60s,1,speman,speman,speman,,HIMALAYA (ZANDRA),,,145.0
+6950,styplon tab 1*30,,tablet,styplon,styplon 30s,1,styplon,styplon,styplon,,HIMALAYA (ZANDRA),,,120.0
+7020,tentex forte tab 1*10,,tablet,tentex forte,tentex forte 10s,1,tentex,tentex,tentex,,HIMALAYA,,,100.0
+7326,ocurax 400 tab 1*5,,tablet,ocurax,ocurax 400 5s,1,ocurax,ocurax,ocurax,,IPCA=( BIONOVA ),,,52.45
+7696,malenda tab 1*10,,tablet,malenda,malenda 10s,1,malenda,malenda,malenda,,DELCURE LIFESCIENCES LTD.,,,172.75
