@@ -34,7 +34,7 @@ def wrapper(dist_name):
     ################ Directory where input file is stored and output files will be saved ################
     #####################################################################################################
     
-    #os.chdir('/Arun/_SelfLearn/Mapping/')
+    os.chdir('../Output/')
     #os.chdir('/Arun/_SelfLearn/Mapping/')
     print('dist_name:',dist_name)
     inputdata=dist_name+"_data.csv"
@@ -44,9 +44,9 @@ def wrapper(dist_name):
     
     #####################################################################################################
     #df_master = pd.read_csv('drug_master2.csv') 
-    df_master = pd.read_csv('latest_master.csv', encoding='ISO-8859-1') # Updated Master Data with sku for all
+    df_master = pd.read_csv('../Master Mappings/latest_master.csv', encoding='ISO-8859-1') # Updated Master Data with sku for all
     #df_distributor = pd.read_csv('distributor_data.csv') # New Distributor data to be mapped
-    df_distributor = pd.read_csv('BinayRequest.csv', encoding='ISO-8859-1') # New Distributor data to be mapped
+    df_distributor = pd.read_csv('../Datasets/BinayRequest.csv', encoding='ISO-8859-1') # New Distributor data to be mapped
     #df_distributor = df_distributor[['item_code', 'brand', 'pack', 'manufacturer', 'catg', 'subcatg', 'mrp']]
     
     # Required Schema of Distributor Data - ['item_code', 'brand', 'pack', 'manufacturer', 'catg', 'subcatg', 'mrp']
@@ -269,6 +269,22 @@ def wrapper(dist_name):
          '400g':['1x400g'],
          '500g':['1x500g']
     }
+
+    #### Historical Mapping
+    historical_map = pd.read_csv('../historical_mapping/hist_map_latest.csv')
+    historical_map = historical_map[['item_code','brand_x', 'brand_y', 'drug_master_id']]
+
+    historical_map['brand_x'] = historical_map['brand_x'].str.lower()
+    df_distributor['brand'] = df_distributor['brand'].str.lower()
+
+    final = pd.merge(df_distributor, historical_map, how='left', left_on=['brand'],right_on=['brand_x'])
+    final_mapped = final[final['brand_y'].notnull()].reset_index(drop = True)
+    print("Historical mappings: ",final_mapped.shape[0])
+
+    final = final[final['brand_x'].isnull()].reset_index(drop = True)
+    final = final[['item_code_x', 'brand', 'pack', 'manufacturer', 'catg', 'subcatg', 'mrp','Master Catalogue name']]
+    final = final.rename(columns = {'item_code_x':'item_code'})
+    df_distributor = final.copy()
     
     ####### Concat Logic New #########
 
