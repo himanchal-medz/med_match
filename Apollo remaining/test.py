@@ -271,8 +271,13 @@ def wrapper(dist_name):
     }
     
     #### Historical Mapping
-    historical_map = pd.read_csv('../historical_mapping/hist_map_latest.csv')
-    historical_map = historical_map[['item_code','brand_x', 'brand_y', 'drug_master_id']]
+    historical_map_1 = pd.read_csv('../historical_mapping/hist_map_latest.csv')
+    historical_map_1 = historical_map_1[['item_code','brand_x', 'brand_y', 'drug_master_id']]
+
+    historical_map_2 = pd.read_csv('../historical_mapping/hist_map_2.csv')
+    historical_map_2 = historical_map_2[['item_code','brand_x', 'brand_y', 'drug_master_id']]
+
+    historical_map = pd.concat([historical_map_1, historical_map_2])
 
     historical_map['brand_x'] = historical_map['brand_x'].str.lower()
     df_distributor['brand'] = df_distributor['brand'].str.lower()

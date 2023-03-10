@@ -1,36 +1,1299 @@
 item_code,brand,Master Catalogue name,medicine_type,exp_sku_brand,mod_brand,count_cap,exp_sku_brand2,exp_sku_brand3,exp_sku_brand4,pack,manufacturer,catg,subcatg,mrp
-31147,fandcal cap 10c,,capsule,fandcal,fandcal 10c,1,fandcal,fandcal,fandcal,10c,FRIENDCURE PHARMACEUTICAL,,,89.0
-16303,pantotix ls cap 10c,,capsule,pantotix ls,pantotix ls 10c,1,pantotix,pantotix,pantotix,10c,AVTIX HEALTHCARE,,,160.0
-16302,pantotix dsr cap 10c,,capsule,pantotix dsr,pantotix dsr 10c,1,pantotix,pantotix,pantotix,10c,AVTIX HEALTHCARE,,,118.8
-16296,lycotel gold cap 10c,,capsule,lycotel gold,lycotel gold 10c,1,lycotel,lycotel,lycotel,10c,AVTIX HEALTHCARE,,,324.12
-30605,domshine cap 10s,,capsule,domshine,domshine 10s,1,domshine,domshine,domshine,10s,MEDSHINE PHARMACEUTICALS,,,120.0
-360530177,foliclyf cap 10s,,capsule,foliclyf,foliclyf 10s,1,foliclyf,foliclyf,foliclyf,10s,PANZIN HEALTHCARE PVT.LTD,,,170.0
-15288,sevenseas cod liver oil cap 100c,,capsule,sevenseas cod liver oil,sevenseas cod liver oil 100c,1,sevenseas cod liver,sevenseas cod,sevenseas,100c,PROCTER AND GAMBLE HEALTHCARE LTD,,,351.0
-28398,nillbloc vapo cap 10s,,capsule,nillbloc vapo,nillbloc vapo 10s,1,nillbloc,nillbloc,nillbloc,10s,INSUTIK PHARMACEUTICALS PVT.LT,,,60.0
-28216,pebivast dsr cap 10c,,capsule,pebivast dsr,pebivast dsr 10c,1,pebivast,pebivast,pebivast,10c,RLV LIFE SCIENCES PVT. LTD.,,,148.0
-28207,tacgov 0.5 cap 6c,,capsule,tacgov 0.5,tacgov 0.5 6c,1,tacgov,tacgov,tacgov,6c,RLV LIFE SCIENCES PVT. LTD.,,,232.0
-28208,tacgov 1.0 cap 10c,,capsule,tacgov 1.0,tacgov 1.0 10c,1,tacgov,tacgov,tacgov,10c,RLV LIFE SCIENCES PVT. LTD.,,,442.0
-25163,actpro cap 10s,,capsule,actpro,actpro 10s,1,actpro,actpro,actpro,10s,ACCUFFY LIFESCIENCES,,,219.7
-28411,deliriz-dsr cap 10s,,capsule,deliriz dsr,deliriz dsr 10s,1,deliriz,deliriz,deliriz,10s,INSUTIK PHARMACEUTICALS PVT.LT,,,100.0
-28953,ovitazin 5g cap 10s,,capsule,ovitazin 5g,ovitazin 5g 10s,1,ovitazin,ovitazin,ovitazin,10s,PANZIN HEALTHCARE PVT.LTD,,,0.0
-28955,panarazol-d cap 10s,,capsule,panarazol d,panarazol d 10s,1,panarazol,panarazol,panarazol,10s,PANZIN HEALTHCARE PVT.LTD,,,0.0
-21845,knee cap tynor 1c,,capsule,knee,knee tynor 1c,1,knee,knee,knee,1c,TYNOR LTD,,,325.0
-29989,oxysite cap 10s,,capsule,oxysite,oxysite 10s,1,oxysite,oxysite,oxysite,10s,NEOMEDIX HEALTHCARE LTD.,,,240.0
-29710,escigress l cap 10s,,capsule,escigress l,escigress l 10s,1,escigress,escigress,escigress,10s,LA RENON HEALTHCARE,,,245.0
-28593,pentomek-l cap 10c,,capsule,pentomek l,pentomek l 10c,1,pentomek,pentomek,pentomek,10c,SUNMECK PHARMA PRIVATE LIMITED,,,225.0
-22509,zerogerd dsr cap 10c,,capsule,zerogerd dsr,zerogerd dsr 10c,1,zerogerd,zerogerd,zerogerd,10c,MEDSTRY BIOTECH,,,119.0
-27329,vebdom sr cap 10s,,capsule,vebdom,vebdom 10s,1,vebdom,vebdom,vebdom,10s,VEBLEN PHARMACEUTICAL PVT. LTD,,,109.0
-28389,clotik-it 200mg cap 10s,,capsule,clotik it,clotik it 200 10s,1,clotik,clotik,clotik,10s,INSUTIK PHARMACEUTICALS PVT.LT,,,210.0
-4097,oxitard cap 10c,,capsule,oxitard,oxitard 10c,1,oxitard,oxitard,oxitard,10c,HIMALAYA DRUG CO.,,,90.0
-17866,panotix dsr cap 10c,,capsule,panotix dsr,panotix dsr 10c,1,panotix,panotix,panotix,10c,AVTIX HEALTHCARE,,,118.8
-3983,punarnava cap 60c,,capsule,punarnava,punarnava 60c,1,punarnava,punarnava,punarnava,60c,HIMALAYA DRUG CO.,,,215.63
-86731153,alfoo d cap 10c,,capsule,alfoo d,alfoo d 10c,1,alfoo,alfoo,alfoo,10c,DR. REDDY LABORATORIES LTD,,,358.25
-29947,endulast tm cap 15s,,capsule,endulast tm,endulast tm 15s,1,endulast,endulast,endulast,15s,TRUHEALTHY LLP,,,399.0
-29709,escigress d cap 10s,,capsule,escigress d,escigress d 10s,1,escigress,escigress,escigress,10s,LA RENON HEALTHCARE,,,129.0
-28592,pentomek-dsr cap 10c,,capsule,pentomek dsr,pentomek dsr 10c,1,pentomek,pentomek,pentomek,10c,SUNMECK PHARMA PRIVATE LIMITED,,,115.0
-29946,recosar tm cap 15 c,,capsule,recosar tm,recosar tm 15 c,1,recosar,recosar,recosar,15 c,TRUHEALTHY LLP,,,1199.0
-27103,truceprol cap 10c,,capsule,truceprol,truceprol 10c,1,truceprol,truceprol,truceprol,10c,TORRENT,,,290.1
-28171,xycotol cap 10c,,capsule,xycotol,xycotol 10c,1,xycotol,xycotol,xycotol,10c,YTILIGA PHARMACEUTICALS,,,135.0
-4792,vh-3 vaginal cap 3c,,capsule,vh 3 vaginal,vh 3 vaginal 3c,1,vh 3,vh,vh,3c,SYSTOPIC,,,93.0
-6314,topp d cap 10c,,capsule,topp d,topp d 10c,1,topp,topp,topp,10c,SYSTOPIC,,,56.0
-30787,sonax 75 cap 15s,,capsule,sonax,sonax 75 15s,1,sonax,sonax,sonax,15s,ERIS PHARMA,,,247.74
+2DK0001,2d knee cap large (vissco),,capsule,2d knee,2d knee large vissco,1,2d,2d,2d,1,VIS-VISSCO REHABILITATION AIDS,,,430.0
+2DK0002,2d knee cap xl (vissco),,capsule,2d knee,2d knee vissco,1,2d,2d,2d,1,VIS-VISSCO REHABILITATION AIDS,,,470.0
+3030001,303 cap 10's,,capsule,,303 10s,1,,,,10,ADONIS LABORATORIES PVT LTD,,,0.0
+9LP0001,9 l-plus softgel cap 10's,,capsule,9 l plus softgel,9 l plus softgel 10s,1,9 l plus,9 l,9,10,SINAG HEALTHCARE PVT LTD,,,19.99
+9MF0002,9 m fol-d cap 10's,,capsule,9 m fol d,9 m fol d 10s,1,9 m fol,9 m,9,10,UNIWELL MEDICARE PVT LTD,,,13.0
+AAY0003,aayush ayur madhu cap 60's (ayur),,capsule,aayush ayur madhu,aayush ayur madhu 60s,1,aayush ayur,aayush,aayush,1,AYUR ASHRAMA PHARMACEUTICALS,,,380.0
+ACB0024,acb 100 cap 15's (chemo),,capsule,acb,acb 100 15s chemo,1,acb,acb,acb,15,CHEMO BIOLOGICAL LTD,,,8.0
+ACE0639,acekumin pure gold cap 30's,,capsule,acekumin pure gold,acekumin pure gold 30s,1,acekumin pure,acekumin,acekumin,1,ADONIS LABORATORIES PVT LTD,,,780.0
+ACI0200,acidozen cap. zlp,,capsule,acidozen,acidozen zlp,1,acidozen,acidozen,acidozen,1,ZENLABS INDIA,,,78.0
+ACN0034,acnovin cap 10's,,capsule,acnovin,acnovin 10s,1,acnovin,acnovin,acnovin,10,VASU HEALTHCARE PVT.LTD.,,,3.5
+ACT0153,activit cap,,capsule,activit,activit capsule,1,activit,activit,activit,10,3M INDIA LTD,,,10.9
+ACT0174,actived cap 10's,,capsule,actived,actived 10s,1,actived,actived,actived,10,STEADFAST MEDISHIELD PVT LTD,,,10.0
+ACT0333,actis heal cap,,capsule,actis heal,actis heal capsule,1,actis,actis,actis,1,MONATIS HEALTHCARE,,,444.0
+ADH0032,adheron cap 60's (innocon),,capsule,adheron,adheron 60s innocon,1,adheron,adheron,adheron,1,INNOCENT PHARMA LTD,,,285.0
+ADI0189,adipostat gold cap 10's,,capsule,adipostat gold,adipostat gold 10s,1,adipostat,adipostat,adipostat,10,VASU HEALTHCARE PVT.LTD.,,,15.3
+ADI0202,adipostat asp 10/75 cap 10's,,capsule,adipostat asp 10/75,adipostat asp 10/75 10s,1,adipostat asp,adipostat,adipostat,10,VASU ORGANICS PVT LTD,,,7.62
+ADU0055,aduvit cap 10's (adusuns),,capsule,aduvit,aduvit 10s adusuns,1,aduvit,aduvit,aduvit,10,ADUSUNS  MEDICARE,,,4.8
+AGN0002,agnine  caps,,capsule,agnine,agnine capsule,1,agnine,agnine,agnine,1,ADONIS LABORATORIES PVT LTD,,,11.9
+AKA0004,akash forte cap 10's,,capsule,akash forte,akash forte 10s,1,akash,akash,akash,10,DUMMY,,,25.0
+ALA0097,alakzar cap 20's (perseus),,capsule,alakzar,alakzar 20s perseus,1,alakzar,alakzar,alakzar,1,PERSEUS BIOTECH,,,180.0
+ALD0122,alder vit-e-400 softgel cap 10's,,capsule,alder vit e 400 softgel,alder vit e 400 softgel 10s,1,alder vit e 400,alder vit e,alder vit,10,ALDER BIOCHEM PVT LTD,,,4.2
+ALE0040,alert cap,,capsule,alert,alert capsule,1,alert,alert,alert,1,ABBOTT LABORATORIES,,,4.0
+ALF0008,alfapsin cap 10's (hetero),,capsule,alfapsin,alfapsin 10s hetero,1,alfapsin,alfapsin,alfapsin,10,HETERO HEALTHCARE LTD,,,12.0
+ALK0086,alka plus cap 10's,,capsule,alka plus,alka plus 10s,1,alka,alka,alka,10,DUMMY,,,8.33
+ALO0068,aleos compound 50's cap,,capsule,aleos compound 50s,aleos compound 50s capsule,1,aleos compound,aleos,aleos,1,ALARSIN PHARMACEUTICALS LTD,,,0.83
+AMO0050,amorex cap,,capsule,amorex,amorex capsule,1,amorex,amorex,amorex,9,AYURCHEM PRODUCTS,,,6.44
+AMR0006,amrutanjan decorn corn caps 4's,,capsule,amrutanjan decorn corn,amrutanjan decorn corn 4s,1,amrutanjan decorn,amrutanjan,amrutanjan,1,AMRUTANJAN HEALTH CARE LIMITED,,,30.0
+AMR0121,amrita cap 10's,,capsule,amrita,amrita 10s,1,amrita,amrita,amrita,10,SAI-SAIRAM REMEDIES,,,3.0
+ANC0080,ancare cap 10's (vital),,capsule,ancare,ancare 10s vital,1,ancare,ancare,ancare,10,VITAL CARE PVT LTD,,,5.0
+ANT0385,antanil cap 10's (imis pharma),,capsule,antanil,antanil 10s imis pharma,1,antanil,antanil,antanil,10,IMIS PHARMA,,,5.4
+APA0060,ap amla capsule 60s,,capsule,ap amla,ap aa 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,130.0
+APA0080,ap arjuna  caps 60s,,capsule,ap arjuna,ap arjuna 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APB0027,ap brahmi capsules  60s,,capsule,ap brahmi,ap brahmi 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,95.0
+APC0044,ap corn cap,,capsule,ap corn,ap corn capsule,1,ap,ap,ap,1,SAT JINDA KALYANA PHARMACY,,,28.0
+APC0049,ap cod liver capsules 100's,,capsule,ap cod liver,ap cod liver 100s,1,ap cod,ap,ap,1,JYOTI CAPSULATIONS PVT LTD,,,225.0
+APD0058,ap detox capsules 30's,,capsule,ap detox,ap detox 30s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,250.0
+APE0042,ap evening primrose oil caps 30s,,capsule,ap evening primrose oil,ap evening primrose oil 30s,1,ap evening primrose,ap evening,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,399.0
+APE0048,apex-gel heel cap,,capsule,apex gel heel,apex gel heel capsule,1,apex gel,apex,apex,1,APEX LABORATORIES LTD,,,690.0
+APE0057,ap expert omega 3-6-9 flaxseed oil softgel cap 30's,,capsule,ap expert omega 3 6 9 flaxseed oil softgel,ap expert omega 3 6 9 flaxseed oil softgel 30s,1,ap expert omega 3 6 9 flaxseed oil,ap expert omega 3 6 9 flaxseed,ap expert omega 3 6 9,1,APOLLO HOSPITALS ENTERPRIS LTD,,,299.0
+APE0058,ap expert garlic oil softgel cap 100's,,capsule,ap expert garlic oil softgel,ap expert garlic oil softgel 100s,1,ap expert garlic oil,ap expert garlic,ap expert,1,APOLLO HOSPITALS ENTERPRIS LTD,,,100.0
+APE0059,ap expert cod liver oil 300mg softgel cap 100's,,capsule,ap expert cod liver oil,ap expert cod liver oil 300 softgel 100s,1,ap expert cod liver,ap expert cod,ap expert,1,APOLLO HOSPITALS ENTERPRIS LTD,,,225.0
+APF0022,ap fat burner 60's caps,,capsule,ap fat burner 60s,ap fat burner 60s capsule,1,ap fat burner,ap fat,ap,1,SURYA HERBAL LTD,,,400.0
+APF0023,ap forskolin  60's caps,,capsule,ap forskolin 60s,ap forskolin 60s capsule,1,ap forskolin,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,499.0
+APF0045,ap flakseed oil omega 3-6-9 1000mg (30 cap),,capsule,ap flakseed oil omega 3 6 9,ap flakseed oil omega 3 6 9 1000 30 capsule,1,ap flakseed oil omega 3 6,ap flakseed oil omega 3,ap flakseed oil omega,1,3M INDIA LTD,,,299.0
+APG0004,ap garlic cap,,capsule,ap garlic,ap garlic capsule,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,95.0
+APG0046,ap guggulu caps 60s,,capsule,ap guggulu,ap guggulu 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APG0049,ap grape seed extract 60's cap,,capsule,ap grape seed extract 60s,ap grape seed extract 60s capsule,1,ap grape seed extract,ap grape seed,ap grape,1,APOLLO HOSPITALS ENTERPRIS LTD,,,395.0
+APG0050,ap ginseng root extract 400 mg 30's caps,,capsule,ap ginseng root extract,ap ginseng root extract 400 30s capsule,1,ap ginseng root,ap ginseng,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,375.0
+APG0057,ap garcinia cambogia caps 60's,,capsule,ap garcinia cambogia,ap garcinia cambogia 60s,1,ap garcinia,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,395.0
+APH0040,aphroda cap,,capsule,aphroda,aphroda capsule,1,aphroda,aphroda,aphroda,1,PINK INDIA LIFE SCIENCES LID,,,6.73
+APK0001,ap karela capsules 60n,,capsule,ap karela,ap karela 60n,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APK0002,ap karela cap 60's,,capsule,ap karela,ap karela 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APL0067,ap life ashwagandha extract cap 30's,,capsule,ap life ashwagandha extract,ap life ashwagandha extract 30s,1,ap life ashwagandha,ap life,ap,1,DHARMANI'S INTERNATIONAL,,,500.0
+APL0068,ap life turmeric curcumin 500mg cap 30's,,capsule,ap life turmeric curcumin,ap life turmeric curcumin 500 30s,1,ap life turmeric,ap life,ap,1,DHARMANI'S INTERNATIONAL,,,500.0
+APM0021,ap musli plus cap 30's,,capsule,ap musli plus,ap musli plus 30s,1,ap musli,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,699.0
+APM0051,ap multivitamin women veg. softgel cap 10's,,capsule,ap multivitamin women veg. softgel,ap multivitamin women veg. softgel 10s,1,ap multivitamin women veg.,ap multivitamin women,ap multivitamin,10,ELNOVA PHARMA,,,10.0
+APM0052,ap multivitamin men veg. softgel cap 10's,,capsule,ap multivitamin men veg. softgel,ap multivitamin men veg. softgel 10s,1,ap multivitamin men veg.,ap multivitamin men,ap multivitamin,10,ELNOVA PHARMA,,,10.0
+APM0058,ap musli plus cap 20's,,capsule,ap musli plus,ap musli plus 20s,1,ap musli,ap,ap,1,DHARMANI'S INTERNATIONAL,,,399.0
+APN0001,ap neem cap,,capsule,ap neem,ap neem capsule,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APO0057,ap omega 3-6-9 non veg softgel 1000mg cap 30's,,capsule,ap omega 3 6 9 non veg softgel,ap omega 3 6 9 non veg softgel 1000 30s,1,ap omega 3 6 9 non veg,ap omega 3 6 9 non,ap omega 3 6 9,1,APOLLO HOSPITALS ENTERPRIS LTD,,,299.0
+APO0088,ap omega 3-6-9 veg softgel 1000mg cap 30's,,capsule,ap omega 3 6 9 veg softgel,ap omega 3 6 9 veg softgel 1000 30s,1,ap omega 3 6 9 veg,ap omega 3 6 9,ap omega 3 6,1,JYOTI CAPSULATIONS PVT LTD,,,299.0
+APO0120,ap organic spirulina cap 60's,,capsule,ap organic spirulina,ap organic spirulina 60s,1,ap organic,ap,ap,1,DHARMANI'S INTERNATIONAL,,,300.0
+APP0143,app d3 60k softgel cap 4's,,capsule,app d3 60k softgel,app d3 60k softgel 4s,1,app d3 60k,app d3,app,4,APPLE LIFE SCIENCES LTD,,,21.25
+APP0155,ap pre & probiotic cap 10's,,capsule,ap pre & probiotic,ap pre & probiotic 10s,1,ap pre &,ap pre,ap,10,APOLLO HOSPITALS ENTERPRIS LTD,,,10.0
+APS0045,ap spirulina cap 60s,,capsule,ap spirulina,ap spirulina 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,150.0
+APS0054,ap shilajeet cap 30s,,capsule,ap shilajeet,ap shilajeet 30s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,160.0
+APS0055,ap shallaki caps 60s,,capsule,ap shallaki,ap shallaki 60s,1,ap,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APS0090,ap shilajit gold plus cap 20's,,capsule,ap shilajit gold plus,ap shilajit gold plus 20s,1,ap shilajit gold,ap shilajit,ap,1,DHARMANI'S INTERNATIONAL,,,399.0
+APT0058,ap turmeric curcumin capsule 60's,,capsule,ap turmeric curcumin,ap turmeric curcumin 60s,1,ap turmeric,ap,ap,1,APOLLO HOSPITALS ENTERPRIS LTD,,,550.0
+APV0009,ap vitamin folic acid 400mcg 100's caps,,capsule,ap vitamin folic acid 400mcg 100s,ap vitamin folic acid 400 100s capsule,1,ap vitamin folic acid 400mcg,ap vitamin folic acid,ap vitamin folic,1,APOLLO HOSPITALS ENTERPRIS LTD,,,125.0
+APV0019,ap vitamin d3 60000iu softgel cap 4's,,capsule,ap vitamin d3 60000iu softgel,ap vitamin d3 60000iu softgel 4s,1,ap vitamin d3 60000iu,ap vitamin d3,ap vitamin,4,MARINE LIFESCIENCES,,,37.5
+ARB0043,arbuta cap,,capsule,arbuta,arbuta capsule,1,arbuta,arbuta,arbuta,1,AYU-AYURLAB,,,155.0
+ARG0079,argigold f cap 10's,,capsule,argigold f,argigold f 10s,1,argigold,argigold,argigold,10,HBC LIFESCIENCE PVT LTD,,,18.5
+ARG0104,argigold q10 cap 10's,,capsule,argigold q10,argigold q10 10s,1,argigold,argigold,argigold,10,HBC LIFESCIENCE PVT LTD,,,59.9
+ARJ0023,arjunin cap 20's (charak),,capsule,arjunin,arjunin 20s charak,1,arjunin,arjunin,arjunin,20,CHARAK PHARMACEUTICALS IND,,,5.75
+ARS0006,arsol cap 10's,,capsule,arsol,arsol 10s,1,arsol,arsol,arsol,10,BANGA INDUSTRIES,,,3.97
+ARS0043,arshhar caps 8s,,capsule,arshhar,arshhar 8s,1,arshhar,arshhar,arshhar,1,BALAJI PHARMACEUTICALS LTD,,,9.0
+ARS0076,arsha kalp cap,,capsule,arsha kalp,arsha kalp capsule,1,arsha,arsha,arsha,6,3M INDIA LTD,,,126.0
+ART0076,arthrum plus cap 10's,,capsule,arthrum plus,arthrum plus 10s,1,arthrum,arthrum,arthrum,10,ABBOTT LABORATORIES,,,4.5
+ART0077,arthrum cap 10's,,capsule,arthrum,arthrum 10s,1,arthrum,arthrum,arthrum,10,ABBOTT LABORATORIES,,,3.8
+ART0169,arthplus capsule,,capsule,arthplus,arthplus capsule,1,arthplus,arthplus,arthplus,1,GOODCARE PHARMA PVT LTD,,,3.17
+ART0297,arthrine cap 30's,,capsule,arthrine,arthrine 30s,1,arthrine,arthrine,arthrine,1,HIS PHARMACEUTICALS PVT LTD,,,1500.0
+ART0335,arthacure cap 10's (adusuns),,capsule,arthacure,arthacure 10s adusuns,1,arthacure,arthacure,arthacure,10,ADUSUNS  MEDICARE,,,6.0
+ASH0005,ashvagandha caps,,capsule,ashvagandha,ashvagandha capsule,1,ashvagandha,ashvagandha,ashvagandha,10,THE HIMALAYA DRUG COMPANY-(WELLNESS),,,1.83
+ASH0020,ashwaganda hills cap,,capsule,ashwaganda hills,ashwaganda hills capsule,1,ashwaganda,ashwaganda,ashwaganda,1,HER-HERBAL HILLS,,,132.0
+ASH0109,ashwagandhaa cap 180's (aiwo),,capsule,ashwagandhaa,ashwagandhaa 180s aiwo,1,ashwagandhaa,ashwagandhaa,ashwagandhaa,1,AIWO LTD,,,3000.0
+ASH0111,ashmari sf combipack (300ml syp+30 cap) (amogh),,capsule,ashmari sf combipack 300ml syp+30,ashmari sf combipack 300 syp+30 amogh,1,ashmari sf combipack 300ml,ashmari sf combipack,ashmari sf,1,AMOGH PHARMACEUTICALS PVT LTD,,,390.0
+ASH0140,ashvagandha capsules <120s>,,capsule,ashvagandha,ashvagandha <120s>,1,ashvagandha,ashvagandha,ashvagandha,1,3M INDIA LTD,,,200.0
+ASV0002,asvaa k cap 10's,,capsule,asvaa k,asvaa k 10s,1,asvaa,asvaa,asvaa,10,ADONIS LABORATORIES PVT LTD,,,4.89
+ATO0003,new a to z gold cap 15's,,capsule,new a to z gold,new a to z gold 15s,1,new a to z,new a to,new a,15,ALKEM LABORATORIES LTD,,,9.42
+ATO0195,new a to z gold cap 15's ***,,capsule,new a to z gold,new a to z gold 15s,1,new a to z,new a to,new a,15,ALKEM LABORATORIES LTD,,,8.33
+ATO0644,atogla probio-od 10 billion veg cap 10's,,capsule,atogla probio od 10 billion veg,atogla probio od 10 billion veg 10s,1,atogla probio od 10 billion,atogla probio od 10,atogla probio od,10,CURATIO HEALTH CARE PVT LTD,,,80.0
+AVI0093,avir caps 50,,capsule,avir,avir 50,1,avir,avir,avir,1,BVP-B V PANDIT,,,85.0
+AVO0033,avostone cap,,capsule,avostone,avostone capsule,1,avostone,avostone,avostone,1,AVER PHARMACEUTICALS LTD,,,160.0
+AVP0081,avp pravala bhasmam cap 15's,,capsule,avp pravala bhasmam,avp pravala bhasmam 15s,1,avp pravala,avp,avp,1,THE-THE ARYA VAIDYA PHARMACY (,,,93.0
+AVP0114,avp bala thailam cap,,capsule,avp bala thailam,avp bala thailam capsule,1,avp bala,avp,avp,10,THE-THE ARYA VAIDYA PHARMACY (,,,4.8
+AVP0115,avp gandha thailam cap,,capsule,avp gandha thailam,avp gandha thailam capsule,1,avp gandha,avp,avp,10,THE-THE ARYA VAIDYA PHARMACY (,,,5.5
+AVP0119,avp ksheerabala (101) cap,,capsule,avp ksheerabala,avp ksheerabala 101 capsule,1,avp,avp,avp,10,THE-THE ARYA VAIDYA PHARMACY (,,,67.0
+AVP0161,avp maharajaprasarini thailam 10's cap,,capsule,avp maharajaprasarini thailam 10s,avp maharajaprasarini thailam 10s capsule,1,avp maharajaprasarini thailam,avp maharajaprasarini,avp,10,THE-THE ARYA VAIDYA PHARMACY (,,,5.5
+AVP0168,avp dhanwantharam (101) cap,,capsule,avp dhanwantharam,avp dhanwantharam 101 capsule,1,avp,avp,avp,1,THE-THE ARYA VAIDYA PHARMACY (,,,6.7
+AVP0180,avp aswajith cap,,capsule,avp aswajith,avp aswajith capsule,1,avp,avp,avp,1,THE-THE ARYA VAIDYA PHARMACY (,,,9.2
+AYU0226,ayurex  s cap 10's,,capsule,ayurex s,ayurex s 10s,1,ayurex,ayurex,ayurex,10,NURTURE HEALTH CARE,,,19.9
+AYU0240,ayurex-ndx cap,,capsule,ayurex ndx,ayurex ndx capsule,1,ayurex,ayurex,ayurex,4,AYURVED SUMSHODHANALAYA PVT LTD,,,74.5
+AYU0261,ayustone cap,,capsule,ayustone,ayustone capsule,1,ayustone,ayustone,ayustone,10,ZOTA HEALTH CARE LTD,,,6.4
+AYU0294,ayu neuro cap 10's (perseus),,capsule,ayu neuro,ayu neuro 10s perseus,1,ayu,ayu,ayu,10,PERSEUS BIOTECH,,,16.0
+AYU0297,ayul plus cap 120's (almaa),,capsule,ayul plus,ayul plus 120s almaa,1,ayul,ayul,ayul,1,ALM-ALMAHERBEL,,,672.0
+BAB0191,baby booty & cap,,capsule,baby booty &,baby booty & capsule,1,baby booty,baby,baby,1,S&S SURGICARE (P) LTD,,,40.0
+BAB0204,baby dolphin baby cap soother,,capsule,baby dolphin baby,baby dolphin soother,1,baby dolphin,baby,baby,1,DOLPHIN LABORATORIES LTD,,,15.0
+BAC0195,bactofer caps,,capsule,bactofer,bactofer capsule,1,bactofer,bactofer,bactofer,1,ZENLABS INDIA,,,38.1
+BAC0401,bactefar cap 10's (ayu labs),,capsule,bactefar,bactefar 10s ayu labs,1,bactefar,bactefar,bactefar,10,AYU-AYU LABS,,,4.3
+BAE0002,bael cap,,capsule,bael,bael capsule,1,bael,bael,bael,1,THE HIMALAYA DRUG COMPANY,,,100.0
+BAS0029,basicare shower caps (2204),,capsule,basicare shower,basicare shower 2204,1,basicare,basicare,basicare,1,BASI CARE,,,75.0
+BAS0264,basure x combipack cap 30+5 (ceras),,capsule,basure x combipack,basure x combipack 30+5 ceras,1,basure x,basure,basure,1,CERAS PHARMACEUTICALS PVT,,,320.0
+BCA0012,bcaas vit b6 100 caps,,capsule,bcaas vit b6,bcaas vit b6 100 capsule,1,bcaas vit,bcaas,bcaas,1,MICROTECH ADVANCE NUTRITIO,,,1299.0
+BEF0010,befit   cap 10's,,capsule,befit,befit 10s,1,befit,befit,befit,10,LAN-LANCET BIOTIC,,,5.0
+BEN0633,bencal plus softgel cap 15's,,capsule,bencal plus softgel,bencal plus softgel 15s,1,bencal plus,bencal,bencal,15,GENFO BIOCEUTICALS PVT LTD,,,12.0
+BET0134,betalol tr 80 mg cap 10's,,capsule,betalol tr,betalol tr 80 10s,1,betalol,betalol,betalol,10,ASTRA ZENECA PHARMA INDIA LTD,,,5.9
+BGA0002,bgainer cap,,capsule,bgainer,bgainer capsule,1,bgainer,bgainer,bgainer,1,AND-ANDANI CORP,,,5.75
+BIG0094,bigfit cap,,capsule,bigfit,bigfit capsule,1,bigfit,bigfit,bigfit,1,ULTRACHEM PHARMACEUTICALS,,,12.0
+BIG0105,bigphylin -100mg cap 10's,,capsule,bigphylin,bigphylin 100 10s,1,bigphylin,bigphylin,bigphylin,10,ZRS LABS,,,8.0
+BIL0009,bilva cap 10's,,capsule,bilva,bilva 10s,1,bilva,bilva,bilva,10,V L PRODUCTS LTD,,,3.8
+BIL0057,bilobax cap,,capsule,bilobax,bilobax capsule,1,bilobax,bilobax,bilobax,10,ZYDUS PHARMA LTD,,,13.0
+BIO0235,bioslim  cap,,capsule,bioslim,bioslim capsule,1,bioslim,bioslim,bioslim,1,SANAT PRODUCTS LTD,,,999.0
+BIO0362,biohare cap 10's,,capsule,biohare,biohare 10s,1,biohare,biohare,biohare,10,INTAS LABORATORIES LTD,,,9.5
+BIO1768,bi omega plus softgel cap 10's,,capsule,bi omega plus softgel,bi omega plus softgel 10s,1,bi omega plus,bi omega,bi,10,BIOSWIZZ PHARMACEUTICALS LTD,,,19.9
+BIO1904,bioxtend testosterone booster cap 60's,,capsule,bioxtend testosterone booster,bioxtend testosterone booster 60s,1,bioxtend testosterone,bioxtend,bioxtend,1,JC TRADE INDIA,,,899.0
+BIO1905,bioxtend optimal men health cap 60's,,capsule,bioxtend optimal men health,bioxtend optimal men health 60s,1,bioxtend optimal men,bioxtend optimal,bioxtend,1,JC TRADE INDIA,,,1925.0
+BIO1906,bioxtend optimal women health cap 60's,,capsule,bioxtend optimal women health,bioxtend optimal women health 60s,1,bioxtend optimal women,bioxtend optimal,bioxtend,4,JC TRADE INDIA,,,97.5
+BIO1909,bioxtend stress relief support cap 60's,,capsule,bioxtend stress relief support,bioxtend stress relief support 60s,1,bioxtend stress relief,bioxtend stress,bioxtend,1,JC TRADE INDIA,,,1100.0
+BIO1913,bioxtend the super greens cap 60's,,capsule,bioxtend the super greens,bioxtend the super greens 60s,1,bioxtend the super,bioxtend the,bioxtend,1,JC TRADE INDIA,,,799.0
+BOD0140,bodywell kama max female 500mg veg cap 60's,,capsule,bodywell kama max female,bodywell kama max female 500 veg 60s,1,bodywell kama max,bodywell kama,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,4999.0
+BOD0141,bodywell kama max male 500mg veg cap 60's,,capsule,bodywell kama max male,bodywell kama max male 500 veg 60s,1,bodywell kama max,bodywell kama,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,4999.0
+BOD0142,bodywell tulsi holi basil 500mg veg cap 60's,,capsule,bodywell tulsi holi basil,bodywell tulsi holi basil 500 veg 60s,1,bodywell tulsi holi,bodywell tulsi,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,449.0
+BOD0143,bodywell ultimate immunity 500mg veg cap 60's,,capsule,bodywell ultimate immunity,bodywell ultimate immunity 500 veg 60s,1,bodywell ultimate,bodywell,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,1250.0
+BOD0144,bodywell shilajit 500mg veg cap 60's,,capsule,bodywell shilajit,bodywell shilajit 500 veg 60s,1,bodywell,bodywell,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,599.0
+BOD0146,bodywell ashwagandha 500mg veg cap 60's,,capsule,bodywell ashwagandha,bodywell ashwagandha 500 veg 60s,1,bodywell,bodywell,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,449.0
+BOD0152,bodywell bustmax 500mg veg cap 90's,,capsule,bodywell bustmax,bodywell bustmax 500 veg 90s,1,bodywell,bodywell,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,1799.0
+BOD0153,bodywell musli plus 500mg veg cap 60's,,capsule,bodywell musli plus,bodywell musli plus 500 veg 60s,1,bodywell musli,bodywell,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,1250.0
+BOD0154,bodywell fat knocker 500mg veg cap 90's,,capsule,bodywell fat knocker,bodywell fat knocker 500 veg 90s,1,bodywell fat,bodywell,bodywell,1,SUTRAM AYURVEDA PVT LTD,,,1999.0
+BON0095,bonfit cap,,capsule,bonfit,bonfit capsule,1,bonfit,bonfit,bonfit,1,AYURCHEM PRODUCTS,,,9.9
+BON0279,boneshield cap,,capsule,boneshield,boneshield capsule,1,boneshield,boneshield,boneshield,1,DUMMY,,,1200.0
+BON0295,bonartho cap 10's,,capsule,bonartho,bonartho 10s,1,bonartho,bonartho,bonartho,10,DUMMY,,,14.0
+BON0373,bonekwik cap,,capsule,bonekwik,bonekwik capsule,1,bonekwik,bonekwik,bonekwik,10,ASCENT HEALTH CARE LTD,,,13.55
+BON0379,bongraft cap 10's,,capsule,bongraft,bongraft 10s,1,bongraft,bongraft,bongraft,10,SPARK MEDICARE PVT LTD,,,12.0
+BON0472,bone marrow biopsy needle pje1110-11gx100mm with cap (mediev,,capsule,bone marrow biopsy needle pje1110 11gs00mm with,bone marrow biopsy needle pje1110 11gs00mm with mediev,1,bone marrow biopsy needle pje1110 11gs00mm,bone marrow biopsy needle pje1110,bone marrow biopsy needle,1,MED-MEDEVOLUTION DEVICE PVT LT,,,2600.0
+BON0547,bontuch cap 10's (infochem),,capsule,bontuch,bontuch 10s infochem,1,bontuch,bontuch,bontuch,10,INFOCHEM PHARMA PVT LTD,,,14.99
+BOO0032,boostex forte cap,,capsule,boostex forte,boostex forte capsule,1,boostex,boostex,boostex,1,PHYTO CASTLE,,,6.0
+BOU0042,bouffant cap (medicube),,capsule,bouffant,bouffant medicube,1,bouffant,bouffant,bouffant,1,MED-MEDICUBE HEALTH CARE PVT L,,,7.5
+BOU0046,bouffant surgeon cap 100's (hesh),,capsule,bouffant surgeon,bouffant surgeon 100s hesh,1,bouffant,bouffant,bouffant,100,HES-HESH,,,10.5
+BRA0037,brahmi 60's cap,,capsule,brahmi 60s,brahmi 60s capsule,1,brahmi,brahmi,brahmi,1,IIT-IITC ORGANIC INDIA PVT LTD,,,1.67
+BRA0041,brahmihills cap,,capsule,brahmihills,brahmihills capsule,1,brahmihills,brahmihills,brahmihills,1,HER-HERBAL HILLS,,,2.0
+BRA0055,bravobol cap 10's,,capsule,bravobol,bravobol 10s,1,bravobol,bravobol,bravobol,10,BAN LABS (P) LTD.,,,4.0
+BRA0075,brainee cap,,capsule,brainee,brainee capsule,1,brainee,brainee,brainee,1,DUMMY,,,3.5
+BRA0083,branchozen cap. zlp,,capsule,branchozen,branchozen zlp,1,branchozen,branchozen,branchozen,1,ZENLABS INDIA,,,22.5
+BRA0106,brain dha cap 10's,,capsule,brain dha,brain dha 10s,1,brain,brain,brain,10,REGENIX DRUGS PVT LTD,,,9.9
+BRA0120,brainlife cap 60's,,capsule,brainlife,brainlife 60s,1,brainlife,brainlife,brainlife,1,ADONIS LABORATORIES PVT LTD,,,6.25
+BRA0201,brahmi  120 capsule,,capsule,brahmi,brahmi 120 capsule,1,brahmi,brahmi,brahmi,1,3M INDIA LTD,,,180.0
+BRE0083,brestone cap,,capsule,brestone,brestone capsule,1,brestone,brestone,brestone,1,ADONIS LABORATORIES PVT LTD,,,5.83
+BRE0160,breastone plus cream & capsule combipack,,capsule,breastone plus cream &,breastone plus cream & combipack,1,breastone plus cream,breastone plus,breastone,1,ACTION INDIA,,,260.0
+BRE0211,breathest inhalant softgel cap 10's (sunrest),,capsule,breathest inhalant softgel,breathest inhalant softgel 10s sunrest,1,breathest inhalant,breathest,breathest,10,SUNREST LIFESCIENCE PVT LTD,,,6.5
+BUN0007,bunase 200 rotacaps 30's,,capsule,bunase,bunase 200 30s,1,bunase,bunase,bunase,1,MACLEODS PHARMACEUTICALS LTD,,,2.56
+BUR0093,burgundy cap 30's (chervon),,capsule,burgundy,burgundy 30s chervon,1,burgundy,burgundy,burgundy,1,CHEVRON LIFE SCIENCES,,,450.0
+BWA0001,bwanil cap combo pack (30's+10's),,capsule,bwanil,bwanil combo pack 30s+10s,1,bwanil,bwanil,bwanil,1,BSA PHARMA INC,,,330.0
+BYZ0003,byzyme cap 15s,,capsule,byzyme,byzyme 15s,1,byzyme,byzyme,byzyme,15,ZYDUS CADILA HEALTHCARE LTD,,,5.12
+CAL0187,calcurosin cap 10's,,capsule,calcurosin,calcurosin 10s,1,calcurosin,calcurosin,calcurosin,10,BAJ-BANJARAS LTD,,,4.0
+CAL0375,calash 10's [akash]   cap 10's,,capsule,calash 10s [akash],calash 10s [akash],1,calash 10s,calash,calash,10,ACON LABORATORIES INC,,,3.0
+CAL0479,calcipral(asthiposhak)60 s cap,,capsule,calcipral asthiposhak 60 s,calcipral asthiposhak 60 s capsule,1,calcipral asthiposhak 60,calcipral asthiposhak,calcipral,1,ADONIS LABORATORIES PVT LTD,,,2.03
+CAL0787,calcium eap complex cap 90's,,capsule,calcium eap complex,calcium eap complex 90s,1,calcium eap,calcium,calcium,1,NEUVITHRAH NUTRITION PVT LTD,,,20.53
+CAL0874,callus cap,,capsule,callus,callus capsule,1,callus,callus,callus,1,KAN-KANRAUN PHARMACEUTICALS LT,,,14.96
+CAL0903,calculizer cap 10's,,capsule,calculizer,calculizer 10s,1,calculizer,calculizer,calculizer,10,MEDIWIN LABORATORIES PVT LTD,,,178.0
+CAL1150,calcibion cap,,capsule,calcibion,calcibion capsule,1,calcibion,calcibion,calcibion,1,RES-RESEARCH LABORATORIES,,,5.1
+CAL1606,calspen 60k softgel cap 4's,,capsule,calspen 60k softgel,calspen 60k softgel 4s,1,calspen 60k,calspen,calspen,4,ASPEN PHARMACARE,,,109.5
+CAL1640,cal d flo-ok softgel cap 10's,,capsule,cal d flo ok softgel,cal d flo ok softgel 10s,1,cal d flo ok,cal d flo,cal d,10,RUDRAKSHA PHARMACEUTICALS,,,15.0
+CAL1788,calculus cap 10's (merven),,capsule,calculus,calculus 10s merven,1,calculus,calculus,calculus,10,MERVEN PHARMACEUTICALS,,,6.5
+CAL2092,calnum-hd cap 10's (medicinum),,capsule,calnum hd,calnum hd 10s medicinum,1,calnum,calnum,calnum,10,MEDICINUM HEALTHCARE PVT LTD,,,16.0
+CAL2297,calmoves cap 10's (biochemix),,capsule,calmoves,calmoves 10s biochemix,1,calmoves,calmoves,calmoves,10,BIOCHEMIX HEALTHCARE,,,8.0
+CAL2570,calzimum d3 60k softgel cap 4's,,capsule,calzimum d3 60k softgel,calzimum d3 60k softgel 4s,1,calzimum d3 60k,calzimum d3,calzimum,4,MEDRIX LABS PVT LTD,,,32.5
+CAP0209,capsule hook 5's (optitech),,capsule,,capsule hook 5s optitech,1,,,,1,OPTITECH EYE CARE,,,610.71
+CAP0216,capcumin o gel 35gm (caps pharma),,capsule,,capsulecumin o gel 35s pharma,2,,,,1,CAPS PHARMA PVT LTD,,,425.0
+CAR0836,cardicare cap,,capsule,cardicare,cardicare capsule,1,cardicare,cardicare,cardicare,1,DUMMY,,,13.3
+CAR0940,cartidose cap,,capsule,cartidose,cartidose capsule,1,cartidose,cartidose,cartidose,1,CUM-CUMA BIOTECH,,,430.0
+CAR1198,carithrom g cap 10's,,capsule,carithrom g,carithrom g 10s,1,carithrom,carithrom,carithrom,10,PRETTY PETALS PVT LTD,,,55.0
+CAR1388,carbamide forte 1000mg d strength fish oil softgel cap 60's,,capsule,carbamide forte,carbamide forte 1000 d strength fish oil softgel 60s,1,carbamide,carbamide,carbamide,1,NOVUS LIFE SCIENCES PVT LTD,,,675.0
+CAR1390,carbamide forte flaxseed oil 1000mg c pres softgel cap 120's,,capsule,carbamide forte flaxseed oil,carbamide forte flaxseed oil 1000 c pres softgel 120s,1,carbamide forte flaxseed,carbamide forte,carbamide,1,NOVUS LIFE SCIENCES PVT LTD,,,695.0
+CAR1391,carbamide forte salmon fish oil 1000mg softgel cap 150's,,capsule,carbamide forte salmon fish oil,carbamide forte salmon fish oil 1000 softgel 150s,1,carbamide forte salmon fish,carbamide forte salmon,carbamide forte,1,NOVUS LIFE SCIENCES PVT LTD,,,995.0
+CAR1392,carbamide forte probiotics 30 billion 100mg veg cap 100's,,capsule,carbamide forte probiotics 30 billion,carbamide forte probiotics 30 billion 100 veg 100s,1,carbamide forte probiotics 30,carbamide forte probiotics,carbamide forte,1,NOVUS LIFE SCIENCES PVT LTD,,,995.0
+CAR1454,cariplay cap 10's (next),,capsule,cariplay,cariplay 10s next,1,cariplay,cariplay,cariplay,10,JABS BIOTECH PVT LTD,,,19.0
+CAS0037,castrolax cap,,capsule,castrolax,castrolax capsule,1,castrolax,castrolax,castrolax,1,HEALTH  PRODUCTS,,,2.1
+CEN0020,centamin cap 10's,,capsule,centamin,centamin 10s,1,centamin,centamin,centamin,10,CENTENIAL PHARMA PVT LTD,,,8.1
+CEN0035,centis cap [pendey],,capsule,centis,centis [pendey],1,centis,centis,centis,10,PENIN SULA POLY PRODUCTS,,,4.45
+CER0182,cervilon  soft gel cap 10's,,capsule,cervilon soft gel,cervilon soft gel 10s,1,cervilon soft,cervilon,cervilon,10,ARYA VAIDYA SALA,,,5.7
+CFF0001,cff10-250r curos cap strip needleless connectors 25's (3m),,capsule,cff10 250r curos,cff10 250r curos paper needleless connectors 25s 3m,1,cff10 250r,cff10,cff10,1,3M HEALTH CARE,,,6300.0
+CHE0225,check pain cap 10's,,capsule,check pain,check pain 10s,1,check,check,check,10,CAH-CADILA HEALTHCARE LTD,,,8.3
+CHE0229,cr chemforce male support cap 21's,,capsule,cr chemforce male support,cr chemforce male support 21s,1,cr chemforce male,cr chemforce,cr,1,CR CHEMICAL RESOURCES,,,1321.0
+CHR0112,chromium picol.&vit. 100 caps,,capsule,chromium picol.&vit.,chromium picol.&vit. 100 capsule,1,chromium,chromium,chromium,1,MICROTECH ADVANCE NUTRITIO,,,825.0
+CIN0269,cinnamon veg cap 60's (organic),,capsule,cinnamon veg,cinnamon veg 60s organic,1,cinnamon,cinnamon,cinnamon,1,ORGANIC INDIA PVT LTD,,,175.0
+CIS0043,ciscap cap 10's,,capsule,cis,cis capsules 10s,2,cis,cis,cis,10,3M INDIA LTD,,,12.0
+CIS0055,cisofrac cap,,capsule,cisofrac,cisofrac capsule,1,cisofrac,cisofrac,cisofrac,10,ADONIS LABORATORIES PVT LTD,,,14.5
+COL0896,collasyn cap 10's,,capsule,collasyn,collasyn 10s,1,collasyn,collasyn,collasyn,10,H&H PHARMACEUTICALS LTD,,,3.5
+COL1277,collagen max capsules 120's (nutraswiss),,capsule,collagen max,collagen max 120s nutraswiss,1,collagen,collagen,collagen,1,NUTRASWISS PVT LTD,,,2490.0
+COQ0048,coq10 150mg cap 30's,,capsule,coq10,coq10 150 30s,1,coq10,coq10,coq10,1,BLACKMORES LTD,,,1999.0
+COR0063,corn caps indotech,,capsule,corn,corn indotech,1,corn,corn,corn,1,3M INDIA LTD,,,36.0
+COR0123,corn caps (coronamal),,capsule,corn,corn coronamal,1,corn,corn,corn,4,ADONIS LABORATORIES PVT LTD,,,8.0
+COR0679,coral calcium b12 cap 15's,,capsule,coral calcium b12,coral calcium b12 15s,1,coral calcium,coral,coral,15,PREMIER NUTRACEUTICALS PVT LTD,,,13.2
+CQN0002,cqnate cap 30's,,capsule,cqnate,cqnate 30s,1,cqnate,cqnate,cqnate,1,MEG-MEGNATE  MULTI PRODUCTS,,,492.4
+CRA0102,cranguard cranberry cap 60's (nutraswiss),,capsule,cranguard cranberry,cranguard cranberry 60s nutraswiss,1,cranguard,cranguard,cranguard,1,NUTRASWISS PVT LTD,,,1950.0
+CRE0164,cread-am cap,,capsule,cread am,cread am capsule,1,cread,cread,cread,10,MED-MEDI SUN,,,5.5
+CRO0178,cromocare cap 10's (jinal healthcare),,capsule,cromocare,cromocare 10s jinal healthcare,1,cromocare,cromocare,cromocare,10,JINAL HEALTHCARE,,,22.6
+CRU0030,cruxx cap,,capsule,cruxx,cruxx capsule,1,cruxx,cruxx,cruxx,1,ADONIS LABORATORIES PVT LTD,,,152.0
+CRU0034,crush-bph cap,,capsule,crush bph,crush bph capsule,1,crush,crush,crush,1,ADONIS LABORATORIES PVT LTD,,,15.0
+CSD0004,csd cap 10's,,capsule,csd,csd 10s,1,csd,csd,csd,10,CSD LIFESCIENCES,,,12.5
+CUL0011,culin forte cap 10's,,capsule,culin forte,culin forte 10s,1,culin,culin,culin,10,ALPA LABORATORIES LTD,,,3.5
+CUP0032,cuprin softgel cap 30's,,capsule,cuprin softgel,cuprin softgel 30s,1,cuprin,cuprin,cuprin,1,AAA PHARMA TRADE PVT LTD,,,1200.0
+CUP0034,cupiwell cap 10's (agastya),,capsule,cupiwell,cupiwell 10s agastya,1,cupiwell,cupiwell,cupiwell,10,AGASTIYA RESEARCH HEALTH PRODUCTS,,,3.8
+CUR0094,curac cap 10's,,capsule,curac,curac 10s,1,curac,curac,curac,10,RUDRA REMEDIES,,,6.5
+CUR0166,curcupin cap 30's,,capsule,curcupin,curcupin 30s,1,curcupin,curcupin,curcupin,1,ROXTERS PHARMACEUTICALS,,,420.0
+CUR0186,curqcare plus cap 30's,,capsule,curqcare plus,curqcare plus 30s,1,curqcare,curqcare,curqcare,1,ASPIRATION HEALTHCARE,,,589.0
+CUR0195,curcu pin softgel cap 10's,,capsule,curcu pin softgel,curcu pin softgel 10s,1,curcu pin,curcu,curcu,10,ROXTERS PHARMACEUTICALS,,,24.0
+CUR0217,curcumore cap 60's,,capsule,curcumore,curcumore 60s,1,curcumore,curcumore,curcumore,1,ANISHYA LIFECARE PVT LTD,,,2500.0
+CUR0223,curos cap strip for male luers (3m),,capsule,curos,curos paper for male luers 3m,1,curos,curos,curos,1,3M INDIA LTD,,,6300.0
+CUR0268,curcuzenica cap 30's (herbzenica),,capsule,curcuzenica,curcuzenica 30s herbzenica,1,curcuzenica,curcuzenica,curcuzenica,1,HERBZENICA LIFE SCIENCES PVT LTD,,,525.0
+CUR0270,curculite softgel cap 10's (allites),,capsule,curculite softgel,curculite softgel 10s allites,1,curculite,curculite,curculite,10,ALLITES LIFE SCIENCES PVT LTD,,,39.0
+CUR0274,curcuzenica cap 60's (herbzenica),,capsule,curcuzenica,curcuzenica 60s herbzenica,1,curcuzenica,curcuzenica,curcuzenica,1,HERBZENICA LIFE SCIENCES PVT LTD,,,1000.0
+CUR0277,curcuggen 300mg cap 15's,,capsule,curcuggen,curcuggen 300 15s,1,curcuggen,curcuggen,curcuggen,1,TYYKEM PVT LTD,,,1499.0
+CUR0333,curpen veggie cap 30's (lugani),,capsule,curpen veggie,curpen veggie 30s lugani,1,curpen,curpen,curpen,1,LUGANI PHARMACEUTICALS,,,899.0
+CUR0339,curogold veg cap 30's (geeta),,capsule,curogold veg,curogold veg 30s geeta,1,curogold,curogold,curogold,1,GEETA ORGANIC,,,999.0
+CUR0340,curos disinfecting cap for needleless connectors 270 (3m),,capsule,curos disinfecting,curos disinfecting for needleless connectors 270 3m,1,curos,curos,curos,1,3M INDIA LTD,,,26.0
+CUR0341,curos disinfecting cap for needleless connectors 25x10 (3m),,capsule,curos disinfecting,curos disinfecting for needleless connectors 25s0 3m,1,curos,curos,curos,10,3M INDIA LTD,,,26.0
+CUT0047,cuteglow cap 10's,,capsule,cuteglow,cuteglow 10s,1,cuteglow,cuteglow,cuteglow,10,ALRED HEALTH CARE LTD,,,9.5
+CUT0052,cutis cap 10's,,capsule,cutis,cutis 10s,1,cutis,cutis,cutis,10,ABBOTT LABORATORIES,,,3.5
+CYS0011,cystop cap 10's ***,,capsule,cystop,cystop 10s,1,cystop,cystop,cystop,10,MMC LABORATORIES LTD,,,9.0
+CYS0032,cystowon cap 20's (mediwon),,capsule,cystowon,cystowon 20s mediwon,1,cystowon,cystowon,cystowon,1,MEDIWON RESEARCH AND HEALTHCARE CORPORATION,,,200.0
+DAB0492,dabiwar 110mg cap #dabigatran etexilate caps,,capsule,dabiwar,dabiwar 110 dabigatran etexilates,2,dabiwar,dabiwar,dabiwar,10,3M INDIA LTD,,,245.0
+DAZ0007,dazzle cap 10's,,capsule,dazzle,dazzle 10s,1,dazzle,dazzle,dazzle,10,32 DENTAL CARE PVT. LTD,,,4.0
+DAZ0046,dazzle tablet30 cap,,capsule,dazzle tablet30,dazzle tablet30 capsule,1,dazzle,dazzle,dazzle,1,3M INDIA LTD,,,60.0
+DEC0081,decrin plus cap 10's,,capsule,decrin plus,decrin plus 10s,1,decrin,decrin,decrin,10,PHYTO CASTLE,,,4.0
+DEC0083,decorn corn   cap 10's,,capsule,decorn corn,decorn corn 10s,1,decorn,decorn,decorn,10,MERIDIAN HEALTHCARE,,,30.0
+DEC0193,decannulation cap,,capsule,decannulation,decannulation capsule,1,decannulation,decannulation,decannulation,1,SMA-SMITHA LABS,,,550.0
+DEC0203,decrystal cap,,capsule,decrystal,decrystal capsule,1,decrystal,decrystal,decrystal,10,CIV-CIVIKS,,,6.0
+DEC0217,decontaman surgical cap (dr.schumacher),,capsule,decontaman surgical,decontaman surgical dr.schumacher,1,decontaman,decontaman,decontaman,1,DR SCHUMACHER GMBH,,,700.0
+DEE0096,deepcharge-m cap 10's (deep),,capsule,deepcharge m,deepcharge m 10s deep,1,deepcharge,deepcharge,deepcharge,10,DEEPKAMAL HEALTH SERVICES PVT LTD,,,13.9
+DEN0263,dengue care cap,,capsule,dengue care,dengue care capsule,1,dengue,dengue,dengue,1,CLIDE INTERNATIONAL PVT LTD,,,6.5
+DEN0314,denplat plus cap 20's (sanify),,capsule,denplat plus,denplat plus 20s sanify,1,denplat,denplat,denplat,1,SANIFY HEALTHCARE PVT LTD,,,399.9
+DEP0154,depwin cap,,capsule,depwin,depwin capsule,1,depwin,depwin,depwin,1,IZD-IZDA,,,8.0
+DEP0213,depone cap 30's (dss),,capsule,depone,depone 30s dss,1,depone,depone,depone,1,DSS PHARMACEUTICAL PVT LTD,,,13.0
+DER0100,dermafex cap,,capsule,dermafex,dermafex capsule,1,dermafex,dermafex,dermafex,1,BANGA INDUSTRIES,,,3.8
+DER0342,dermfrii cap 10's,,capsule,dermfrii,dermfrii 10s,1,dermfrii,dermfrii,dermfrii,10,DUMMY,,,6.0
+DET0231,detorch cap 10's (element),,capsule,detorch,detorch 10s element,1,detorch,detorch,detorch,10,ELEMENT PHARMACEUTICALS PVT LTD,,,8.5
+DHA0017,dhathri diavita cap 10's,,capsule,dhathri diavita,dhathri diavita 10s,1,dhathri,dhathri,dhathri,10,ADONIS LABORATORIES PVT LTD,,,6.0
+DIA0094,diagold cap 10's,,capsule,diagold,diagold 10s,1,diagold,diagold,diagold,10,BEST LABORATORIES,,,2.3
+DIA0170,diafort cap 10's,,capsule,diafort,diafort 10s,1,diafort,diafort,diafort,10,DUMMY,,,4.5
+DIA0180,diazen cap,,capsule,diazen,diazen capsule,1,diazen,diazen,diazen,10,APX-APEX LABORATORIES LTD,,,3.5
+DIA0229,diapal cap 10's,,capsule,diapal,diapal 10s,1,diapal,diapal,diapal,10,ADONIS LABORATORIES PVT LTD,,,4.0
+DIA0393,diab  life 60's cap,,capsule,diab life 60s,diab life 60s capsule,1,diab life,diab,diab,1,DUMMY,,,7.67
+DIA0398,diabdon cap 10's,,capsule,diabdon,diabdon 10s,1,diabdon,diabdon,diabdon,10,KNISS LABORATORIES PVT LTD,,,6.5
+DIA0417,diabloc k cap 30 s,,capsule,diabloc k,diabloc k 30 s,1,diabloc,diabloc,diabloc,1,DUMMY,,,11.67
+DIA0419,diaboxing cap 10's,,capsule,diaboxing,diaboxing 10s,1,diaboxing,diaboxing,diaboxing,10,KALIDAC PHARMACEUTICALS,,,6.5
+DIA0463,diacare -b 60s cap,,capsule,diacare b 60s,diacare b 60s capsule,1,diacare b,diacare,diacare,1,VARMA INDUSTRIES,,,500.0
+DIA0492,diamond cap,,capsule,diamond,diamond capsule,1,diamond,diamond,diamond,1,DUMMY,,,7.16
+DIA0576,diagru cap  20's,,capsule,diagru,diagru 20s,1,diagru,diagru,diagru,1,PANVIK PHARMACEUTICALS LTD,,,250.0
+DIA0646,diaris-l cap 50's,,capsule,diaris l,diaris l 50s,1,diaris,diaris,diaris,1,SUNIRIS ENTERPRISES OPC PVT LTD,,,520.0
+DIB0023,dib care cap 30's,,capsule,dib care,dib care 30s,1,dib,dib,dib,1,BMW PHARMACO INDIA PVT LTD,,,248.0
+DIC0553,dicator cap 10's,,capsule,dicator,dicator 10s,1,dicator,dicator,dicator,10,DAYMARK PHARMACEUTICALS (I) PVT LTD,,,12.0
+DIE0015,diet plus cap 10's,,capsule,diet plus,diet plus 10s,1,diet,diet,diet,10,MAC-MACARIO IMPEX,,,9.0
+DIG0072,digest fast cap 10's,,capsule,digest fast,digest fast 10s,1,digest,digest,digest,10,TRI-TRIVEDI,,,20.0
+DIS0014,disinfection cap ( frusinius),,capsule,disinfection,disinfection frusinius,1,disinfection,disinfection,disinfection,1,FRESENIUS KABI INDIA PVT LTD,,,30.0
+DIS0021,disposable head caps(philip),,capsule,disposable head,disposable head philip,1,disposable,disposable,disposable,1,3M INDIA LTD,,,10.0
+DIS0067,disposable  cap,,capsule,disposable,disposable capsule,1,disposable,disposable,disposable,1,ADONIS LABORATORIES PVT LTD,,,300.0
+DIS0112,dispo - cap,,capsule,dispo,dispo capsule,1,dispo,dispo,dispo,1,DUMMY,,,5.0
+DIS0155,disolv cap 10's,,capsule,disolv,disolv 10s,1,disolv,disolv,disolv,10,DUMMY,,,6.63
+DIS0197,disposable surgical caps,,capsule,disposable surgical,disposable surgical capsule,1,disposable,disposable,disposable,1,LIFESTAR PHARMA PVT LTD,,,10.0
+DIS0240,dissolvin cap,,capsule,dissolvin,dissolvin capsule,1,dissolvin,dissolvin,dissolvin,1,ASPEN PHARMACARE,,,12.83
+DIS0291,disp hood cap (safelife),,capsule,disp hood,disp hood safelife,1,disp,disp,disp,10,SAFE LIFE SCIENCES PHARMACEUTICALS,,,50.0
+DIS0372,disposit surgeon cap,,capsule,disposit surgeon,disposit surgeon capsule,1,disposit,disposit,disposit,1,3M INDIA LTD,,,8.0
+DIU0007,diur cap,,capsule,diur,diur capsule,1,diur,diur,diur,1,ABBOTT LABORATORIES,,,4.5
+DIV0264,divya swasari gold capsule 20's (patanjali),,capsule,divya swasari gold,divya swasari gold 20s patanjali,1,divya swasari,divya,divya,1,PATHANJALI AYURVEDA LIMITED,,,400.0
+DIZ0043,dizom cap,,capsule,dizom,dizom capsule,1,dizom,dizom,dizom,10,NOV-NOVOLIX PHARMA,,,18.0
+DRM0009,dr.morepen active knee cap (l),,capsule,dr.morepen active knee,dr.morepen active knee l,1,dr.morepen active,dr.morepen,dr.morepen,1,MOREPEN LABORATORIES LTD,,,225.0
+DRO0331,dr.ortho cap 60's (sbs biotech),,capsule,dr.ortho,dr.ortho 60s sbs biotech,1,dr.ortho,dr.ortho,dr.ortho,1,SBS BIOTECH PVT LTD,,,295.0
+DRV0003,dr.vaidya's herbofit caps 30's,,capsule,dr.vaidyas herbofit,dr.vaidyas herbofit 30s,1,dr.vaidyas,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,180.0
+DRV0004,dr.vaidya's livitup hangover shield caps 5's,,capsule,dr.vaidyas livitup hangover shield,dr.vaidyas livitup hangover shield 5s,1,dr.vaidyas livitup hangover,dr.vaidyas livitup,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,80.0
+DRV0006,dr.vaidya's herbo24turbo shilajit men caps 30's,,capsule,dr.vaidyas herbo24turbo shilajit men,dr.vaidyas herbo24turbo shilajit men 30s,1,dr.vaidyas herbo24turbo shilajit,dr.vaidyas herbo24turbo,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,500.0
+DRV0008,dr.vaidya's herbofit capsules 2*30's,,capsule,dr.vaidyas herbofit,dr.vaidyas herbofit 2 30s,1,dr.vaidyas,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,360.0
+DRV0009,dr.vaidya's livitup hangover shield caps 5*10's,,capsule,dr.vaidyas livitup hangover shield,dr.vaidyas livitup hangover shield 5 10s,1,dr.vaidyas livitup hangover,dr.vaidyas livitup,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,800.0
+DRV0011,dr.vaidya's livayu liver protector caps 2*30's,,capsule,dr.vaidyas livayu liver protector,dr.vaidyas livayu liver protector 2 30s,1,dr.vaidyas livayu liver,dr.vaidyas livayu,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,400.0
+DRV0012,dr.vaidya's herbo build muscle caps 30's,,capsule,dr.vaidyas herbo build muscle,dr.vaidyas herbo build muscle 30s,1,dr.vaidyas herbo build,dr.vaidyas herbo,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,410.0
+DRV0013,dr.vaidya's diabex capsules 2*30's,,capsule,dr.vaidyas diabex,dr.vaidyas diabex 2 30s,1,dr.vaidyas,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,440.0
+DRV0014,dr.vaidya's giloy immunity enhancer caps 2*30's,,capsule,dr.vaidyas giloy immunity enhancer,dr.vaidyas giloy immunity enhancer 2 30s,1,dr.vaidyas giloy immunity,dr.vaidyas giloy,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,300.0
+DRV0015,dr.vaidya's ashwagandha capsules 2*30's,,capsule,dr.vaidyas ashwagandha,dr.vaidyas ashwagandha 2 30s,1,dr.vaidyas,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,300.0
+DRV0024,dr.vaidya's herbobuild capsules 50's,,capsule,dr.vaidyas herbobuild,dr.vaidyas herbobuild 50s,1,dr.vaidyas,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,499.0
+DRV0025,dr.vaidya's piles care capsules 30's,,capsule,dr.vaidyas piles care,dr.vaidyas piles care 30s,1,dr.vaidyas piles,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,300.0
+DRV0026,dr.vaidya's shilajit plus capsules 30's,,capsule,dr.vaidyas shilajit plus,dr.vaidyas shilajit plus 30s,1,dr.vaidyas shilajit,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,500.0
+DRV0027,dr.vaidya's diabex capsules 30's,,capsule,dr.vaidyas diabex,dr.vaidyas diabex 30s,1,dr.vaidyas,dr.vaidyas,dr.vaidyas,1,HERBOLAB INDIA PVT LTD,,,350.0
+DUT0021,dutagel 0.5mg cap 10's,,capsule,dutagel,dutagel 0.5 10s,1,dutagel,dutagel,dutagel,10,ABBOTT INDIA LTD,,,20.0
+DWE0005,d well 60000 iu softgel cap 4's,,capsule,d well 60000 iu softgel,d well 60000 iu softgel 4s,1,d well 60000 iu,d well 60000,d well,4,AKUMENTIS HEALTHCARE LTD,,,27.39
+DXN0006,dxn spirulina caps,,capsule,dxn spirulina,dxn spirulina capsule,1,dxn,dxn,dxn,1,DUMMY,,,3.58
+ECS0014,ecsopile cap 30's,,capsule,ecsopile,ecsopile 30s,1,ecsopile,ecsopile,ecsopile,1,ECSTASY BIOTECH PVT LTD,,,165.0
+EDB0002,edboost cap 10's (zerico),,capsule,edboost,edboost 10s zerico,1,edboost,edboost,edboost,10,ZERICO LIFESCIENCES PVT LTD,,,19.5
+EDP0003,e d phenicol 1%w/w eye oint-eye cap 100's,,capsule,e d phenicol 1% w/w eye ointment eye,e d phenicol 1% w/w eye ointment 100s,1,e d phenicol 1% w/w eye ointment,e d phenicol 1% w/w eye,e d phenicol 1% w/w,1,EAMON DRUGS PVT LTD,,,60.0
+EFU0002,e full nt 400 softgel cap 10's,,capsule,e full nt 400 softgel,e full nt 400 softgel 10s,1,e full nt 400,e full nt,e full,10,SARGA HEALTHCARE,,,7.2
+EIC0003,ei-clide cap,,capsule,ei clide,ei clide capsule,1,ei,ei,ei,10,CLIDE INTERNATIONAL PVT LTD,,,7.5
+ELA0006,elastic tubler knee cap,,capsule,elastic tubler knee,elastic tubler knee capsule,1,elastic tubler,elastic,elastic,1,VIS-VISCO,,,285.0
+ELA0042,elastic knee cap,,capsule,elastic knee,elastic knee capsule,1,elastic,elastic,elastic,1,ABBOTT LABORATORIES,,,240.0
+ELF0010,elferi z cap 30's,,capsule,elferi z,elferi z 30s,1,elferi,elferi,elferi,1,SVIZERA HEALTH REMEDIES LLP,,,1.65
+ELI0067,eli glow cap,,capsule,eli glow,eli glow capsule,1,eli,eli,eli,1,DUMMY,,,90.0
+EMB0037,embonite cap,,capsule,embonite,embonite capsule,1,embonite,embonite,embonite,10,EMSALVE PHARMA,,,15.0
+END0460,enduron cap 60's (eliph),,capsule,enduron,enduron 60s eliph,1,enduron,enduron,enduron,1,ELIPH NUTRITION PVT LTD,,,675.0
+END0463,end cap (basic health),,capsule,end,end basic health,1,end,end,end,1,BASIC PHARMA LIFE SCIENCES,,,37.4
+END0468,endotone cap 20's (charak),,capsule,endotone,endotone 20s charak,1,endotone,endotone,endotone,20,CHARAK PHARMA PVT LTD,,,6.8
+ENE0021,energen   cap 10's,,capsule,energen,energen 10s,1,energen,energen,energen,10,GLOBAL NUTRITION,,,3.5
+ENN0003,ennastone caps 50,,capsule,ennastone,ennastone 50,1,ennastone,ennastone,ennastone,1,SAG-SAGAR,,,50.0
+ENU0013,enuril cap 10's,,capsule,enuril,enuril 10s,1,enuril,enuril,enuril,10,TEJ-TEJA AYURVEDA NILAYAM PROD,,,60.0
+ENZ0117,enzoset cap 10's,,capsule,enzoset,enzoset 10s,1,enzoset,enzoset,enzoset,10,SARGAS LIFE SCIENCES PVT LTD,,,15.2
+EPS0022,epsolin er 100mg cap 10's,,capsule,epsolin,epsolin 100 10s,1,epsolin,epsolin,epsolin,10,ZYDUS CADILA HEALTHCARE LTD,,,6.4
+ERO0051,erobone cap 30 s,,capsule,erobone,erobone 30 s,1,erobone,erobone,erobone,1,DUMMY,,,8.33
+ERO0069,erotican cap 10's (sanat),,capsule,erotican,erotican 10s sanat,1,erotican,erotican,erotican,10,SANAT PRODUCTS LTD,,,22.5
+ESF0014,esfit cap 10's,,capsule,esfit,esfit 10s,1,esfit,esfit,esfit,10,NEO PRAKRUTI PHARMACEUTICALS PVT LTD,,,18.0
+ESI0065,esiflow cap 10's (orbit),,capsule,esiflow,esiflow 10s orbit,1,esiflow,esiflow,esiflow,10,ORBIT BIOCARE,,,4.5
+ESL0041,esliv-ds cap 15's,,capsule,esliv ds,esliv ds 15s,1,esliv,esliv,esliv,15,DUMMY,,,9.66
+ESL0053,esliv cap 10's (akash),,capsule,esliv,esliv 10s akash,1,esliv,esliv,esliv,10,AAKASH PHARMACEUTICALS LTD,,,9.0
+EVE0003,evecare cap 10's,,capsule,evecare,evecare 10s,1,evecare,evecare,evecare,10,EWF PHARMACEUTICALS P LTD,,,110.0
+EVE0252,eveplat cap,,capsule,eveplat,eveplat capsule,1,eveplat,eveplat,eveplat,1,DUMMY,,,1240.0
+EXS0006,ex stone cap 10's,,capsule,ex stone,ex stone 10s,1,ex,ex,ex,10,DUMMY,,,5.0
+EXT0056,extinguish cap 10's,,capsule,extinguish,extinguish 10s,1,extinguish,extinguish,extinguish,10,SHRESHTA PHARMA,,,3.7
+EZY0017,ezyout cap 18's (austin),,capsule,ezyout,ezyout 18s austin,1,ezyout,ezyout,ezyout,1,AUSTIN PHARMACEUTICALS LTD,,,180.0
+FAL0089,falaa gold cap 10's (ban labs),,capsule,falaa gold,falaa gold 10s ban labs,1,falaa,falaa,falaa,10,BAN LABS (P) LTD.,,,80.0
+FAS0111,fast&up promega omega 3 rich fish oil softgel cap 60's,,capsule,fast&up promega omega 3 rich fish oil softgel,fast&up promega omega 3 rich fish oil softgel 60s,1,fast&up promega omega 3 rich fish oil,fast&up promega omega 3 rich fish,fast&up promega omega 3 rich,1,AERONUTRIX SPORTS PRODUCTS PVT LTD,,,1250.0
+FAS0150,fast&up plant based joint care 3in1 cap 20's,,capsule,fast&up plant based joint care 3in1,fast&up plant based joint care 3in1 20s,1,fast&up plant based joint care,fast&up plant based joint,fast&up plant based,1,AERONUTRIX SPORTS PRODUCTS PVT LTD,,,1200.0
+FEE0098,feedicare cap 30's (spectra),,capsule,feedicare,feedicare 30s spectra,1,feedicare,feedicare,feedicare,30,SPECTRA PHARMACEUTICALS,,,6.0
+FEM0181,femgaurd forte cap,,capsule,femgaurd forte,feaurd forte capsule,1,femgaurd,femgaurd,femgaurd,1,DOMAGK SMITH LAB PVT LTD,,,15.0
+FEM0239,feminac cap 30's,,capsule,feminac,feminac 30s,1,feminac,feminac,feminac,1,INDIAN HERBALS REMEDIES,,,150.0
+FEM0245,femiwell cap,,capsule,femiwell,femiwell capsule,1,femiwell,femiwell,femiwell,10,INDIAN HERBALS REMEDIES,,,6.0
+FEN0108,fenugreek cap,,capsule,fenugreek,fenugreek capsule,1,fenugreek,fenugreek,fenugreek,1,ADONIS LABORATORIES PVT LTD,,,7.9
+FEN0116,cr fenfuro diabetic support 30 cap,,capsule,cr fenfuro diabetic support,cr fenfuro diabetic support 30 capsule,1,cr fenfuro diabetic,cr fenfuro,cr,10,SHA-SHALEEN PHARMACEUTICALS,,,28.16
+FER1097,ferress cap 10's (akash),,capsule,ferress,ferress 10s akash,1,ferress,ferress,ferress,10,AAKASH PHARMACEUTICALS LTD,,,6.5
+FEV0078,fevijoint 500 cap 10's (bsa),,capsule,fevijoint,fevijoint 500 10s bsa,1,fevijoint,fevijoint,fevijoint,10,BSA PHARMA INC,,,15.5
+FIL0140,filtra surgeon cap 100's (thea-tex),,capsule,filtra surgeon,filtra surgeon 100s thea tex,1,filtra,filtra,filtra,100,THEA-TEX,,,12.0
+FIS0024,fish oil wellness omega 3 fatty acids softgel cap 60's,,capsule,fish oil wellness omega 3 fatty acids softgel,fish oil wellness omega 3 fatty acids softgel 60s,1,fish oil wellness omega 3 fatty acids,fish oil wellness omega 3 fatty,fish oil wellness omega 3,1,STEADFAST MEDISHIELD PVT LTD,,,600.0
+FIT0104,fitspire fit curcumin cap 60's,,capsule,fitspire fit curcumin,fitspire fit curcumin 60s,1,fitspire fit,fitspire,fitspire,1,STARCARE,,,1899.0
+FIT0105,fitspire keto fit cap 60's,,capsule,fitspire keto fit,fitspire keto fit 60s,1,fitspire keto,fitspire,fitspire,1,STARCARE,,,1799.0
+FIX0243,fixuphealth omega 3679 vegan (60 capsules),,capsule,fixuphealth omega 3679 vegan,fixuphealth omega 3679 vegan 60 capsule,1,fixuphealth omega 3679,fixuphealth omega,fixuphealth,1,3M INDIA LTD,,,1.0
+FIZ0019,fizislim 60's capsules,,capsule,fizislim 60s,fizislim 60s capsule,1,fizislim,fizislim,fizislim,1,FIZIKEM LIFE SCIENCES,,,390.0
+FLA0268,flashpan cap,,capsule,flashpan,flashpan capsule,1,flashpan,flashpan,flashpan,1,PINK INDIA LIFE SCIENCES LID,,,8.0
+FLA0305,flash cap,,capsule,flash,flash capsule,1,flash,flash,flash,1,THE-THE ARYA VAIDYA PHARMACY (,,,56.0
+FLE0218,flexy cap 10's,,capsule,flexy,flexy 10s,1,flexy,flexy,flexy,10,GREEN REMEDIES,,,3.3
+FLO0176,florite bottle cap,,capsule,florite bottle,florite bottle capsule,1,florite,florite,florite,1,FLO- FLORITE CONSUMER,,,35.0
+FLO0337,florican knee cap-flamingo-knee cap,,capsule,florican knee,florican knee flamingo knees,2,florican,florican,florican,1,FLAMINGO PHARMACEUTICALS,,,159.0
+FLU0608,flushout cap,,capsule,flushout,flushout capsule,1,flushout,flushout,flushout,1,AAD-AADI HERBALS PVT.LTD,,,155.0
+FLU0788,fluxus cap 24's (positif),,capsule,fluxus,fluxus 24s positif,1,fluxus,fluxus,fluxus,1,POSITIF LIFESCIENCES PVT LTD,,,130.0
+FLU0795,fluvia 75mg cap 10's,,capsule,fluvia,fluvia 75 10s,1,fluvia,fluvia,fluvia,10,MACLEODS PHARMACEUTICALS LTD,,,49.9
+FOC0018,f oc-2013 m knee cap,,capsule,f oc 2013 m knee,f oc 2013 m knee capsule,1,f oc 2013 m,f oc 2013,f oc,1,3M INDIA LTD,,,300.0
+FOC0020,f oc 2127 large premium knee cap,,capsule,f oc 2127 large premium knee,f oc 2127 large premium knee capsule,1,f oc 2127 large premium,f oc 2127 large,f oc 2127,1,3M INDIA LTD,,,430.0
+FOC0027,f oc-2013 x-large knee cap,,capsule,f oc 2013 x large knee,f oc 2013 x large knee capsule,1,f oc 2013 x large,f oc 2013 x,f oc 2013,1,3M INDIA LTD,,,340.0
+FOC0037,f oc-2127 medium premium knee cap,,capsule,f oc 2127 medium premium knee,f oc 2127 medium premium knee capsule,1,f oc 2127 medium premium,f oc 2127 medium,f oc 2127,1,3M INDIA LTD,,,430.0
+FOC0038,f oc-2127 small premium knee cap,,capsule,f oc 2127 small premium knee,f oc 2127 small premium knee capsule,1,f oc 2127 small premium,f oc 2127 small,f oc 2127,1,3M INDIA LTD,,,349.0
+FOL0749,folsure cap 10's,,capsule,folsure,folsure 10s,1,folsure,folsure,folsure,10,SURYA PHARMACEUTICALS,,,12.0
+FOL0848,folic acid plus mango flav cap 60's (nutraswiss),,capsule,folic acid plus mango flav,folic acid plus mango flav 60s nutraswiss,1,folic acid plus mango,folic acid plus,folic acid,1,NUTRASWISS PVT LTD,,,1600.0
+FRA0051,franch orthovin cap 10's,,capsule,franch orthovin,franch orthovin 10s,1,franch,franch,franch,10,MOT-MOTHERLAND  LAB,,,8.0
+FRA0059,franch diafite cap,,capsule,franch diafite,franch diafite capsule,1,franch,franch,franch,1,INDOCO,,,8.0
+FRA0106,fracbind cap 10's (flaron),,capsule,fracbind,fracbind 10s flaron,1,fracbind,fracbind,fracbind,10,FLARON HEALTHCARE PVT LTD,,,18.4
+FRE0066,freestone cap,,capsule,freestone,freestone capsule,1,freestone,freestone,freestone,1,3M INDIA LTD,,,6.0
+FRE0158,freemodex caps,,capsule,freemodex,freemodex capsule,1,freemodex,freemodex,freemodex,10,JAF-JAFFMAN,,,3.8
+FUS0128,fusion  veggie (60-am+60-pm) cap,,capsule,fusion veggie 60 am+60 pm,fusion veggie 60 am+60 pm capsule,1,fusion veggie 60 am+60,fusion veggie 60,fusion veggie,1,MINDSMEET HEALTH SOLUTIONS PVT LTD,,,4000.0
+GAL0062,galact o zen cap 10's (progen),,capsule,galact o zen,galact o zen 10s progen,1,galact o,galact,galact,10,PROGEN BIOTECH PVT LTD,,,3.8
+GAM0067,gamrid cat cap,,capsule,gamrid cat,gamrid cat capsule,1,gamrid,gamrid,gamrid,1,DUMMY,,,30.0
+GAR0300,garlicon cap 100's,,capsule,garlicon,garlicon 100s,1,garlicon,garlicon,garlicon,1,SG PHARMACEUTICALS LTD,,,2.0
+GAR0360,garbolin ce cap,,capsule,garbolin ce,garbolin ce capsule,1,garbolin,garbolin,garbolin,10,MOVA PHARMACEUTICALS PVT LTD,,,26.65
+GCB0001,cr gcb 70 green coffee bean 500mg cap 30's,,capsule,cr gcb 70 green coffee bean,cr gcb 70 green coffee bean 500 30s,1,cr gcb 70 green coffee,cr gcb 70 green,cr gcb 70,1,CR CHEMICAL RESOURCES,,,1060.0
+GEL0109,gel toe caps 1 pair akl020 (ortho),,capsule,gel toe,gel toe 1 pair akl020 ortho,1,gel,gel,gel,1,ORT-ORTHO,,,296.0
+GEN0452,genu grip knee cap (right)(xxl)(dyna),,capsule,genu grip knee,genu grip knee right xxl dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,895.0
+GEN0453,genu grip knee cap(left)(l)(dyna),,capsule,genu grip knee,genu grip knee left l dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,1000.0
+GEN0454,genu grip knee cap (left)(m)(dyna),,capsule,genu grip knee,genu grip knee left m dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,895.0
+GEN0455,genu grip knee cap (left)(s)(dyna),,capsule,genu grip knee,genu grip knee left s dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,895.0
+GEN0456,genu grip knee cap (left)(xl)(dyna),,capsule,genu grip knee,genu grip knee left dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,1000.0
+GEN0457,genu grip knee cap (right)(m)(dyna),,capsule,genu grip knee,genu grip knee right m dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,895.0
+GEN0458,genu grip knee cap (right)(xl)(dyna),,capsule,genu grip knee,genu grip knee right dyna,1,genu grip,genu,genu,1,DYN-DYNA TECHNO MEDICAL PVT LT,,,1000.0
+GET0048,getrim cap 30's,,capsule,getrim,getrim 30s,1,getrim,getrim,getrim,1,BER-BERKO,,,456.0
+GET0078,getreed corn caps-4pc,,capsule,getreed corn,getreed corn 4pc,1,getreed,getreed,getreed,4,3M INDIA LTD,,,42.0
+GET0079,getreed corn capr-2pic,,capsule,getreed corn,getreed corn 2pic,1,getreed,getreed,getreed,1,3M INDIA LTD,,,35.0
+GET0080,getreed corn cap 2 pis big,,capsule,getreed corn,getreed corn 2 pis big,1,getreed,getreed,getreed,1,3M INDIA LTD,,,35.0
+GID0003,gid plus cap 10's,,capsule,gid plus,gid plus 10s,1,gid,gid,gid,10,ABBOTT LABORATORIES,,,3.84
+GIN0033,gingecap cap 12's,,capsule,ginge,ginge capsules 12s,2,ginge,ginge,ginge,1,AUREATE HEALTHCARE PVT LTD,,,12.5
+GIS0004,gispire cap 10's,,capsule,gispire,gispire 10s,1,gispire,gispire,gispire,10,SANGYO LTD,,,6.8
+GLA0780,glamitrol softgel cap 10's,,capsule,glamitrol softgel,glamitrol softgel 10s,1,glamitrol,glamitrol,glamitrol,10,COGNIWELL PHARMACEUTICALS PVT LTD,,,19.9
+GLO0160,glowsan cap 10's,,capsule,glowsan,glowsan 10s,1,glowsan,glowsan,glowsan,10,DUMMY,,,9.5
+GLO0270,globin z cap 10's,,capsule,globin z,globin z 10s,1,globin,globin,globin,10,DUMMY,,,5.0
+GLO0532,gloss min cap 30's,,capsule,gloss min,gloss min 30s,1,gloss,gloss,gloss,1,ADONIS LABORATORIES PVT LTD,,,150.0
+GLY0170,glycem cap 10's,,capsule,glycem,glycem 10s,1,glycem,glycem,glycem,10,DUMMY,,,7.9
+GLY0472,glycidrop cap 10's,,capsule,glycidrop,glycidrop 10s,1,glycidrop,glycidrop,glycidrop,10,AUCTUS LABS PVT LTD,,,6.9
+GNC0002,gnc triple ginseng root veg cap 90's,,capsule,gnc triple ginseng root veg,gnc triple ginseng root veg 90s,1,gnc triple ginseng root,gnc triple ginseng,gnc triple,1,GUA- GUARDIAN HEALTH CARE,,,3099.0
+GNC0027,gnc salmon oil plus omega-3 fatty acids softgel cap 180's,,capsule,gnc salmon oil plus omega 3 fatty acids softgel,gnc salmon oil plus omega 3 fatty acids softgel 180s,1,gnc salmon oil plus omega 3 fatty acids,gnc salmon oil plus omega 3 fatty,gnc salmon oil plus omega 3,1,GUA- GUARDIAN HEALTH CARE,,,2199.0
+GNN0001,gnn green tea ext 315mg 200 cap     3132,,capsule,gnn green tea ext,gnn green tea ext 315 200 3132,1,gnn green tea,gnn green,gnn,1,HOLLAND AND BARRETT,,,875.0
+GNN0002,gnn bilberry 375mg 100 caps     3451,,capsule,gnn bilberry,gnn bilberry 375 100 3451,1,gnn,gnn,gnn,1,HOLLAND AND BARRETT,,,495.0
+GNN0003,gnn hawthorn 150mg 100 caps     4540,,capsule,gnn hawthorn,gnn hawthorn 150 100 4540,1,gnn,gnn,gnn,1,HOLLAND AND BARRETT,,,1295.0
+GNN0004,gnn ginger root 550mg 100 caps   5145,,capsule,gnn ginger root,gnn ginger root 550 100 5145,1,gnn ginger,gnn,gnn,1,HOLLAND AND BARRETT,,,645.0
+GNN0005,gnn sage leaf 285mg 100 caps     5365,,capsule,gnn sage leaf,gnn sage leaf 285 100 5365,1,gnn sage,gnn,gnn,1,HOLLAND AND BARRETT,,,695.0
+GNN0007,gnn red clover 430mg 100 caps     5131,,capsule,gnn red clover,gnn red clover 430 100 5131,1,gnn red,gnn,gnn,1,HOLLAND AND BARRETT,,,775.0
+GOG0003,gogila cap,,capsule,gogila,gogila capsule,1,gogila,gogila,gogila,1,GOD GIFT HEALTH CARE PVT LTD,,,4.5
+GOO0143,good life 40 s cap,,capsule,good life 40 s,good life 40 s capsule,1,good life 40,good life,good,1,SUS- SUSHRUTH COMPANY,,,24.93
+GOO0160,good 4g plus cap 10's,,capsule,good 4g plus,good 4g plus 10s,1,good 4g,good,good,10,LIFE VISION MEDICARE PVT LTD,,,15.0
+GOS0021,gostone cap 30's (him),,capsule,gostone,gostone 30s him,1,gostone,gostone,gostone,1,HIM AYURVEDA CHIKITSA KENDRA,,,240.0
+GOT0006,gothin cap 30's,,capsule,gothin,gothin 30s,1,gothin,gothin,gothin,1,REPLIGEN LIFE SCIENCE PVT. LTD,,,450.0
+GRE0091,green calls kamana cap(women),,capsule,green calls kamana,green calls kamana women,1,green calls,green,green,1,NATTURA BIOCARE PVT LTD,,,24.0
+GRE0108,green calls new force cap men,,capsule,green calls new force,green calls new force men,1,green calls new,green calls,green,1,SHA-SHANKAR PHARMACY,,,29.5
+GRE0161,green o3 softgel cap 15's,,capsule,green o3 softgel,green o3 softgel 15s,1,green o3,green,green,15,ENMA PHARMACEUTICALS PVT LTD,,,13.5
+GRO0033,gromor cap 30's,,capsule,gromor,gromor 30s,1,gromor,gromor,gromor,1,ARISE BIOCARE PVT LTD,,,130.0
+GSH0002,gsh ultra 250mg softgel cap 15's,,capsule,gsh ultra,gsh ultra 250 softgel 15s,1,gsh,gsh,gsh,15,BRIOGEM BIOGENICS PVT LTD,,,298.73
+GUD0080,gudfix-forte cap 10's,,capsule,gudfix forte,gudfix forte 10s,1,gudfix,gudfix,gudfix,10,CUB-CUBIT HEATHCARE,,,13.25
+GUG0001,guggulhills cap,,capsule,guggulhills,guggulhills capsule,1,guggulhills,guggulhills,guggulhills,1,HER-HERBAL HILLS,,,137.0
+GYN0049,gynec forte cap,,capsule,gynec forte,gynec forte capsule,1,gynec,gynec,gynec,10,GERMAN REMEDIES LTD,,,10.0
+HAI0025,hairich   cap 10's,,capsule,hairich,hairich 10s,1,hairich,hairich,hairich,10,ABBOTT LABORATORIES,,,5.35
+HAM0034,hamdoroid cap 10's,,capsule,hamdoroid,hamdoroid 10s,1,hamdoroid,hamdoroid,hamdoroid,10,HAMDARD LABORATORIES PVT LTD,,,5.3
+HAM0047,hammer cap,,capsule,hammer,hammer capsule,1,hammer,hammer,hammer,1,PKE-PK ENTERPRISES,,,7.0
+HAR0035,haritaki   cap,,capsule,haritaki,haritaki capsule,1,haritaki,haritaki,haritaki,1,ZANDU PHARMACEUTICAL WORKS,,,30.0
+HAR0042,hartone cap,,capsule,hartone,hartone capsule,1,hartone,hartone,hartone,10,LUPIN LABORATORIES LTD,,,3.8
+HAR0091,haridra cap,,capsule,haridra,haridra capsule,1,haridra,haridra,haridra,1,THE HIMALAYA DRUG COMPANY-(WELLNESS),,,2.0
+HBG0007,h&b garcinia cambogia and green coffee bean cap 100's,,capsule,h&b garcinia cambogia and green coffee bean,h&b garcinia cambogia and green coffee bean 100s,1,h&b garcinia cambogia and green coffee,h&b garcinia cambogia and green,h&b garcinia cambogia and,1,HOLLAND AND BARRETT,,,3999.0
+HBK0002,h&b kids omega 3 fish oils orange flav chewy cap 60's,,capsule,h&b paediatric omega 3 fish oils orange flav chewy,h&b paediatric omega 3 fish oils orange flav chewy 60s,1,h&b paediatric omega 3 fish oils orange flav,h&b paediatric omega 3 fish oils orange,h&b paediatric omega 3 fish oils,1,APOLLO HOSPITALS ENTERPRIS LTD,,,1299.0
+HBP0006,h&b primrose oil 1300mg softgel cap 60's,,capsule,h&b primrose oil,h&b primrose oil 1300 softgel 60s,1,h&b primrose,h&b,h&b,1,HOLLAND AND BARRETT,,,1699.0
+HEA0043,head cap,,capsule,head,head capsule,1,head,head,head,1,ADONIS LABORATORIES PVT LTD,,,10.0
+HEA0105,heal gut cap 10's,,capsule,heal gut,heal gut 10s,1,heal,heal,heal,10,KEIMEDS PVT LTD,,,6.6
+HEA0306,health aid tang forte 30s cap,,capsule,health aid tang forte 30s,health aid tang forte 30s capsule,1,health aid tang forte,health aid tang,health aid,1,AARKIOS HEALTH PVT LTD,,,1820.0
+HEA0309,health aid koregin 3000 30s cap,,capsule,health aid koregin 3000 30s,health aid koregin 3000 30s capsule,1,health aid koregin 3000,health aid koregin,health aid,1,AARKIOS HEALTH PVT LTD,,,1670.0
+HEA0311,health aid hair vit max 90s cap,,capsule,health aid hair vit max 90s,health aid hair vit max 90s capsule,1,health aid hair vit max,health aid hair vit,health aid hair,1,AARKIOS HEALTH PVT LTD,,,1745.0
+HEA0314,health aid flax seed oil 1000mg 60's caps,,capsule,health aid flax seed oil,health aid flax seed oil 1000 60s capsule,1,health aid flax seed,health aid flax,health aid,1,AARKIOS HEALTH PVT LTD,,,1200.0
+HEA0336,health aid vitamin e 400 i.u 30s cap,,capsule,health aid vitamin e 400 i.u 30s,health aid vitamin e 400 i.u 30s capsule,1,health aid vitamin e 400 i.u,health aid vitamin e 400,health aid vitamin e,1,AARKIOS HEALTH PVT LTD,,,1700.0
+HEA0340,health aid alpha lipoic acid 250mg 60 cap,,capsule,health aid alpha lipoic acid,health aid alpha lipoic acid 250 60 capsule,1,health aid alpha lipoic,health aid alpha,health aid,1,AARKIOS HEALTH PVT LTD,,,2765.0
+HEA0341,health aid cod liver oil 1000mg 30s cap,,capsule,health aid cod liver oil,health aid cod liver oil 1000 30s capsule,1,health aid cod liver,health aid cod,health aid,1,AARKIOS HEALTH PVT LTD,,,1140.0
+HEA0344,health aid cider trim 90s cap,,capsule,health aid cider trim 90s,health aid cider trim 90s capsule,1,health aid cider trim,health aid cider,health aid,1,AARKIOS HEALTH PVT LTD,,,1575.0
+HEA0349,health aid hair vit 30s cap,,capsule,health aid hair vit 30s,health aid hair vit 30s capsule,1,health aid hair vit,health aid hair,health aid,1,AARKIOS HEALTH PVT LTD,,,1070.0
+HEA0362,heart fitz cap,,capsule,heart fitz,heart fitz capsule,1,heart,heart,heart,1,CLIDE INTERNATIONAL PVT LTD,,,360.0
+HEA0379,health aid cod liver oil 1000mg 60's caps,,capsule,health aid cod liver oil,health aid cod liver oil 1000 60s capsule,1,health aid cod liver,health aid cod,health aid,1,AARKIOS HEALTH PVT LTD,,,1890.0
+HEA0401,heart fitz cap 60's,,capsule,heart fitz,heart fitz 60s,1,heart,heart,heart,1,CLIDE INTERNATIONAL PVT LTD,,,360.0
+HEA0415,healing fast cap 10's (lemark remedies),,capsule,healing fast,healing fast 10s lemark remedies,1,healing,healing,healing,10,LEMARK REMEDIES,,,19.8
+HEA0441,health aid cod liver oil 550mg cap 90's,,capsule,health aid cod liver oil,health aid cod liver oil 550 90s,1,health aid cod liver,health aid cod,health aid,1,AARKIOS HEALTH PVT LTD,,,1675.0
+HEA0442,health aid cod liver oil 550mg cap 250's,,capsule,health aid cod liver oil,health aid cod liver oil 550 250s,1,health aid cod liver,health aid cod,health aid,1,AARKIOS HEALTH PVT LTD,,,3285.0
+HEA0497,healthvit omega-3 fish oil strength 1000mg caps 60's,,capsule,healthvit omega 3 fish oil strength,healthvit omega 3 fish oil strength 1000 60s,1,healthvit omega 3 fish oil,healthvit omega 3 fish,healthvit omega 3,1,WEST COAST PHARMACEUTICALS PVT LTD,,,800.0
+HEA0518,health aid multimax for men softgel cap 30's,,capsule,health aid multimax for men softgel,health aid multimax for men softgel 30s,1,health aid multimax for men,health aid multimax for,health aid multimax,1,AARKIOS HEALTH PVT LTD,,,1625.0
+HEA0535,"healthvit high absorption magnesium oxide 400 mg, capsules 6",,capsule,healthvit high absorption magnesium oxide,healthvit high absorption magnesium oxide 400 6,1,healthvit high absorption magnesium,healthvit high absorption,healthvit high,1,WEST COAST PHARMACEUTICALS PVT LTD,,,600.0
+HEA0546,healthvit r-col activated charcoal 250mg cap 60's,,capsule,healthvit r col activated charcoal,healthvit r col activated charcoal 250 60s,1,healthvit r col activated,healthvit r col,healthvit r,1,WEST COAST PHARMACEUTICALS PVT LTD,,,600.0
+HEA0558,healthvit co-qvit coenzyme q10 200mg caps 60's,,capsule,healthvit co qvit coenzyme q10,healthvit co qvit coenzyme q10 200 60s,1,healthvit co qvit coenzyme,healthvit co qvit,healthvit co,1,WEST COAST PHARMACEUTICALS PVT LTD,,,2000.0
+HEA0596,healthvit co-qvit coenzyme q-10 100mg cap 60's,,capsule,healthvit co qvit coenzyme q 10,healthvit co qvit coenzyme q 10 100 60s,1,healthvit co qvit coenzyme q,healthvit co qvit coenzyme,healthvit co qvit,1,WEST COAST PHARMACEUTICALS PVT LTD,,,1600.0
+HEA0618,heal pre bio cap 10's,,capsule,heal pre bio,heal pre bio 10s,1,heal pre,heal,heal,10,HEAL HEALTH BIOTECH,,,19.0
+HEL0106,heliocare cap 60's,,capsule,heliocare,heliocare 60s,1,heliocare,heliocare,heliocare,1,SKINNOVATION PVT LTD,,,3200.0
+HEM0242,hemipure cap 10's (four-s),,capsule,hemipure,hemipure 10s four s,1,hemipure,hemipure,hemipure,10,FOU-FOUR-S LAB,,,4.0
+HEP0181,hepatoblis cap 10's,,capsule,hepatoblis,hepatoblis 10s,1,hepatoblis,hepatoblis,hepatoblis,10,BRIO BLISS LIFE SCIENCE PVT LTD,,,9.9
+HEP0335,hepta-10 cap 10's (rodbel),,capsule,hepta,hepta 10 10s rodbel,1,hepta,hepta,hepta,10,RODBEL GILLMEN PHARMAKIN,,,8.5
+HER0165,herborest cap 60's,,capsule,herborest,herborest 60s,1,herborest,herborest,herborest,1,ELIPH NUTRITION PVT LTD,,,675.0
+HER0174,herboglo cap 60's (eliph),,capsule,herboglo,herboglo 60s eliph,1,herboglo,herboglo,herboglo,1,ELIPH NUTRITION PVT LTD,,,675.0
+HER0181,herborest cr cap 10's (eliph),,capsule,herborest,herborest 10s eliph,1,herborest,herborest,herborest,10,ELIPH NUTRITION PVT LTD,,,16.0
+HER0240,herboflex cap 10's (herbal),,capsule,herboflex,herboflex 10s herbal,1,herboflex,herboflex,herboflex,10,HER-HERBALRESEARCHINSTITUTE,,,15.0
+HIB0016,hibril cap 10's,,capsule,hibril,hibril 10s,1,hibril,hibril,hibril,10,ABBOTT LABORATORIES,,,3.7
+HIF0078,hif-forte cap 30's,,capsule,hif forte,hif forte 30s,1,hif,hif,hif,1,DUMMY,,,1560.0
+HIG0011,hightop caps,,capsule,hightop,hightop capsule,1,hightop,hightop,hightop,1,RAJ MEDICORP,,,345.0
+HIG0013,high caro cap 10's,,capsule,high caro,high caro 10s,1,high,high,high,10,HELIOS PHARMACEUTICALS,,,8.0
+HIG0024,hightplus cap,,capsule,hightplus,hightplus capsule,1,hightplus,hightplus,hightplus,1,CAH-CADILA HEALTHCARE LTD,,,5.0
+HIL0042,hilook cap 10's,,capsule,hilook,hilook 10s,1,hilook,hilook,hilook,10,BHA-BHARATH,,,4.0
+HIL0053,hills cap,,capsule,hills,hills capsule,1,hills,hills,hills,1,AUSTRO LABS LTD,,,9.5
+HIM0304,himcospaz cap,,capsule,himcospaz,himcospaz capsule,1,himcospaz,himcospaz,himcospaz,1,THE HIMALAYA DRUG COMPANY-(PHARMA),,,3.0
+HIM0645,himfort cap 10's,,capsule,himfort,himfort 10s,1,himfort,himfort,himfort,10,MUL-MULTANI PHARMA,,,23.0
+HIM0709,himalayan organics ginkgo biloba cap 60's,,capsule,himalayan organics ginkgo biloba,himalayan organics ginkgo biloba 60s,1,himalayan organics ginkgo,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,999.0
+HIM0711,himalayan organics immunity booster cap 60's,,capsule,himalayan organics immunity booster,himalayan organics immunity booster 60s,1,himalayan organics immunity,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,1075.0
+HIM0714,himalayan organics maca root 800mg cap 90's,,capsule,himalayan organics maca root,himalayan organics maca root 800 90s,1,himalayan organics maca,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,1265.0
+HIM0717,himalayan organics milk thistle cap 120's,,capsule,himalayan organics milk thistle,himalayan organics milk thistle 120s,1,himalayan organics milk,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,1095.0
+HIM0719,himalayan organics vegan omega-3 cap 90's,,capsule,himalayan organics vegan omega,himalayan organics vegan omega 3 90s,1,himalayan organics vegan,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,1175.0
+HIM0720,himalayan organics collagen builder cap 90's,,capsule,himalayan organics collagen builder,himalayan organics collagen builder 90s,1,himalayan organics collagen,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,895.0
+HIM0722,himalayan organic plant based d3+k2 cap 120's,,capsule,himalayan organic plant based d3+k2,himalayan organic plant based d3+k2 120s,1,himalayan organic plant based,himalayan organic plant,himalayan organic,1,VLADO SKY ENTERPRISE PVT LTD,,,1275.0
+HIM0723,himalayan org hair vitamin biotin cap 60's,,capsule,himalayan org hair vitamin biotin,himalayan org hair vitamin biotin 60s,1,himalayan org hair vitamin,himalayan org hair,himalayan org,1,VLADO SKY ENTERPRISE PVT LTD,,,975.0
+HIM0725,himalayan organics joint support cap 120's,,capsule,himalayan organics joint support,himalayan organics joint support 120s,1,himalayan organics joint,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,1145.0
+HIM0726,himalayan org plant based multivita cap 60's,,capsule,himalayan org plant based multivita,himalayan org plant based multivita 60s,1,himalayan org plant based,himalayan org plant,himalayan org,1,VLADO SKY ENTERPRISE PVT LTD,,,995.0
+HIM0727,himalayanorganic plant based vita e cap 30's,,capsule,himalayanorganic plant based vita e,himalayanorganic plant based vita e 30s,1,himalayanorganic plant based vita,himalayanorganic plant based,himalayanorganic plant,1,VLADO SKY ENTERPRISE PVT LTD,,,1045.0
+HIM0731,himalayan organics saw palmetto 800mg cap 60's,,capsule,himalayan organics saw palmetto,himalayan organics saw palmetto 800 60s,1,himalayan organics saw,himalayan organics,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,1499.0
+HIM0732,himalayan organics spirulina 2000mg cap 120's,,capsule,himalayan organics spirulina,himalayan organics spirulina 2000 120s,1,himalayan organics,himalayan,himalayan,1,VLADO SKY ENTERPRISE PVT LTD,,,945.0
+HIN0016,hinged knee cap (m) vissco,,capsule,hinged knee,hinged knee m vissco,1,hinged,hinged,hinged,1,VIS-VISCO,,,335.0
+HIN0017,"hinged knee cap (x,l) vissco",,capsule,hinged knee,hinged knee x l vissco,1,hinged,hinged,hinged,1,VIS-VISCO,,,443.0
+HIN0058,hinged knee cap (s) vissco,,capsule,hinged knee,hinged knee s vissco,1,hinged,hinged,hinged,1,VIS-VISCO,,,335.0
+HIN0059,hinged knee cap (l) vissco,,capsule,hinged knee,hinged knee l vissco,1,hinged,hinged,hinged,1,VIS-VISCO,,,355.0
+HIN0111,hinged knee cap xl (flamingo),,capsule,hinged knee,hinged knee flamingo,1,hinged,hinged,hinged,1,ASCENT HEALTH CARE LTD,,,545.0
+HKV0008,hk vitals vitamin d3 2000iu softgel cap 60's,,capsule,hk vitals vitamin d3 2000iu softgel,hk vitals vitamin d3 2000iu softgel 60s,1,hk vitals vitamin d3 2000iu,hk vitals vitamin d3,hk vitals vitamin,1,BRIGHT LIFECARE PVT LTD,,,599.0
+HKV0011,hk vitals super strength fish oil 840mg softgel cap 60's,,capsule,hk vitals super strength fish oil,hk vitals super strength fish oil 840 softgel 60s,1,hk vitals super strength fish,hk vitals super strength,hk vitals super,1,BRIGHT LIFECARE PVT LTD,,,999.0
+HNB0002,h&b vitamin e 100 iu 100 caps     260,,capsule,h&b vitamin e 100 iu,h&b vitamin e 100 iu 260,1,h&b vitamin e 100,h&b vitamin e,h&b vitamin,1,HOLLAND AND BARRETT,,,1095.0
+HNB0003,h&b vitamin e 200 iu 100 caps     270,,capsule,h&b vitamin e 200 iu,h&b vitamin e 200 iu 100 270,1,h&b vitamin e 200,h&b vitamin e,h&b vitamin,1,HOLLAND AND BARRETT,,,1395.0
+HNB0014,h&b vitamin d3 10ug 100 softgel cap 34951,,capsule,h&b vitamin d3 10ug 100 softgel,h&b vitamin d3 10ug 100 softgel 34951,1,h&b vitamin d3 10ug 100,h&b vitamin d3 10ug,h&b vitamin d3,1,HOLLAND AND BARRETT,,,795.0
+HNB0017,h&b saw palmetto 450mg 200 caps   3533,,capsule,h&b saw palmetto,h&b saw palmetto 450 200 3533,1,h&b saw,h&b,h&b,1,HOLLAND AND BARRETT,,,1075.0
+HNB0019,h&b grapeseed extract 100mg 50 cap  5430,,capsule,h&b grapeseed extract,h&b grapeseed extract 100 50 5430,1,h&b grapeseed,h&b,h&b,1,HOLLAND AND BARRETT,,,685.0
+HNB0023,h&b 5-htp caps 60     10842,,capsule,h&b 5 htp,h&b 5 htp 60 10842,1,h&b 5,h&b,h&b,1,HOLLAND AND BARRETT,,,1195.0
+HNB0024,h&b green coffee bean 60 caps    11196,,capsule,h&b green coffee bean,h&b green coffee bean 60 11196,1,h&b green coffee,h&b green,h&b,1,HOLLAND AND BARRETT,,,1495.0
+HNB0025,h&b raspbery ketone complex 90 cap 11928,,capsule,h&b raspbery ketone complex,h&b raspbery ketone complex 90 11928,1,h&b raspbery ketone,h&b raspbery,h&b,1,HOLLAND AND BARRETT,,,1295.0
+HNB0029,h&b acai daily cleanse 90 caps   29162,,capsule,h&b acai daily cleanse,h&b acai daily cleanse 90 29162,1,h&b acai daily,h&b acai,h&b,1,HOLLAND AND BARRETT,,,1095.0
+HNB0030,h&b cherry effect 30 caps     30409,,capsule,h&b cherry effect,h&b cherry effect 30 30409,1,h&b cherry,h&b,h&b,1,HOLLAND AND BARRETT,,,985.0
+HNB0031,h&b beetroot extract 900mg 90 cap  34740,,capsule,h&b beetroot extract,h&b beetroot extract 900 90 34740,1,h&b beetroot,h&b,h&b,1,HOLLAND AND BARRETT,,,875.0
+HNB0032,h&b maca 500mg 60 caps     39102,,capsule,h&b maca,h&b maca 500 60 39102,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,995.0
+HNB0033,h&b raspberry ketones 100mg 60 cap 51507,,capsule,h&b raspberry ketones,h&b raspberry ketones 100 60 51507,1,h&b raspberry,h&b,h&b,1,HOLLAND AND BARRETT,,,595.0
+HNB0035,h&b valerian 337mg 30 caps     97266,,capsule,h&b valerian,h&b valerian 337 30 97266,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,995.0
+HNB0037,h&b milk thistle 100 caps     99081,,capsule,h&b milk thistle,h&b milk thistle 100 99081,1,h&b milk,h&b,h&b,1,HOLLAND AND BARRETT,,,2995.0
+HNB0039,h&b cod liver oil 410mg 250 caps    1153,,capsule,h&b cod liver oil,h&b cod liver oil 410 250 1153,1,h&b cod liver,h&b cod,h&b,1,HOLLAND AND BARRETT,,,1195.0
+HNB0040,h&b radiance multivitamins 120 cap  2313,,capsule,h&b radiance multivitamins,h&b radiance multivitamins 120 2313,1,h&b radiance,h&b,h&b,1,HOLLAND AND BARRETT,,,895.0
+HNB0043,h&b psyllium husks 500mg 200 cap   3241,,capsule,h&b psyllium husks,h&b psyllium husks 500 200 3241,1,h&b psyllium,h&b,h&b,1,HOLLAND AND BARRETT,,,1445.0
+HNB0044,h&b lutein eye guard 6mg 100 cap   3481,,capsule,h&b lutein eye guard,h&b lutein eye guard 6 100 3481,1,h&b lutein eye,h&b lutein,h&b,1,HOLLAND AND BARRETT,,,875.0
+HNB0049,h&b pycnogenol 30mg 30 caps     7130,,capsule,h&b pycnogenol,h&b pycnogenol 30 7130,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,2895.0
+HNB0050,h&b abc plus senior 120 caps     7191,,capsule,h&b abc plus senior,h&b abc plus senior 120 7191,1,h&b abc plus,h&b abc,h&b,1,HOLLAND AND BARRETT,,,1495.0
+HNB0052,h&b skin hair nails formula 60 cap  7580,,capsule,h&b skin hair nails formula,h&b skin hair nails formula 60 7580,1,h&b skin hair nails,h&b skin hair,h&b skin,1,HOLLAND AND BARRETT,,,675.0
+HNB0053,h&b cod liver oil 1000mg 120 cap    7743,,capsule,h&b cod liver oil,h&b cod liver oil 1000 120 7743,1,h&b cod liver,h&b cod,h&b,1,HOLLAND AND BARRETT,,,1295.0
+HNB0054,h&b cod liver oil 1000mg 240 cap  7745,,capsule,h&b cod liver oil,h&b cod liver oil 1000 240 7745,1,h&b cod liver,h&b cod,h&b,1,HOLLAND AND BARRETT,,,2395.0
+HNB0055,h&b cod liver oil 410mg 60 caps   12167,,capsule,h&b cod liver oil,h&b cod liver oil 410 60 12167,1,h&b cod liver,h&b cod,h&b,1,HOLLAND AND BARRETT,,,795.0
+HNB0056,h&b cod liver oil 1000mg 60 cap    12168,,capsule,h&b cod liver oil,h&b cod liver oil 1000 60 12168,1,h&b cod liver,h&b cod,h&b,1,HOLLAND AND BARRETT,,,1295.0
+HNB0057,h&b lutigold extra 30 caps     13175,,capsule,h&b lutigold extra,h&b lutigold extra 30 13175,1,h&b lutigold,h&b,h&b,1,HOLLAND AND BARRETT,,,875.0
+HNB0059,h&b hyaluronic acid 20mg 30 cap    13440,,capsule,h&b hyaluronic acid,h&b hyaluronic acid 20 30 13440,1,h&b hyaluronic,h&b,h&b,1,HOLLAND AND BARRETT,,,545.0
+HNB0060,h&b abc plus 120 caps     30460,,capsule,h&b abc plus,h&b abc plus 120 30460,1,h&b abc,h&b,h&b,1,HOLLAND AND BARRETT,,,1345.0
+HNB0062,h&b co enzyme q-10 120mg 30 caps    1853,,capsule,h&b co enzyme q 10,h&b co enzyme q 10 120 30 1853,1,h&b co enzyme q,h&b co enzyme,h&b co,1,HOLLAND AND BARRETT,,,1095.0
+HNB0090,h&b raspberry ketones 500mg 90 cap 11929,,capsule,h&b raspberry ketones,h&b raspberry ketones 500 90 11929,1,h&b raspberry,h&b,h&b,1,HOLLAND AND BARRETT,,,1495.0
+HNB0094,h&b magnesium abs 150mg 30 capl    6485,,capsule,h&b magnesium abs,h&b magnesium abs 150 30 6485,1,h&b magnesium,h&b,h&b,1,HOLLAND AND BARRETT,,,545.0
+HNB0103,hnb tribulus terrestris 250mg 90s cap - 5255,,capsule,hnb tribulus terrestris,hnb tribulus terrestris 250 90s 5255,1,hnb tribulus,hnb,hnb,1,HOLLAND AND BARRETT,,,1899.0
+HNB0105,hnb ultra woman 100s cap - 31490,,capsule,hnb ultra woman 100s,hnb ultra woman 100s 31490,1,hnb ultra woman,hnb ultra,hnb,1,HOLLAND AND BARRETT,,,1795.0
+HNB0106,hnb acai 1500mg 120s cap - 27378,,capsule,hnb acai,hnb acai 1500 120s 27378,1,hnb,hnb,hnb,1,HOLLAND AND BARRETT,,,1999.0
+HNB0107,hnb grapeseed extract 50mg 100s cap - 12,,capsule,hnb grapeseed extract,hnb grapeseed extract 50 100s 12,1,hnb grapeseed,hnb,hnb,1,HOLLAND AND BARRETT,,,1245.0
+HNB0112,hnb acai 1500mg with green tea 120s cap - 27634,,capsule,hnb acai,hnb acai 1500 with green tea 120s 27634,1,hnb,hnb,hnb,1,HOLLAND AND BARRETT,,,1999.0
+HNB0113,hnb resveratrol 50mg 60s cap - 17720,,capsule,hnb resveratrol,hnb resveratrol 50 60s 17720,1,hnb,hnb,hnb,1,HOLLAND AND BARRETT,,,1655.0
+HNB0115,hnb unique garlic 1250mg 120s cap - 4913,,capsule,hnb unique garlic,hnb unique garlic 1250 120s 4913,1,hnb unique,hnb,hnb,1,HOLLAND AND BARRETT,,,2499.0
+HNB0119,hnb co-q10 30mg 200s cap - 7273,,capsule,hnb co q10,hnb co q10 30 200s 7273,1,hnb co,hnb,hnb,1,HOLLAND AND BARRETT,,,2949.0
+HNB0120,hnb xs omega 3 fish oil 1500mg 60s cap - 35714,,capsule,hnb xs omega 3 fish oil,hnb xs omega 3 fish oil 1500 60s 35714,1,hnb xs omega 3 fish,hnb xs omega 3,hnb xs omega,1,HOLLAND AND BARRETT,,,1295.0
+HNB0125,hnb co-q10 30mg 50s cap - 7270,,capsule,hnb co q10,hnb co q10 30 50s 7270,1,hnb co,hnb,hnb,1,HOLLAND AND BARRETT,,,899.0
+HNB0128,hnb horny goat weed 250mg 60s cap - 27896,,capsule,hnb horny goat weed,hnb horny goat weed 250 60s 27896,1,hnb horny goat,hnb horny,hnb,1,HOLLAND AND BARRETT,,,1999.0
+HNB0129,hnb ultra man 100s cap - 31489,,capsule,hnb ultra man 100s,hnb ultra man 100s 31489,1,hnb ultra man,hnb ultra,hnb,1,HOLLAND AND BARRETT,,,1235.0
+HNB0130,hnb alpha lipoic acid 100mg 60s cap - 6006,,capsule,hnb alpha lipoic acid,hnb alpha lipoic acid 100 60s 6006,1,hnb alpha lipoic,hnb alpha,hnb,1,HOLLAND AND BARRETT,,,1399.0
+HNB0131,hnb high conc fish oil 1360mg 60s cap - 16105,,capsule,hnb high conc fish oil,hnb high conc fish oil 1360 60s 16105,1,hnb high conc fish,hnb high conc,hnb high,1,HOLLAND AND BARRETT,,,2519.0
+HNB0132,h&b triple omega 3-6-9 1000mg 120s cap - 18520,,capsule,h&b triple omega 3 6 9,h&b triple omega 3 6 9 1000 120s 18520,1,h&b triple omega 3 6,h&b triple omega 3,h&b triple omega,1,HOLLAND AND BARRETT,,,2099.0
+HNB0133,h&b salmon oil 1000mg 120s cap - 4461,,capsule,h&b salmon oil,h&b salmon oil 1000 120s 4461,1,h&b salmon,h&b,h&b,1,HOLLAND AND BARRETT,,,1595.0
+HNB0137,h&b unique garlic 1250mg 60s cap - 4911,,capsule,h&b unique garlic,h&b unique garlic 1250 60s 4911,1,h&b unique,h&b,h&b,1,HOLLAND AND BARRETT,,,1499.0
+HNB0144,hnb epo n starflower 1000mg 90s  cap - 5425,,capsule,hnb epo n starflower,hnb epo n starflower 1000 90s 5425,1,hnb epo n,hnb epo,hnb,1,HOLLAND AND BARRETT,,,1899.0
+HNB0145,hnb soya lecithin ultra 1200mg 100s cap - 300,,capsule,hnb soya lecithin ultra,hnb soya lecithin ultra 1200 100s 300,1,hnb soya lecithin,hnb soya,hnb,1,HOLLAND AND BARRETT,,,945.0
+HNB0146,hnb flaxseed oil 1000mg 120s cap - 1452,,capsule,hnb flaxseed oil,hnb flaxseed oil 1000 120s 1452,1,hnb flaxseed,hnb,hnb,1,HOLLAND AND BARRETT,,,1395.0
+HNB0147,hnb tr vit c 1500mg tabs 100s cap - 2802,,capsule,hnb tr vit c,hnb tr vit c 1500 tablet 100s 2802,1,hnb tr vit,hnb tr,hnb,1,HOLLAND AND BARRETT,,,1585.0
+HNB0150,h&b b-650mg 100s cap - 1160,,capsule,h&b b,h&b b 650 100s 1160,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,499.0
+HNB0152,hnb b-2 100mg 100s cap - 640,,capsule,hnb b 2,hnb b 2 100 100s 640,1,hnb b,hnb,hnb,1,HOLLAND AND BARRETT,,,799.0
+HNB0154,h&b triple omega 3-6-9 1200mg 120s cap - 10156,,capsule,h&b triple omega 3 6 9,h&b triple omega 3 6 9 1200 120s 10156,1,h&b triple omega 3 6,h&b triple omega 3,h&b triple omega,1,HOLLAND AND BARRETT,,,2599.0
+HNB0156,hnb cod liver oil 1000mg! 60s cap - 7741,,capsule,hnb cod liver oil,hnb cod liver oil 1000! 60s 7741,1,hnb cod liver,hnb cod,hnb,1,HOLLAND AND BARRETT,,,695.0
+HNB0157,hnb co-q10 200mg 30s cap - 2091,,capsule,hnb co q10,hnb co q10 200 30s 2091,1,hnb co,hnb,hnb,1,HOLLAND AND BARRETT,,,3255.0
+HNB0194,h&b cranberry caps (4360),,capsule,h&b cranberry,h&b cranberry 4360,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,899.0
+HNB0195,hnb cranberry caps (4363),,capsule,hnb cranberry,hnb cranberry 4363,1,hnb,hnb,hnb,1,HOLLAND AND BARRETT,,,2099.0
+HNB0225,h&b epo 500mg veggie caps (12169),,capsule,h&b epo,h&b epo 500 veggie 12169,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,899.0
+HNB0226,h&b o/c garlic veggie cap 500m (12376),,capsule,h&b o/c garlic veggie,h&b o/c garlic veggie 500m 12376,1,h&b o/c garlic,h&b o/c,h&b,1,HOLLAND AND BARRETT,,,1299.0
+HNB0270,h&b epo 1000mg veggie caps 60's(12164),,capsule,h&b epo,h&b epo 1000 veggie 60s 12164,1,h&b,h&b,h&b,1,HOLLAND AND BARRETT,,,1299.0
+HRI0005,hriday shakti cap 30's,,capsule,hriday shakti,hriday shakti 30s,1,hriday,hriday,hriday,1,JAMNA PHARMACEUTICALS,,,230.0
+HYE0001,hyervita cap 10's,,capsule,hyervita,hyervita 10s,1,hyervita,hyervita,hyervita,10,AAKASH PHARMACEUTICALS LTD,,,4.5
+IGA0005,igall cap 60's (habitus),,capsule,igall,igall 60s habitus,1,igall,igall,igall,1,HABITUS PHARMA PVT LTD,,,1499.0
+ILL0005,ill cure cap 10's (bioceutics),,capsule,ill cure,ill cure 10s bioceutics,1,ill,ill,ill,10,BIO-BIOCEUTIES ING,,,17.0
+IMM0028,immunorm cap,,capsule,immunorm,immunorm capsule,1,immunorm,immunorm,immunorm,10,ACCUREX BIOMEDICAL PVT.LTD,,,6.9
+IMM0060,immune plus  cap,,capsule,immune plus,immune plus capsule,1,immune,immune,immune,1,ARVIND LABORATORIES PVT LTD,,,100.0
+IMM0121,immunokris cap 60's,,capsule,immunokris,immunokris 60s,1,immunokris,immunokris,immunokris,1,IKRIS PHARMA NETWORK LTD,,,2850.0
+IMM0148,immune smart 500mg cap 30's,,capsule,immune smart,immune smart 500 30s,1,immune,immune,immune,1,KEE PHARMA LTD,,,660.0
+IMM0200,immune-o-health cap 10's (shri),,capsule,immune o health,immune o health 10s shri,1,immune o,immune,immune,10,SHR- SHRI SAI BALAJI PHARMATEC,,,47.5
+IMP0133,impruplat capsules 350mg+150mg 10's,,capsule,impruplat,impruplat 350+150 10s,1,impruplat,impruplat,impruplat,10,MAKIN LABORATORIES PVT LTD,,,12.0
+IMR0003,imrox cap 30's (sahajanand),,capsule,imrox,imrox 30s sahajanand,1,imrox,imrox,imrox,1,SAHAJANAND HEALTH CARE,,,171.0
+IMU0013,imunol cap 10's,,capsule,imunol,imunol 10s,1,imunol,imunol,imunol,10,GD PHARMACEUTICALSS PVT LTD,,,3.75
+IMU0032,imunedge 5 caps,,capsule,imunedge,imunedge 5 capsule,1,imunedge,imunedge,imunedge,10,DUMMY,,,7.4
+IMU0071,imunexa cap 10's,,capsule,imunexa,imunexa 10s,1,imunexa,imunexa,imunexa,10,FORTEL LIFE SCIENCES,,,36.0
+IMU0086,imunexa cap 30's (fortel),,capsule,imunexa,imunexa 30s fortel,1,imunexa,imunexa,imunexa,1,FORTEL LIFE SCIENCES,,,990.0
+IMZ0001,imzon cap 30's (sahajanand),,capsule,imzon,imzon 30s sahajanand,1,imzon,imzon,imzon,1,SAHAJANAND HEALTH CARE,,,180.0
+INF0016,inflapen * cap 10's,,capsule,inflapen,inflapen 10s,1,inflapen,inflapen,inflapen,10,GLAXO SMITHKLINE PHARMACEUTICALS LTD,,,3.08
+INF0183,infex caps 50 srusti,,capsule,infex,infex 50 srusti,1,infex,infex,infex,1,ZENLABS INDIA,,,115.0
+INH0016,inhalade-o cap 10's (meridian),,capsule,inhalade o,inhalade o 10s meridian,1,inhalade,inhalade,inhalade,10,MERIDIAN HEALTHCARE,,,3.9
+INL0017,inlife vitamin e with wheat germ oil60  capsules,,capsule,inlife vitamin e with wheat germ oil60,inlife vitamin e with wheat germ oil60 capsule,1,inlife vitamin e with wheat germ,inlife vitamin e with wheat,inlife vitamin e with,1,INLIFE PHARMA PVT LTD,,,720.0
+INL0034,inlife fish oil with coenzyme q1060  capsules,,capsule,inlife fish oil with coenzyme q1060,inlife fish oil with coenzyme q1060 capsule,1,inlife fish oil with coenzyme,inlife fish oil with,inlife fish oil,1,INLIFE PHARMA PVT LTD,,,1140.0
+INL0051,inlife omega-3 from fish oil 60  capsules,,capsule,inlife omega 3 from fish oil,inlife omega 3 from fish oil 60 capsule,1,inlife omega 3 from fish,inlife omega 3 from,inlife omega 3,1,INLIFE PHARMA PVT LTD,,,720.0
+INL0055,"inlife omega-3,6,9 (flaxseed oil) 60  capsules",,capsule,inlife omega 3 6 9 flaxseed oil,inlife omega 3 6 9 flaxseed oil 60 capsule,1,inlife omega 3 6 9 flaxseed,inlife omega 3 6 9,inlife omega 3 6,1,INLIFE PHARMA PVT LTD,,,540.0
+INL0056,inlife vitamin d3 1000 i.u.60  capsules,,capsule,inlife vitamin d3 1000 i.u.60,inlife vitamin d3 1000 i.u.60 capsule,1,inlife vitamin d3 1000,inlife vitamin d3,inlife vitamin,1,INLIFE PHARMA PVT LTD,,,540.0
+INL0057,inlife vitamin d3 2000 i.u.60  capsules,,capsule,inlife vitamin d3 2000 i.u.60,inlife vitamin d3 2000 i.u.60 capsule,1,inlife vitamin d3 2000,inlife vitamin d3,inlife vitamin,1,INLIFE PHARMA PVT LTD,,,720.0
+INL0083,inlife natural vitamin c immunity plus veg cap 60's,,capsule,inlife natural vitamin c immunity plus veg,inlife natural vitamin c immunity plus veg 60s,1,inlife natural vitamin c immunity plus,inlife natural vitamin c immunity,inlife natural vitamin c,1,INLIFE PHARMA PVT LTD,,,699.0
+INL0084,inlife multivitamin & minerals for women cap 60's,,capsule,inlife multivitamin & minerals for women,inlife multivitamin & minerals for women 60s,1,inlife multivitamin & minerals for,inlife multivitamin & minerals,inlife multivitamin &,1,INLIFE PHARMA PVT LTD,,,699.0
+INL0085,inlife multivitamin & minerals for men cap 60's,,capsule,inlife multivitamin & minerals for men,inlife multivitamin & minerals for men 60s,1,inlife multivitamin & minerals for,inlife multivitamin & minerals,inlife multivitamin &,1,INLIFE PHARMA PVT LTD,,,699.0
+INL0087,inlife vitality & vigour plus veg cap 90's,,capsule,inlife vitality & vigour plus veg,inlife vitality & vigour plus veg 90s,1,inlife vitality & vigour plus,inlife vitality & vigour,inlife vitality &,1,INLIFE PHARMA PVT LTD,,,1299.0
+INL0094,inlife double strength fish oil 1000mg cap 60's,,capsule,inlife double strength fish oil,inlife double strength fish oil 1000 60s,1,inlife double strength fish,inlife double strength,inlife double,1,INLIFE PHARMA PVT LTD,,,799.0
+INL0098,inlife curcumin 95 advanced haridra ghan veg cap 60's,,capsule,inlife curcumin 95 advanced haridra ghan veg,inlife curcumin 95 advanced haridra ghan veg 60s,1,inlife curcumin 95 advanced haridra ghan,inlife curcumin 95 advanced haridra,inlife curcumin 95 advanced,1,INLIFE PHARMA PVT LTD,,,1299.0
+INS0184,insuact cap,,capsule,insuact,insuact capsule,1,insuact,insuact,insuact,10,DUMMY,,,10.0
+INT0380,intrapill plus cap,,capsule,intrapill plus,intrapill plus capsule,1,intrapill,intrapill,intrapill,1,INTRA LABS INDIA PVT LTD,,,19.3
+INV0053,invo-gold wellness cap 30's (organic),,capsule,invo gold wellness,invo gold wellness 30s organic,1,invo gold,invo,invo,1,ORGANIC LABS PVT LTD,,,635.0
+INV0055,invo-gold wellness cap 10's (organic),,capsule,invo gold wellness,invo gold wellness 10s organic,1,invo gold,invo,invo,10,ORGANIC LABS PVT LTD,,,24.0
+IQF0004,i.q forte  cap 10's,,capsule,i.q forte,i.q forte 10s,1,i.q,i.q,i.q,10,DUMMY,,,46.0
+ISO0081,isopearl cap 10's,,capsule,isopearl,isopearl 10s,1,isopearl,isopearl,isopearl,10,ELDE-ELDER HARTMANN,,,15.0
+ISO0313,isoneuron cap 60's (jagat),,capsule,isoneuron,isoneuron 60s jagat,1,isoneuron,isoneuron,isoneuron,1,JAGAT PHARMA,,,990.0
+JAM0015,jamun karela plus cap,,capsule,jamun karela plus,jamun karela plus capsule,1,jamun karela,jamun,jamun,1,AUSTRO LABS LTD,,,230.0
+JAM0041,jambola cap 60 luna pha-ay,,capsule,jambola,jambola 60 luna pha ay,1,jambola,jambola,jambola,1,3M INDIA LTD,,,252.0
+JAP0005,japani f cap,,capsule,japani f,japani f capsule,1,japani,japani,japani,1,SHI-SHILAJIT  KESHAR,,,297.0
+JAR0002,jarin cap 10's,,capsule,jarin,jarin 10s,1,jarin,jarin,jarin,10,AAKASH PHARMACEUTICALS LTD,,,4.0
+JEC0013,jectocos capsule,,capsule,jectocos,jectocos capsule,1,jectocos,jectocos,jectocos,10,3M INDIA LTD,,,184.0
+JIN0008,jinga gold cap 4 s,,capsule,jinga gold,jinga gold 4 s,1,jinga,jinga,jinga,4,LINCS PHARMA,,,150.0
+JIN0011,jinga dia matic free from diabetes 60's caps,,capsule,jinga dia matic free from diabetes 60s,jinga dia matic free from diabetes 60s capsule,1,jinga dia matic free from diabetes,jinga dia matic free from,jinga dia matic free,1,LINCS PHARMA,,,1500.0
+JOI0056,jointment sport 120s caps,,capsule,jointment sport 120s,jointment sport 120s capsule,1,jointment sport,jointment,jointment,1,GLOBAL IMPEX,,,1600.0
+JPT0004,jp tone gems soft gel cap 10's,,capsule,jp tone gems soft gel,jp tone gems soft gel 10s,1,jp tone gems soft,jp tone gems,jp tone,10,JAGSONPAL PHARMACEUTICALS LTD,,,13.0
+JWA0001,jwaraari cap 30's (dharmvir),,capsule,jwaraari,jwaraari 30s dharmvir,1,jwaraari,jwaraari,jwaraari,1,DHARMVIR AYURVEDA PVT LTD,,,210.0
+KAA0004,kaam m cap 10's,,capsule,kaam m,kaam m 10s,1,kaam,kaam,kaam,10,DUMMY,,,20.0
+KAI0036,kai baby nail clipper with cap kf-0127,,capsule,kai baby nail clipper with,kai baby nail clipper with kf 0127,1,kai baby nail clipper,kai baby nail,kai baby,1,KAI MANUFACTURING INDIA PVT. LTD.,,,630.0
+KAM0048,kamilari cap 10's,,capsule,kamilari,kamilari 10s,1,kamilari,kamilari,kamilari,10,TORRENT PHARMA LTD,,,3.5
+KAP0012,kapi - kachhu cap 10's,,capsule,kapi kachhu,kapi kachhu 10s,1,kapi,kapi,kapi,10,ABBOTT LABORATORIES,,,1.5
+KAP0076,kapikachhu himalaya cap 250mg,,capsule,kapikachhu himalaya,kapikachhu himalaya 250,1,kapikachhu,kapikachhu,kapikachhu,1,3M INDIA LTD,,,180.0
+KAR0047,ap karela cap 60's,,capsule,ap karela,ap karela 60s,1,ap,ap,ap,1,THE HIMALAYA DRUG COMPANY-(WELLNESS),,,125.0
+KDI0001,kdicap cap,,capsule,kdi,kdi capsules,2,kdi,kdi,kdi,1,KDC-KDC,,,9.5
+KES0093,keshmani cap 10's (vita),,capsule,keshmani,keshmani 10s vita,1,keshmani,keshmani,keshmani,10,VITACARE LIFE SCIENCES,,,5.0
+KID0070,kidstone cap,,capsule,kidstone,kidstone capsule,1,kidstone,kidstone,kidstone,1,RAJ BIOTECH,,,6.5
+KOS0021,kosliv-ds cap,,capsule,kosliv ds,kosliv ds capsule,1,kosliv,kosliv,kosliv,10,KOS-KOSHAN HEALTHCARE,,,6.0
+KRO0018,kroplet softgel cap,,capsule,kroplet softgel,kroplet softgel capsule,1,kroplet,kroplet,kroplet,10,KRONOS HEALTHCARE,,,20.0
+KSH0015,ksheera bala caps 30,,capsule,ksheera bala,ksheera bala 30,1,ksheera,ksheera,ksheera,1,BVP-B V PANDIT,,,3.2
+KSH0019,ksheerabala taila 101 cap 100's,,capsule,ksheerabala taila,ksheerabala taila 101 100s,1,ksheerabala,ksheerabala,ksheerabala,1,ADONIS LABORATORIES PVT LTD,,,18.33
+KSH0020,ksheerabala 101 avarti cap 10's (kerala),,capsule,ksheerabala 101 avarti,ksheerabala 101 avarti 10s kerala,1,ksheerabala 101,ksheerabala,ksheerabala,10,KERALA AYURVEDA PHARMACY LTD,,,5.5
+KSH0023,ksheerabala 101 times medicated cap 100's (swadeshi),,capsule,ksheerabala 101 times medicated,ksheerabala 101 times medicated 100s swadeshi,1,ksheerabala 101 times,ksheerabala 101,ksheerabala,1,SWASWADESHI,,,430.0
+LAC0098,lactup cap,,capsule,lactup,lactup capsule,1,lactup,lactup,lactup,10,ADONIS LABORATORIES PVT LTD,,,3.9
+LAC0152,lactacare  cap,,capsule,lactacare,lactacare capsule,1,lactacare,lactacare,lactacare,1,TTK HEALTHCARE LTD,,,4.6
+LAC0372,lactoven cap 10's,,capsule,lactoven,lactoven 10s,1,lactoven,lactoven,lactoven,10,AVN-AVN,,,4.0
+LAC0483,lact cap 10's (chakraa),,capsule,lact,lact 10s chakraa,1,lact,lact,lact,10, CHAKRAA FORMULATIONS,,,5.5
+LAV0003,laviril cap 10's,,capsule,laviril,laviril 10s,1,laviril,laviril,laviril,10,JENBURKT PHAMACEUTICALS LTD,,,7.55
+LAX0183,laxinol-h cap 10's (kerala ayurveda),,capsule,laxinol h,laxinol h 10s kerala ayurveda,1,laxinol,laxinol,laxinol,10,KERALA AYURVEDA PHARMACY LTD,,,4.5
+LAZ0016,lazer cap 10's,,capsule,lazer,lazer 10s,1,lazer,lazer,lazer,10,AARTU IMPEX PVT LTD,,,9.6
+LEN0026,lens cap comb rs 120,,capsule,lens,lens comb rs 120,1,lens,lens,lens,1,ACCENT PAHRMA,,,30.0
+LEU0070,leukodna cap 10's (ajmera),,capsule,leukodna,leukodna 10s ajmera,1,leukodna,leukodna,leukodna,10,AJM-AJMERA PHARAMCEUTICALS PVT,,,5.8
+LEU0077,leuconil cap,,capsule,leuconil,leuconil capsule,1,leuconil,leuconil,leuconil,10,NOVARTIS INDIA LTD,,,4.2
+LEU0121,leukolide cap,,capsule,leukolide,leukolide capsule,1,leukolide,leukolide,leukolide,1,PERFECT HEALTHCARE,,,280.0
+LEV0920,levtac cap 10's (hetayu),,capsule,levtac,levtac 10s hetayu,1,levtac,levtac,levtac,10,HETAYU LIFESCIENCES,,,8.5
+LIM0022,limiron cap,,capsule,limiron,limiron capsule,1,limiron,limiron,limiron,10,MANEESH PHARMACEUTICALS LTD,,,1.3
+LIN0378,linamac 5 cap 21's,,capsule,linamac,linamac 5 21s,1,linamac,linamac,linamac,1,ADMAC LIFESCIENCES PVT LTD,,,1869.0
+LIP0158,lipistat cap(dabur),,capsule,lipistat,lipistat dabur,1,lipistat,lipistat,lipistat,10,DABUR INDIA LTD,,,5.5
+LIP0249,lipo-6 black  60 caps,,capsule,lipo 6 black,lipo 6 black 60 capsule,1,lipo 6,lipo,lipo,1,BPI SPORTS,,,3200.0
+LIP0250,lipo-6 black 120 caps,,capsule,lipo 6 black,lipo 6 black 120 capsule,1,lipo 6,lipo,lipo,1,BPI SPORTS,,,3000.0
+LIP0251,lipo-6 black hers ultra 60 caps,,capsule,lipo 6 black hers ultra,lipo 6 black hers ultra 60 capsule,1,lipo 6 black hers,lipo 6 black,lipo 6,1,NUTREX RESEARCH LABS,,,3200.0
+LIP0253,lipo-6 x 120 caps,,capsule,lipo 6 x,lipo 6 x 120 capsule,1,lipo 6,lipo,lipo,1,NUTREX RESEARCH LABS,,,3000.0
+LIP0272,liposem  cap,,capsule,liposem,liposem capsule,1,liposem,liposem,liposem,10,KERALA AYURVEDA PHARMACY LTD,,,4.0
+LIP0289,lipitek for women 90's caps,,capsule,lipitek for women 90s,lipitek for women 90s capsule,1,lipitek for women,lipitek for,lipitek,1,METAPURE SUPPLIMENT,,,2499.0
+LIT0132,lithgon 20 capsule,,capsule,lithgon,lithgon 20 capsule,1,lithgon,lithgon,lithgon,1,PHARMAKEM LABS,,,9.0
+LIV0138,liverdex  cap,,capsule,liverdex,liverdex capsule,1,liverdex,liverdex,liverdex,30,SUN-SUN INDIA,,,7.0
+LIV0139,livex cap 10's,,capsule,livex,livex 10s,1,livex,livex,livex,10,BAN-BAN LABS PVT LTD,,,3.6
+LIV0190,livsav plus cap 10's,,capsule,livsav plus,livsav plus 10s,1,livsav,livsav,livsav,10,HIN-HINDUSTAN RESEARCH +,,,10.0
+LIV0204,livgem cap 10's,,capsule,livgem,livgem 10s,1,livgem,livgem,livgem,10,AYU-AYURVEDIC,,,3.0
+LIV0206,livrose cap 10's,,capsule,livrose,livrose 10s,1,livrose,livrose,livrose,10,ROSE LABS PHARMACEUTICALS,,,6.0
+LIV0234,livo m cap,,capsule,livo m,livo m capsule,1,livo,livo,livo,1,ISC-ISKON REMADIES,,,4.0
+LIV0449,livosyp d.s. cap,,capsule,livosyp d.s.,livosyp d.s. capsule,1,livosyp,livosyp,livosyp,10,ADONIS LABORATORIES PVT LTD,,,2.4
+LIV0461,livance cap,,capsule,livance,livance capsule,1,livance,livance,livance,10,AVANCER LABS PVT LTD,,,18.0
+LOF0038,loftair 110/50mcg inhaler( 1 inhaler + 30 caps),,capsule,loftair 110/50mcg inhaler 1 inhaler plus,loftair 110/50 inhaler 1 plus 30 capsule,1,loftair 110/50mcg inhaler 1 inhaler,loftair 110/50mcg inhaler 1,loftair 110/50mcg inhaler,1,LUPIN LABORATORIES LTD,,,2479.0
+LOW0035,lowback cap 30's,,capsule,lowback,lowback 30s,1,lowback,lowback,lowback,1,ADONIS LABORATORIES PVT LTD,,,140.4
+LP70002,lp706 knee caps,,capsule,lp706 knee,lp706 knee capsule,1,lp706,lp706,lp706,1,3M INDIA LTD,,,1.0
+LUC0006,lucap cap 10's,,capsule,lu,lu capsules 10s,2,lu,lu,lu,10,AYURCHEM PRODUCTS,,,8.0
+LUC0078,luconik cap 15's (niik),,capsule,luconik,luconik 15s niik,1,luconik,luconik,luconik,15,NII-NIIK HEALTH CARE,,,7.26
+LUE0001,luer lock cap safety ll-male/female gs8001 (romsons),,capsule,luer lock,luer lock safety ll male/female gs8001 romsons,1,luer,luer,luer,1,ROM-ROMSONS SCIENTIFIC & SURGICAL,,,24.0
+LUK0001,lukol caps,,capsule,lukol,lukol capsule,1,lukol,lukol,lukol,1,THE HIMALAYA DRUG COMPANY-(PHARMA),,,110.0
+LUM0178,lumbaton plus soft gel cap,,capsule,lumbaton plus soft gel,lumbaton plus soft gel capsule,1,lumbaton plus soft,lumbaton plus,lumbaton,10,AVN-AVN,,,9.35
+LUM0217,lumbaton softgel cap 1000's (avn),,capsule,lumbaton softgel,lumbaton softgel 1000s avn,1,lumbaton,lumbaton,lumbaton,1,AVN-AVN,,,4803.0
+LUM0256,lumbaaid softgel cap 10's (nutraveda),,capsule,lumbaaid softgel,lumbaaid softgel 10s nutraveda,1,lumbaaid,lumbaaid,lumbaaid,10,NUTRAVEDA PHARMA,,,12.0
+LUM0262,lumbaton softgel cap 10's (avn),,capsule,lumbaton softgel,lumbaton softgel 10s avn,1,lumbaton,lumbaton,lumbaton,10,AVN-AVN,,,6.5
+LUN0015,luno cap 10's,,capsule,luno,luno 10s,1,luno,luno,luno,10,JAC-JACK PHARAM,,,6.0
+LUO0002,luo cap 45's,,capsule,luo,luo 45s,1,luo,luo,luo,45,AYU-AYURVEDIC,,,2.55
+LUP0341,lupitrin 100mg cap 10's,,capsule,lupitrin,lupitrin 100 10s,1,lupitrin,lupitrin,lupitrin,10,LUPIN LABORATORIES LTD,,,10.39
+LYC0321,lycoleaf plus cap 10's,,capsule,lycoleaf plus,lycoleaf plus 10s,1,lycoleaf,lycoleaf,lycoleaf,10,3M INDIA LTD,,,12.5
+LYP0018,lypocumin-hd cap 15's,,capsule,lypocumin hd,lypocumin hd 15s,1,lypocumin,lypocumin,lypocumin,15,LIF-LIFE EXTENSION HEALTHCARE,,,25.8
+MAC0165,machogold cap 10's,,capsule,machogold,machogold 10s,1,machogold,machogold,machogold,10,AYU-AYURVEDIC,,,15.0
+MAD0086,madhunashini cap 10's (rudraksha),,capsule,madhunashini,madhunashini 10s rudraksha,1,madhunashini,madhunashini,madhunashini,10,RUD-RUDRAKSHA AYURVEDIC,,,4.0
+MAD0103,madhuvati cap 30's (sunwin),,capsule,madhuvati,madhuvati 30s sunwin,1,madhuvati,madhuvati,madhuvati,1,SUNWIN HEALTHCARE PVT LTD,,,120.0
+MAF0016,mafol d3 softgel cap 15's,,capsule,mafol d3 softgel,mafol d3 softgel 15s,1,mafol d3,mafol,mafol,15,MARTHAHAN PHARMA PVT LTD,,,19.0
+MAH0145,maha plus cap,,capsule,maha plus,maha plus capsule,1,maha,maha,maha,15,NEELKANTH HEALTHCARE LTD,,,6.0
+MAN0083,manoll caps,,capsule,manoll,manoll capsule,1,manoll,manoll,manoll,20,CHARAK PHARMA PVT LTD,,,3.25
+MAN0178,manjistha cap,,capsule,manjistha,manjistha capsule,1,manjistha,manjistha,manjistha,1,3M INDIA LTD,,,1.67
+MAN0179,manjishta cap,,capsule,manjishta,manjishta capsule,1,manjishta,manjishta,manjishta,1,ZANDU PHARMACEUTICAL WORKS,,,1.66
+MAN0463,man matters tostero capsules 60's,,capsule,man matters tostero,man matters tostero 60s,1,man matters,man,man,1,MOSAIC WELLNESS PRIVATE LIMITED.,,,899.0
+MAR0047,markpsora cap,,capsule,markpsora,markpsora capsule,1,markpsora,markpsora,markpsora,1,GD PHARMACEUTICALSS PVT LTD,,,2.5
+MAS0064,masolin cap 10's,,capsule,masolin,masolin 10s,1,masolin,masolin,masolin,10,3M INDIA LTD,,,20.0
+MAS0068,masikahar cap,,capsule,masikahar,masikahar capsule,1,masikahar,masikahar,masikahar,1,PAN-PANCEA-BIOTEC,,,60.0
+MAS0139,masculine cap 10's (merven),,capsule,masculine,masculine 10s merven,1,masculine,masculine,masculine,10,MERVEN PHARMACEUTICALS,,,7.5
+MAX0312,maxlax caps,,capsule,maxlax,maxlax capsule,1,maxlax,maxlax,maxlax,1,ZENLABS INDIA,,,15.0
+MAX0652,maxim forte cap 10's,,capsule,maxim forte,maxim forte 10s,1,maxim,maxim,maxim,10,ORBIT BIOCARE PVT LTD,,,9.8
+MBF0003,mb fish oil gold 3x strength softgel cap 60's,,capsule,mb fish oil gold 3x strength softgel,mb fish oil gold 3x strength softgel 60s,1,mb fish oil gold 3x strength,mb fish oil gold 3x,mb fish oil gold,1,BRIGHT LIFECARE PVT LTD,,,999.0
+MEB0017,mebarid cap,,capsule,mebarid,mebarid capsule,1,mebarid,mebarid,mebarid,30,PHYTO CASTLE,,,2.5
+MED0248,medari cap 10's,,capsule,medari,medari 10s,1,medari,medari,medari,10,AYURCHEM PRODUCTS,,,2.33
+MED0331,medionics capd soft pd cath (baxter),,capsule,medionics,medionics soft pd cath baxter,1,medionics,medionics,medionics,1,BAXTER INDIA LTD,,,9600.0
+MED0332,medora cap,,capsule,medora,medora capsule,1,medora,medora,medora,50,AYU-AYURVEDIC,,,4.6
+MED0812,meditrim caps 30's,,capsule,meditrim,meditrim 30s,1,meditrim,meditrim,meditrim,1,MEDILAB INDIA,,,11.0
+MED1265,medari cap,,capsule,medari,medari capsule,1,medari,medari,medari,1,3M INDIA LTD,,,241.0
+MED1285,medora cap 180's (nurture),,capsule,medora,medora 180s nurture,1,medora,medora,medora,1,NURTURE HEALTH CARE,,,795.0
+MED1287,medcumin+ cap 30's (medion),,capsule,medcumin+,medcumin+ 30s medion,1,medcumin+,medcumin+,medcumin+,1,MEDION BIOTECH PVT LTD,,,1150.0
+MEL0315,melbuta cap 45's (natel),,capsule,melbuta,melbuta 45s natel,1,melbuta,melbuta,melbuta,1,NATEL NEUTRATEC PVT LTD,,,180.0
+MEM0022,memorin cap,,capsule,memorin,memorin capsule,1,memorin,memorin,memorin,30,PHYTO CASTLE,,,2.5
+MEN0036,mensoon caps,,capsule,mensoon,mensoon capsule,1,mensoon,mensoon,mensoon,5,SG PHARMACEUTICALS LTD,,,10.0
+MEN0146,mensoline forte cap,,capsule,mensoline forte,mensoline forte capsule,1,mensoline,mensoline,mensoline,6,PRA-PRAD PHARMA PRODUCT,,,10.0
+MEN0197,mensolix plus cap,,capsule,mensolix plus,mensolix plus capsule,1,mensolix,mensolix,mensolix,1,ELI-ELIXIR PHARMA,,,12.5
+MEN0212,menorex cap 30's,,capsule,menorex,menorex 30s,1,menorex,menorex,menorex,1,THE-THE ARYA VAIDYA PHARMACY (,,,180.0
+MEN0217,mensuwin forte cap 6's (birla),,capsule,mensuwin forte,mensuwin forte 6s birla,1,mensuwin,mensuwin,mensuwin,6,BIRLA LIFE SCIENCES,,,11.67
+MEN0220,menso forte cap 6's (nalco),,capsule,menso forte,menso forte 6s nalco,1,menso,menso,menso,6,NALCO BIOTECH,,,15.0
+MEN0243,mentasaan cap 30's (deesaan),,capsule,mentasaan,mentasaan 30s deesaan,1,mentasaan,mentasaan,mentasaan,1,DEESAAN PHARMA HEALTH CARE,,,200.0
+MER0171,meryton cap 10's,,capsule,meryton,meryton 10s,1,meryton,meryton,meryton,10,AYURVED SUMSHODHANALAYA PVT LTD,,,3.5
+MES0036,meshashrtngi cap 10's,,capsule,meshashrtngi,meshashrtngi 10s,1,meshashrtngi,meshashrtngi,meshashrtngi,10,THE HIMALAYA DRUG COMPANY,,,1.67
+MES0119,meshashringi cap himalaya,,capsule,meshashringi,meshashringi himalaya,1,meshashringi,meshashringi,meshashringi,1,3M INDIA LTD,,,180.0
+MET1556,met-rx cee akg 180s cap - 1837,,capsule,met rx cee akg 180s,met rx cee akg 180s 1837,1,met rx cee akg,met rx cee,met rx,1,HOLLAND AND BARRETT,,,3445.0
+MET1562,met-rx bcaa 1800 120s cap - 1830,,capsule,met rx bcaa 1800 120s,met rx bcaa 1800 120s 1830,1,met rx bcaa 1800,met rx bcaa,met rx,1,HOLLAND AND BARRETT,,,1099.0
+MET2169,metostab cap 10's (yamunaji),,capsule,metostab,metostab 10s yamunaji,1,metostab,metostab,metostab,10,YAMUNAJI SCIENTIFIC,,,18.9
+MEX0072,mexarth cap 10's (mexican),,capsule,mexarth,mexarth 10s mexican,1,mexarth,mexarth,mexarth,10,MEXICAN WAVE PHARMA LTD,,,6.5
+MGU0002,mg urie caps,,capsule,mg urie,urie capsule,1,mg,mg,mg,1,DUMMY,,,12.73
+MIL0155,milmax cap,,capsule,milmax,milmax capsule,1,milmax,milmax,milmax,10,DNA LIFE SCIENCE,,,4.9
+MIL0206,milrose cap 20's,,capsule,milrose,milrose 20s,1,milrose,milrose,milrose,1,MILITH PHARMA,,,600.0
+MIN0282,minoil cap 10's,,capsule,minoil,minoil 10s,1,minoil,minoil,minoil,10,NEMUS PHARMACETICALS PVT LTD,,,13.5
+MIN0437,mindzen cap 10's,,capsule,mindzen,mindzen 10s,1,mindzen,mindzen,mindzen,10,ARCTURUS PHARMA PVT LTD,,,14.5
+MMS0012,mms daily cap 10's (geneux),,capsule,mms daily,mms daily 10s geneux,1,mms,mms,mms,10,GENEUX SCIENCE LABORATORIES,,,8.0
+MOB0109,mobility gold veg cap 120's (mindsmeet),,capsule,mobility gold veg,mobility gold veg 120s mindsmeet,1,mobility gold,mobility,mobility,1,MINDSMEET HEALTH SOLUTIONS PVT LTD,,,2500.0
+MOF0067,mofecon -c 250mg cap 10's,,capsule,mofecon c,mofecon c 250 10s,1,mofecon,mofecon,mofecon,10,CONCORD DRUGS LTD,,,39.54
+MOL0101,molulow 200 cap 10's,,capsule,molulow,molulow 200 10s,1,molulow,molulow,molulow,10,MSN LABORATORIES LTD,,,64.0
+MOR0242,morning mist nutriotion for dna 30's caps,,capsule,morning mist nutriotion for dna 30s,morning mist nutriotion for dna 30s capsule,1,morning mist nutriotion for dna,morning mist nutriotion for,morning mist nutriotion,1,WELKIND PHARMA,,,1495.0
+MOR0243,morning mist daily nutrition 30's caps,,capsule,morning mist daily nutrition 30s,morning mist daily nutrition 30s capsule,1,morning mist daily nutrition,morning mist daily,morning mist,1,WELIKIN BIOTEK,,,1495.0
+MOR0264,morbery cap,,capsule,morbery,morbery capsule,1,morbery,morbery,morbery,10,BIOMORPH LIFESCIENCES PVT LTD,,,20.0
+MOT0093,moto mov 40mg cap 10's,,capsule,moto mov,moto mov 40 10s,1,moto,moto,moto,10,LA VINCTA LIFE SCIENCES PVT LTD,,,54.0
+MOV0110,movivom cap 10's,,capsule,movivom,movivom 10s,1,movivom,movivom,movivom,10,EXCELLAMED LAB PVT LTD,,,15.0
+MSE0001,mselip cap 30's (medimark),,capsule,mselip,mselip 30s medimark,1,mselip,mselip,mselip,1,MEDIMARCK BIOTECH PVT LTD,,,153.0
+MUL0251,multivit z cap 10's,,capsule,multivit z,multivit z 10s,1,multivit,multivit,multivit,10,KEIMEDS PVT LTD,,,7.0
+MUL0280,multipur cap,,capsule,multipur,multipur capsule,1,multipur,multipur,multipur,10,NAT-NATURAL DERMA CARE,,,7.92
+MUM0046,mum 9g 10 caps,,capsule,mum 9g,mum 9g 10 capsule,1,mum,mum,mum,10,3M INDIA LTD,,,110.0
+MUN0039,munowin 500mg cap 10's,,capsule,munowin,munowin 500 10s,1,munowin,munowin,munowin,10,GTB LABORATORIES,,,16.9
+MUS0161,muscletech hydroxy hard elite 110's caps,,capsule,muscletech hydroxy hard elite 110s,muscletech hydroxy hard elite 110s capsule,1,muscletech hydroxy hard elite,muscletech hydroxy hard,muscletech hydroxy,1,MUSCLETECH,,,2500.0
+MYB0009,mybery softgel cap,,capsule,mybery softgel,mybery softgel capsule,1,mybery,mybery,mybery,10,BIOPHAR LIFESCIENCES,,,22.0
+MYP0043,myprazol l 40/75 cap 10's,,capsule,myprazol l 40/75,myprazol l 40/75 10s,1,myprazol l,myprazol,myprazol,10,MYLAN PHARMACEUTICALS PVT LTD,,,15.0
+MYR0003,myron 100's cap,,capsule,myron 100s,myron 100s capsule,1,myron,myron,myron,1,GD PHARMACEUTICALSS PVT LTD,,,0.98
+NAA0003,naaz hair up cap,,capsule,naaz hair up,naaz hair up capsule,1,naaz hair,naaz,naaz,1,KAPPAC PHARMA LTD,,,4.5
+NAN0025,nanonut-9 caps,,capsule,nanonut,nanonut 9 capsule,1,nanonut,nanonut,nanonut,10,PHYTO CASTLE,,,7.2
+NAN0167,nanofit 500mg cap 10's,,capsule,nanofit,nanofit 500 10s,1,nanofit,nanofit,nanofit,10,TELPHA CARE,,,69.0
+NAT0258,nature bounty hair skin & nails 60 cap,,capsule,nature bounty hair skin & nails,nature bounty hair skin & nails 60 capsule,1,nature bounty hair skin &,nature bounty hair skin,nature bounty hair,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1599.0
+NAT0295,nature bounty cal mag zinc 100s cap,,capsule,nature bounty cal mag zinc 100s,nature bounty cal mag zinc 100s capsule,1,nature bounty cal mag zinc,nature bounty cal mag,nature bounty cal,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1399.0
+NAT0298,nature bounty colon cleanser frml 180 cap,,capsule,nature bounty colon cleanser frml,nature bounty colon cleanser fr 180 capsule,1,nature bounty colon cleanser,nature bounty colon,nature bounty,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,2495.0
+NAT0312,nature bounty horny goat weed  60s cap,,capsule,nature bounty horny goat weed 60s,nature bounty horny goat weed 60s capsule,1,nature bounty horny goat weed,nature bounty horny goat,nature bounty horny,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1999.0
+NAT0319,nature bounty pms support complex 40s cap,,capsule,nature bounty pms support complex 40s,nature bounty pms support complex 40s capsule,1,nature bounty pms support complex,nature bounty pms support,nature bounty pms,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1999.0
+NAT0322,nature bounty your life multi gs 60s cap,,capsule,nature bounty your life multi gs 60s,nature bounty your life multi gs 60s capsule,1,nature bounty your life multi gs,nature bounty your life multi,nature bounty your life,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1999.0
+NAT0331,nature bounty water pill 50s cap,,capsule,nature bounty water pill 50s,nature bounty water pill 50s capsule,1,nature bounty water pill,nature bounty water,nature bounty,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1099.0
+NAT0353,nature bounty b ginkgo biloba 100s cap,,capsule,nature bounty b ginkgo biloba 100s,nature bounty b ginkgo biloba 100s capsule,1,nature bounty b ginkgo biloba,nature bounty b ginkgo,nature bounty b,1,MY NUTRITION SUPPLEMENTS PVT LTD,,,1199.0
+NAT0405,naturoliv-ds cap,,capsule,naturoliv ds,naturoliv ds capsule,1,naturoliv,naturoliv,naturoliv,15,KARNANI PHARMACEUTICALS,,,4.0
+NAT0539,natstone cap 45's (natel),,capsule,natstone,natstone 45s natel,1,natstone,natstone,natstone,1,NATEL NEUTRATEC PVT LTD,,,175.0
+NAT0583,nature's velvet ksm-66 ashwagandha 500mg veg new cap 60's,,capsule,natures velvet ksm 66 ashwagandha,natures velvet ksm 66 ashwagandha 500 veg new 60s,1,natures velvet ksm 66,natures velvet ksm,natures velvet,1,NATURES VELVET LIFECARE,,,1000.0
+NAV0026,navpaurush cap,,capsule,navpaurush,navpaurush capsule,1,navpaurush,navpaurush,navpaurush,1,ADONIS LABORATORIES PVT LTD,,,37.2
+NBF0002,nbf cap,,capsule,nbf,nbf capsule,1,nbf,nbf,nbf,10,NUTRI PHARMA PVT LTD,,,4.8
+NEC0023,necare od cap,,capsule,necare od,necare od capsule,1,necare,necare,necare,10,ABBOTT INDIA LTD,,,9.5
+NEE0203,neeradimuthu vallathy cap 100's,,capsule,neeradimuthu vallathy,neeradimuthu vallathy 100s,1,neeradimuthu,neeradimuthu,neeradimuthu,1,SKM-S K M HERBOCEUTICALS,,,331.0
+NEE0213,needolac cap 30's,,capsule,needolac,needolac 30s,1,needolac,needolac,needolac,1,MAX PATHEON LIFE SCIENCES,,,228.0
+NEP0012,nephrogard cap,,capsule,nephrogard,nephrogard capsule,1,nephrogard,nephrogard,nephrogard,10,ACCENT PAHRMA,,,10.8
+NEP0080,nephrotec cap,,capsule,nephrotec,nephrotec capsule,1,nephrotec,nephrotec,nephrotec,10,GO ISH REMEDIES,,,9.72
+NER0108,nervono cap,,capsule,nervono,nervono capsule,1,nervono,nervono,nervono,1,PROGEN BIOTECH PVT LTD,,,3.3
+NEU0637,neuromag gold cap 10's,,capsule,neuromag gold,neuromag gold 10s,1,neuromag,neuromag,neuromag,10,MAGUS PHARMACEUTICALS PVT LTD,,,14.7
+NEU0669,neurit forte cap 10's,,capsule,neurit forte,neurit forte 10s,1,neurit,neurit,neurit,10,ARIAAN PHARMACEUTICALS,,,22.0
+NEU0962,neurobid 75mg cap 10's,,capsule,neurobid,neurobid 75 10s,1,neurobid,neurobid,neurobid,10,WILLCARE LIFE SCIENCES PVT LTD,,,16.0
+NEU0996,neutrogena hydro boost capsule in serum 30ml,,capsule,neutrogena hydro boost,neutrogena hydro boost in serum 30,1,neutrogena hydro,neutrogena,neutrogena,1,JOHNSON & JOHNSON PVT LTD,,,800.0
+NEU1020,neuherbs t7 test-on exotic formula cap 60's,,capsule,neuherbs t7 test on exotic formula,neuherbs t7 test on exotic formula 60s,1,neuherbs t7 test on exotic,neuherbs t7 test on,neuherbs t7 test,1,GLOBAL HEALTH CARE,,,1099.0
+NEW0152,new a to z gold cap 15's ***,,capsule,new a to z gold,new a to z gold 15s,1,new a to z,new a to,new a,15,ALKEM LABORATORIES LTD,,,8.33
+NEX0237,nexafit cap 30's (sis),,capsule,nexafit,nexafit 30s sis,1,nexafit,nexafit,nexafit,1,SIS PHARMACEUTICALS,,,760.0
+NEX0282,nexa dsr cap 10's,,capsule,nexa dsr,nexa dsr 10s,1,nexa,nexa,nexa,1,SYNGEX PHARMA PVT LTD,,,9.2
+NEX0381,nexa dsr cap 15's,,capsule,nexa dsr,nexa dsr 15s,1,nexa,nexa,nexa,15,SYNGEX PHARMA PVT LTD,,,11.13
+NHF0001,n/h fat metaboliser! 120s cap - 10212,,capsule,n/h fat metaboliser! 120s,n/h fat metaboliser! 120s 10212,1,n/h fat metaboliser!,n/h fat,n/h,1,HOLLAND AND BARRETT,,,999.0
+NIA0033,niamax 500mg cap 30's,,capsule,niamax,niamax 500 30s,1,niamax,niamax,niamax,1,FABULOUS LIFE SCIENCES,,,450.0
+NIL0107,nilstone-forte cap,,capsule,nilstone forte,nilstone forte capsule,1,nilstone,nilstone,nilstone,1,DOMAGK SMITH LAB PVT LTD,,,25.33
+NIL0143,nilstone cap 18's (domagk),,capsule,nilstone,nilstone 18s domagk,1,nilstone,nilstone,nilstone,1,DOMAGK SMITH LAB PVT LTD,,,240.0
+NOK0004,noklot cv 150gm cap 10's,,capsule,noklot cv 150gm,noklot cv 150 10s,1,noklot cv,noklot,noklot,10,ZYDUS CADILA HEALTHCARE LTD,,,4.34
+NON0005,noni cap 10's,,capsule,noni,noni 10s,1,noni,noni,noni,10,HEALTH  PRODUCTS,,,800.0
+NON0039,non woven bouffant cap 100's (fitwell),,capsule,non woven bouffant,non woven bouffant 100s fitwell,1,non woven,non,non,100,FITWEL PHARMACEUTICALS PVT LTD,,,9.0
+NOR0124,normeta cap 10's,,capsule,normeta,normeta 10s,1,normeta,normeta,normeta,10,AYURCHEM PRODUCTS,,,7.72
+NOW0007,now nac free radi prot 600mg 250's caps,,capsule,now nac free radi prot,now nac free radi prot 600 250s capsule,1,now nac free radi,now nac free,now nac,1,HERB EDGE HEALTHCARE,,,4999.0
+NOW0030,now probiotic-10 50 billion veg capsule 50's,,capsule,now probiotic 10 50 billion veg,now probiotic 10 50 billion veg 50s,1,now probiotic 10 50 billion,now probiotic 10 50,now probiotic 10,1,NOW FOODS,,,4200.0
+NOW0034,now daily vits multi vitamin & mineral veg cap 100's,,capsule,now daily vits multi vitamin & mineral veg,now daily vits multi vitamin & mineral veg 100s,1,now daily vits multi vitamin & mineral,now daily vits multi vitamin &,now daily vits multi vitamin,1,MUSCLEPRO NUTRITION PVT LTD,,,1900.0
+NRG0005,nrg plus cap 10's,,capsule,nrg plus,nrg plus 10s,1,nrg,nrg,nrg,10,BIOCHEMIX HEALTHCARE,,,12.5
+NUB0120,nu bone-c plus softgel capsule 15's,,capsule,nu bone c plus softgel,nu bone c plus softgel 15s,1,nu bone c plus,nu bone c,nu bone,15,WISCON PHARMACEUTICALS PVT LTD,,,14.53
+NUR0203,nurses cap,,capsule,nurses,nurses capsule,1,nurses,nurses,nurses,1,AMKAY PRODUCTS PVT LTD,,,10.0
+NUR0457,nurafit cap 30's (vibcare),,capsule,nurafit,nurafit 30s vibcare,1,nurafit,nurafit,nurafit,1,VIBCARE PHARMA PVT LTD,,,295.0
+NUR0458,nurajoint cap 30's (vibcare),,capsule,nurajoint,nurajoint 30s vibcare,1,nurajoint,nurajoint,nurajoint,1,VIBCARE PHARMA PVT LTD,,,230.0
+NUR0563,nurture health care bgainer 40 cap,,capsule,nurture health care bgainer,nurture health care bgainer 40 capsule,1,nurture health care,nurture health,nurture,1,3M INDIA LTD,,,230.0
+NUT0230,nutriright cap 10's,,capsule,nutriright,nutriright 10s,1,nutriright,nutriright,nutriright,10,UTH HEALTHCARE LTD,,,9.5
+NUT0259,nutrislim caps 60's,,capsule,nutrislim,nutrislim 60s,1,nutrislim,nutrislim,nutrislim,1,AYURWIN PHARMA PVT LTD,,,492.0
+NUT0660,nutrela iron complex  cap 30'n (patanjali),,capsule,nutrela iron complex,nutrela iron complex 30n patanjali,1,nutrela iron,nutrela,nutrela,1,PATHANJALI AYURVEDA LIMITED,,,150.0
+NUT0661,nutrela daily energy cap 30'n (patanjali),,capsule,nutrela daily energy,nutrela daily energy 30n patanjali,1,nutrela daily,nutrela,nutrela,1,PATHANJALI AYURVEDA LIMITED,,,300.0
+NUT0662,nutrela daily active cap 30'n (patanjali),,capsule,nutrela daily active,nutrela daily active 30n patanjali,1,nutrela daily,nutrela,nutrela,1,PATHANJALI AYURVEDA LIMITED,,,400.0
+NUT0663,nutrela vitamin  b12 cap 30'n (patanjali),,capsule,nutrela vitamin b12,nutrela vitamin b12 30n patanjali,1,nutrela vitamin,nutrela,nutrela,1,PATHANJALI AYURVEDA LIMITED,,,150.0
+OBC0005,obc cap,,capsule,obc,obc capsule,1,obc,obc,obc,10,OMEGA BIOTECH LTD,,,1.0
+OBE0022,oberid cap 10's,,capsule,oberid,oberid 10s,1,oberid,oberid,oberid,10,KEIMEDS PVT LTD,,,6.5
+OBE0031,obecu caps,,capsule,obecu,obecu capsule,1,obecu,obecu,obecu,1,VIKAS HEALTH CARE,,,5.9
+OBI0086,obistar weight management support cap 30's (abaxis),,capsule,obistar weight management support,obistar weight management support 30s abaxis,1,obistar weight management,obistar weight,obistar,1,ABAXIS BIOCHEM LTD,,,630.0
+OBI0087,obiscore cap 30's (caius),,capsule,obiscore,obiscore 30s caius,1,obiscore,obiscore,obiscore,1,CAIUS PHARMACEUTICALS,,,650.0
+OCE0011,ocean pearls cap,,capsule,ocean pearls,ocean pearls capsule,1,ocean,ocean,ocean,1,GD PHARMACEUTICALSS PVT LTD,,,1.37
+OKB0001,ok bones cap 10's (blubell),,capsule,ok bones,ok bones 10s blubell,1,ok,ok,ok,10,BLUE BELL PHARMA,,,12.0
+OLI0103,oligra plus cap 10's,,capsule,oligra plus,oligra plus 10s,1,oligra,oligra,oligra,10,ABBOTT LABORATORIES,,,22.0
+OLI0111,oligex cap,,capsule,oligex,oligex capsule,1,oligex,oligex,oligex,10,ZOETIC AYURVEDIC PVT LTD,,,20.0
+OLI0288,olizoo veg cap 30's (medisun),,capsule,olizoo veg,olizoo veg 30s medisun,1,olizoo,olizoo,olizoo,1,MED-MEDI SUN,,,750.0
+ONL0027,onlac cap 10's (gen),,capsule,onlac,onlac 10s gen,1,onlac,onlac,onlac,10,GEN BIOTEC PHARMA,,,6.49
+ORG0029,organic india liver kidney care cap 60's,,capsule,organic india liver kidney care,organic india liver kidney care 60s,1,organic india liver kidney,organic india liver,organic india,1,ORGANIC INDIA PVT LTD,,,170.0
+ORG0035,organic india women's well being cap 60's,,capsule,organic india womens well being,organic india womens well being 60s,1,organic india womens well,organic india womens,organic india,1,ORGANIC INDIA PVT LTD,,,160.0
+ORG0064,org brahmi cap 60s,,capsule,org brahmi,org brahmi 60s,1,org,org,org,1,ORGANIC INDIA PVT LTD,,,175.0
+ORG0067,orgee cap 10's,,capsule,orgee,orgee 10s,1,orgee,orgee,orgee,10,KAL-KALI MUSLI,,,3.8
+ORG0230,organic india brahmi mental fitness veg cap 60's,,capsule,organic india brahmi mental fitness veg,organic india brahmi mental fitness veg 60s,1,organic india brahmi mental fitness,organic india brahmi mental,organic india brahmi,1,ORGA-ORGANIC  INDIA,,,205.0
+ORG0231,organic india neem blood purifier veg cap 60's,,capsule,organic india neem blood purifier veg,organic india neem blood purifier veg 60s,1,organic india neem blood purifier,organic india neem blood,organic india neem,1,ORGA-ORGANIC  INDIA,,,205.0
+ORG0232,organic india flaxseed oil heart health veg cap 60's,,capsule,organic india flaxseed oil heart health veg,organic india flaxseed oil heart health veg 60s,1,organic india flaxseed oil heart health,organic india flaxseed oil heart,organic india flaxseed oil,1,ORGA-ORGANIC  INDIA,,,495.0
+ORG0233,organic india oh-boy men's virility veg cap 30's,,capsule,organic india oh boy mens virility veg,organic india oh boy mens virility veg 30s,1,organic india oh boy mens virility,organic india oh boy mens,organic india oh boy,1,ORGA-ORGANIC  INDIA,,,499.0
+ORG0239,organic india giloy immune suuport cap 60's,,capsule,organic india giloy immune suuport,organic india giloy immune suuport 60s,1,organic india giloy immune,organic india giloy,organic india,1,ORGA-ORGANIC  INDIA,,,225.0
+ORG0245,organic india garcinia cambogia veg cap 60's,,capsule,organic india garcinia cambogia veg,organic india garcinia cambogia veg 60s,1,organic india garcinia cambogia,organic india garcinia,organic india,1,ORGA-ORGANIC  INDIA,,,295.0
+ORG0246,organic india heart guard veg cap 60's,,capsule,organic india heart guard veg,organic india heart guard veg 60s,1,organic india heart guard,organic india heart,organic india,1,ORGA-ORGANIC  INDIA,,,225.0
+ORG0247,organic india lipid care veg cap 60's,,capsule,organic india lipid care veg,organic india lipid care veg 60s,1,organic india lipid care,organic india lipid,organic india,1,ORGA-ORGANIC  INDIA,,,225.0
+ORG0248,organic india peaceful sleep veg cap 60's,,capsule,organic india peaceful sleep veg,organic india peaceful sleep veg 60s,1,organic india peaceful sleep,organic india peaceful,organic india,1,ORGA-ORGANIC  INDIA,,,225.0
+ORG0249,organic india turmeric formula veg cap 60's,,capsule,organic india turmeric formula veg,organic india turmeric formula veg 60s,1,organic india turmeric formula,organic india turmeric,organic india,1,ORGA-ORGANIC  INDIA,,,295.0
+ORT0125,orthocure caps 60's,,capsule,orthocure,orthocure 60s,1,orthocure,orthocure,orthocure,1,WOCKHARDT LTD,,,5.5
+ORT0128,orthovit cap,,capsule,orthovit,orthovit capsule,1,orthovit,orthovit,orthovit,1,PLEENIX PHARMA,,,8.1
+ORT0325,orthoctum cap 10's (secure),,capsule,orthoctum,orthoctum 10s secure,1,orthoctum,orthoctum,orthoctum,10,SECURE LIFESCIENCES PVT LTD,,,26.9
+ORT0336,orthovit repl cap 10's (renovision),,capsule,orthovit repl,orthovit repl 10s renovision,1,orthovit,orthovit,orthovit,10,RENOVISION EXPORTS PVT LTD,,,7.0
+ORT0351,orthoshine cap 30's (sunshine),,capsule,orthoshine,orthoshine 30s sunshine,1,orthoshine,orthoshine,orthoshine,1,SUNSHINE PHARMACEUTICALS PVT LTD,,,550.0
+OSO0027,osolid cap 10's (startos),,capsule,osolid,osolid 10s startos,1,osolid,osolid,osolid,10,STARTOS HEALTHCARE PVT LTD,,,21.89
+OST0437,ostecap cap 10's (gujarat),,capsule,oste,oste capsules 10s gujarat,2,oste,oste,oste,10,GUJARAT PHARMA LAB,,,10.9
+OUT0004,outflo cap (1x30),,capsule,outflo,outflo 30s,1,outflo,outflo,outflo,30,WINTAC LIMTED,,,5.27
+OVA0004,ovarin caps 10`s,,capsule,ovarin,ovarin 10s,1,ovarin,ovarin,ovarin,10,BAL PHARMA LTD,,,3.6
+OXI0075,oxidiet cap 10's,,capsule,oxidiet,oxidiet 10s,1,oxidiet,oxidiet,oxidiet,10,CADI-CADILA GENARICS,,,5.0
+OZI0038,oziva plant based bettr.zinc plus cap 60's,,capsule,oziva plant based bettr.zinc plus,oziva plant based bettr.zinc plus 60s,1,oziva plant based bettr.zinc,oziva plant based,oziva plant,1,ZYWIE VENTURES PVT LTD,,,599.0
+OZI0039,oziva hair vitamins cap 60's,,capsule,oziva hair vitamins,oziva hair vitamins 60s,1,oziva hair,oziva,oziva,1,ZYWIE VENTURES PVT LTD,,,899.0
+OZI0041,oziva plant based immunity multi cap 60's,,capsule,oziva plant based immunity multi,oziva plant based immunity multi 60s,1,oziva plant based immunity,oziva plant based,oziva plant,1,ZYWIE VENTURES PVT LTD,,,799.0
+OZI0043,oziva plant based omega multi 200mg cap 30's,,capsule,oziva plant based omega multi,oziva plant based omega multi 200 30s,1,oziva plant based omega,oziva plant based,oziva plant,1,ZYWIE VENTURES PVT LTD,,,999.0
+OZI0051,oziva plant based bettr.c+ cap 60's,,capsule,oziva plant based bettr.c+,oziva plant based bettr.c+ 60s,1,oziva plant based,oziva plant,oziva,1,ZYWIE VENTURES PVT LTD,,,599.0
+OZI0052,oziva plant based bettr.cald3+ for men & women cap 60's,,capsule,oziva plant based bettr.cald3+ for men & women,oziva plant based bettr.cald3+ for men & women 60s,1,oziva plant based bettr.cald3+ for men &,oziva plant based bettr.cald3+ for men,oziva plant based bettr.cald3+ for,1,ZYWIE VENTURES PVT LTD,,,699.0
+OZI0053,oziva plant based biotin xtra cap 60's,,capsule,oziva plant based biotin xtra,oziva plant based biotin xtra 60s,1,oziva plant based biotin,oziva plant based,oziva plant,1,ZYWIE VENTURES PVT LTD,,,649.0
+OZI0054,oziva plant based 1000mg omega 369 cap 60's,,capsule,oziva plant based,oziva plant based 1000 omega 369 60s,1,oziva plant,oziva,oziva,1,ZYWIE VENTURES PVT LTD,,,499.0
+OZI0057,oziva plant based vitamin e cap 30's,,capsule,oziva plant based vitamin e,oziva plant based vitamin e 30s,1,oziva plant based vitamin,oziva plant based,oziva plant,1,ZYWIE VENTURES PVT LTD,,,799.0
+OZI0058,oziva plant based bettr.d3k2+ cap 60's,,capsule,oziva plant based bettr.d3k2+,oziva plant based bettr.d3k2+ 60s,1,oziva plant based,oziva plant,oziva,1,ZYWIE VENTURES PVT LTD,,,799.0
+PAC0205,pacific cap 30's (dharmvir),,capsule,pacific,pacific 30s dharmvir,1,pacific,pacific,pacific,1,DHARMVIR AYURVEDA PVT LTD,,,210.0
+PAF0004,paf-buta cap 45's (natel),,capsule,paf buta,paf buta 45s natel,1,paf,paf,paf,1,NATEL NEUTRATEC PVT LTD,,,165.0
+PAI0068,paindrop cap,,capsule,paindrop,paindrop capsule,1,paindrop,paindrop,paindrop,1,CLIDE INTERNATIONAL PVT LTD,,,6.6
+PAI0100,painil cap 60's (annai),,capsule,painil,painil 60s annai,1,painil,painil,painil,1,ANNAI ARAVINDH HERBALS,,,210.0
+PAN1319,panache shower cap 3s,,capsule,panache shower,panache shower 3s,1,panache,panache,panache,1,NEETA MARKETING SERVICES PVT LTD,,,23.0
+PAR0697,parjana cap,,capsule,parjana,parjana capsule,1,parjana,parjana,parjana,1,INDIAN HERBALS REMEDIES,,,33.0
+PAR0801,parkinsona cap,,capsule,parkinsona,parkinsona capsule,1,parkinsona,parkinsona,parkinsona,10,ADONIS LABORATORIES PVT LTD,,,10.8
+PAS0041,pasout caps 30's,,capsule,pasout,pasout 30s,1,pasout,pasout,pasout,1,PHYTO CASTLE,,,11.0
+PCP0004,pc plus cap 30's,,capsule,pc plus,pc plus 30s,1,pc,pc,pc,1,PK PHARMACEUTICALS,,,960.0
+PCR0004,pcr maharaja cap 10's,,capsule,pcr maharaja,pcr maharaja 10s,1,pcr,pcr,pcr,10,SREE PHARMA SOLUTIONS PVT LTD,,,5.0
+PEB0019,pe beta alanine 800mg 120s cap - 35627,,capsule,pe beta alanine,pe beta alanine 800 120s 35627,1,pe beta,pe,pe,1,HOLLAND AND BARRETT,,,1855.0
+PEC0024,pe creatine 700mg cap 120s ca - 906,,capsule,pe creatine,pe creatine 700 120s ca 906,1,pe,pe,pe,1,HOLLAND AND BARRETT,,,1499.0
+PED0153,peddle dsr cap 10's,,capsule,peddle dsr,peddle dsr 10s,1,peddle,peddle,peddle,10,MEDSEA HEALTHCARE PVT LTD,,,11.5
+PEG0067,pegcumin cap,,capsule,pegcumin,pegcumin capsule,1,pegcumin,pegcumin,pegcumin,10,LIF-LIFE EXTENSION HEALTHCARE,,,27.0
+PEL0053,pe l-carnitine 500mg 30s cap - 1677,,capsule,pe l carnitine,pe l carnitine 500 30s 1677,1,pe l,pe,pe,1,HOLLAND AND BARRETT,,,899.0
+PEL0055,pe l-glutamine 500mg 100s cap - 3042,,capsule,pe l glutamine,pe l glutamine 500 100s 3042,1,pe l,pe,pe,1,HOLLAND AND BARRETT,,,1499.0
+PEP0174,pepcer cap 10's,,capsule,pepcer,pepcer 10s,1,pepcer,pepcer,pepcer,10,DUMMY,,,5.1
+PER0119,perment cap 10's,,capsule,perment,perment 10s,1,perment,perment,perment,10,AYURCHEM PRODUCTS,,,4.6
+PER0357,persimty cap,,capsule,persimty,persimty capsule,1,persimty,persimty,persimty,10,GENEKA HEALTHCARE,,,27.0
+PES0024,pesin cap 10's (dr.jrk's),,capsule,pesin,pesin 10s dr.jrks,1,pesin,pesin,pesin,10,DRJ-DR JRK,,,6.7
+PIC0011,picrolax cap 10's,,capsule,picrolax,picrolax 10s,1,picrolax,picrolax,picrolax,10,GD PHARMACEUTICALSS PVT LTD,,,2.5
+PIC0118,picoliv cap 30's,,capsule,picoliv,picoliv 30s,1,picoliv,picoliv,picoliv,1,INDIAN HERBALS REMEDIES,,,150.0
+PIG0307,pigeon plastic feeding bottle 240 ml blue cap,,capsule,pigeon plastic feeding bottle 240ml blue,pigeon plastic feeding bottle 240 blue capsule,1,pigeon plastic feeding bottle 240ml,pigeon plastic feeding bottle,pigeon plastic feeding,1,PIGEON INDIA PVT. LTD,,,245.0
+PIG0308,pigeon plastic feeding bottle 240 ml white cap,,capsule,pigeon plastic feeding bottle 240ml white,pigeon plastic feeding bottle 240 white capsule,1,pigeon plastic feeding bottle 240ml,pigeon plastic feeding bottle,pigeon plastic feeding,1,PIGEON INDIA PVT. LTD,,,235.0
+PIG0309,pigeon plastic feeding bottle 120 ml white cap,,capsule,pigeon plastic feeding bottle 120ml white,pigeon plastic feeding bottle 120 white capsule,1,pigeon plastic feeding bottle 120ml,pigeon plastic feeding bottle,pigeon plastic feeding,1,PIGEON INDIA PVT. LTD,,,235.0
+PIG0310,pigeon plastic feeding bottle 120 ml blue cap,,capsule,pigeon plastic feeding bottle 120ml blue,pigeon plastic feeding bottle 120 blue capsule,1,pigeon plastic feeding bottle 120ml,pigeon plastic feeding bottle,pigeon plastic feeding,1,PIGEON INDIA PVT. LTD,,,235.0
+PIG0311,pigeon plastic feeding bottle 240 ml pink cap,,capsule,pigeon plastic feeding bottle 240ml pink,pigeon plastic feeding bottle 240 pink capsule,1,pigeon plastic feeding bottle 240ml,pigeon plastic feeding bottle,pigeon plastic feeding,1,PIGEON INDIA PVT. LTD,,,245.0
+PIL0044,pilesar cap 10's,,capsule,pilesar,pilesar 10s,1,pilesar,pilesar,pilesar,10,3M INDIA LTD,,,3.0
+PIL0103,pilogo cap 10's,,capsule,pilogo,pilogo 10s,1,pilogo,pilogo,pilogo,10,LEEFORD HEALTH CARE LTD,,,7.0
+PIL0131,pilomin cap,,capsule,pilomin,pilomin capsule,1,pilomin,pilomin,pilomin,10,HERBOCRUZE,,,5.0
+PIL0135,piloma cap 10's,,capsule,piloma,piloma 10s,1,piloma,piloma,piloma,10,GROWELL HEALTHCARE,,,4.5
+PIL0144,pilease cap 30's (ramsey),,capsule,pilease,pilease 30s ramsey,1,pilease,pilease,pilease,1,RAMSEY PHARMA PVT LTD,,,165.0
+PIL0148,pilent cap 30's,,capsule,pilent,pilent 30s,1,pilent,pilent,pilent,1,NERR FORMULATIONS INDIA LTD,,,142.0
+PIL0149,pileclear cap 10's (ikon),,capsule,pileclear,pileclear 10s ikon,1,pileclear,pileclear,pileclear,15,IKON REMEDIES PVT LTD,,,9.95
+PIL0159,pilowin cap 10's (herbhya),,capsule,pilowin,pilowin 10s herbhya,1,pilowin,pilowin,pilowin,10,HERBHYA FORMULATION,,,5.0
+PIL0164,pilorest cap 12's (jaltius),,capsule,pilorest,pilorest 12s jaltius,1,pilorest,pilorest,pilorest,12,JALTIUS HEALTHCARE PVT LTD,,,15.0
+PIN0133,pinplate cap 10's (pinarc),,capsule,pinplate,pinplate 10s pinarc,1,pinplate,pinplate,pinplate,10,PINARC LIFESCIENCES,,,28.0
+PLA0253,platsure cap,,capsule,platsure,platsure capsule,1,platsure,platsure,platsure,10,ASPIRE REMEDIES PVT LTD,,,25.0
+PLA0273,platon cap 20's,,capsule,platon,platon 20s,1,platon,platon,platon,1,PANVIK PHARMACEUTICALS LTD,,,350.0
+PLA0278,platiza cap,,capsule,platiza,platiza capsule,1,platiza,platiza,platiza,10,ORGANIC LIVING PRIVATE LTD,,,35.0
+PLA0285,platnorm softgel cap 10's,,capsule,platnorm softgel,platnorm softgel 10s,1,platnorm,platnorm,platnorm,10,WEBCON LABS PVT LTD,,,30.0
+PLA0286,platheal cap 10's,,capsule,platheal,platheal 10s,1,platheal,platheal,platheal,10,LIF-LIFE EXTENSION HEALTHCARE,,,63.0
+PLA0314,platcure softgel cap 10's (resolute),,capsule,platcure softgel,platcure softgel 10s resolute,1,platcure,platcure,platcure,10,RESOLUTE PHARMA,,,45.0
+PLA0344,platecan cap 10's (brochem),,capsule,platecan,platecan 10s brochem,1,platecan,platecan,platecan,10,BROCHEM HEALTH CARE PVT LTD,,,14.6
+PLA0374,platider cap 10's (elder),,capsule,platider,platider 10s elder,1,platider,platider,platider,10,ELDER PHARMACEUTICALS LTD,,,35.0
+PLA0383,platzer cap 10's (alester),,capsule,platzer,platzer 10s alester,1,platzer,platzer,platzer,10,ALESTER PHARMA PVT LTD,,,24.0
+PLE0114,plet-amrit cap 10's (prakruti),,capsule,plet amrit,plet amrit 10s prakruti,1,plet,plet,plet,10,PRAKRUTI REMEDIES REMEDIES PVT LTD,,,27.5
+PLE0120,plet prit cap 10's (ruv),,capsule,plet prit,plet prit 10s ruv,1,plet,plet,plet,10,RUV PHARMA LLP,,,31.0
+PLI0017,plix herbal testosterone booster cap 60's,,capsule,plix herbal testosterone booster,plix herbal testosterone booster 60s,1,plix herbal testosterone,plix herbal,plix,1,SATIYA NUTRACEUTICALS PVT LTD,,,599.0
+PLU0031,plugit cap,,capsule,plugit,plugit capsule,1,plugit,plugit,plugit,10,VAS-VASU HEALTHCARE,,,3.5
+PNE0004,pneunorm cap 10's,,capsule,pneunorm,pneunorm 10s,1,pneunorm,pneunorm,pneunorm,10,DR.PALEP'S MEDICAL RESE.FOUND.,,,4.2
+POI0002,point cap 10's,,capsule,point,point 10s,1,point,point,point,10,DUMMY,,,3.9
+PRA0183,prasad cap,,capsule,prasad,prasad capsule,1,prasad,prasad,prasad,1,SAI-SAIRAM REMEDIES,,,15.0
+PRE1543,preg as-m cap 10's,,capsule,preg as m,preg as m 10s,1,preg as,preg,preg,10,ASWINS PHARMA,,,12.0
+PRE1587,pre plus 90 billion cfu cap 10's,,capsule,pre plus 90 billion cfu,pre plus 90 billion cfu 10s,1,pre plus 90 billion,pre plus 90,pre plus,10,ROLLINS INTERNATIONAL PVT LTD,,,189.5
+PRO1993,proliv 490mg cap 10's (venus healthcare),,capsule,proliv,proliv 490 10s venus healthcare,1,proliv,proliv,proliv,10,VENUS REMEDIES LTD,,,9.9
+PRO1999,cr prosman prostate support cap 60's,,capsule,cr prosman prostate support,cr prosman prostate support 60s,1,cr prosman prostate,cr prosman,cr,1,CR CHEMICAL RESOURCES,,,970.0
+PRO2264,profert-f cap 10's (alopa),,capsule,profert f,profert f 10s alopa,1,profert,profert,profert,10,ALOPA HERBAL HEALTHCARE PVT LTD,,,12.0
+PRO2311,projod cap 30's (prognosis),,capsule,projod,projod 30s prognosis,1,projod,projod,projod,1,PROGNOSIS HEALTHCARE,,,710.0
+PRO2341,probiotic gut 2 b.spores veg cap 30's,,capsule,probiotic gut 2 b.spores veg,probiotic gut 2 b.spores veg 30s,1,probiotic gut 2 b.spores,probiotic gut 2,probiotic gut,1,MINDSMEET HEALTH SOLUTIONS PVT LTD,,,550.0
+PRO2342,probiotic defense 2 b.spores veg cap 15's,,capsule,probiotic defense 2 b.spores veg,probiotic defense 2 b.spores veg 15s,1,probiotic defense 2 b.spores,probiotic defense 2,probiotic defense,1,MINDSMEET HEALTH SOLUTIONS PVT LTD,,,300.0
+PRO2363,protective hood cap (nanthinis),,capsule,protective hood,protective hood nanthinis,1,protective,protective,protective,1,NAN-NANTHINIS HEALTHCARE,,,50.0
+PRO2379,prostate care cap 60's (organic india),,capsule,prostate care,prostate care 60s organic india,1,prostate,prostate,prostate,1,ORGANIC INDIA PVT LTD,,,225.0
+PRO2568,probiomax probiotic caps 60's (nutraswiss),,capsule,probiomax probiotic,probiomax probiotic 60s nutraswiss,1,probiomax,probiomax,probiomax,1,NUTRASWISS PVT LTD,,,1950.0
+PRO2694,prostamax caps 60s (nutra swiss),,capsule,prostamax,prostamax 60s nutra swiss,1,prostamax,prostamax,prostamax,1,NUTRASWISS PVT LTD,,,1950.0
+PRU0047,prunilol  cap 30's,,capsule,prunilol,prunilol 30s,1,prunilol,prunilol,prunilol,1,ATRIMED PHARMACEUTICALS PVT LTD,,,165.0
+PUD0006,pudin hara capsules 10's***,,capsule,pudin hara,pudin hara 10s,1,pudin,pudin,pudin,10,GLAXO SMITHKLINE PHARMACEUTICALS LTD,,,1.5
+PUD0015,pudina.com softgel cap 10's ( leeford),,capsule,pudina.com softgel,pudina.com softgel 10s leeford,1,pudina.com,pudina.com,pudina.com,10,LEEFORD HEALTH CARE LTD,,,3.0
+PUR0075,purol cap 10's,,capsule,purol,purol 10s,1,purol,purol,purol,10,HER-HERBOCHAM REMEDLES INDIA P,,,4.95
+PUR0264,pure nut  alpha lipoic acid 350mg cap 60's,,capsule,pure nut alpha lipoic acid,pure nut alpha lipoic acid 350 60s,1,pure nut alpha lipoic,pure nut alpha,pure nut,1,HER-HERBS,,,899.0
+PUR0265,pure nut apple cider vinegar plus 600mg cap 90's,,capsule,pure nut apple cider vinegar plus,pure nut apple cider vinegar plus 600 90s,1,pure nut apple cider vinegar,pure nut apple cider,pure nut apple,1,HER-HERBS,,,1199.0
+PUR0268,pure nut garcinia cambogia ultra 875mg cap 90's,,capsule,pure nut garcinia cambogia ultra,pure nut garcinia cambogia ultra 875 90s,1,pure nut garcinia cambogia,pure nut garcinia,pure nut,1,HER-HERBS,,,1199.0
+PUR0279,pure nut  bio coq 10 495mg cap 60's,,capsule,pure nut bio coq 10,pure nut bio coq 10 495 60s,1,pure nut bio coq,pure nut bio,pure nut,1,HER-HERBS,,,1799.0
+PUR0280,pure nut  omega 3 softgel 1000 mg cap 75's,,capsule,pure nut omega 3 softgel,pure nut omega 3 softgel 1000 75s,1,pure nut omega 3,pure nut omega,pure nut,1,HER-HERBS,,,999.0
+PUR0290,puritin caps 30's (virgo),,capsule,puritin,puritin 30s virgo,1,puritin,puritin,puritin,1,VIRGO HEALTH CARE PVT LTD,,,99.0
+PUR0333,pure nutrition curcumin with black pepper veg cap 60's,,capsule,pure nutrition curcumin with black pepper veg,pure nutrition curcumin with black pepper veg 60s,1,pure nutrition curcumin with black pepper,pure nutrition curcumin with black,pure nutrition curcumin with,1,HER-HERBS,,,1799.0
+PUR0334,pure nutrition cod liver oil softgel cap 90's,,capsule,pure nutrition cod liver oil softgel,pure nutrition cod liver oil softgel 90s,1,pure nutrition cod liver oil,pure nutrition cod liver,pure nutrition cod,1,HER-HERBS,,,999.0
+PUR0342,pure nutrition menizin men musli & kesar 60 cap,,capsule,pure nutrition menizin men musli & kesar,pure nutrition menizin men musli & kesar 60 capsule,1,pure nutrition menizin men musli &,pure nutrition menizin men musli,pure nutrition menizin men,1,HER-HERBS,,,2999.0
+PUR0352,pure nutrition omega unique 3-5-6-7-9 veg softgel cap 60's,,capsule,pure nutrition omega unique 3 5 6 7 9 veg softgel,pure nutrition omega unique 3 5 6 7 9 veg softgel 60s,1,pure nutrition omega unique 3 5 6 7 9 veg,pure nutrition omega unique 3 5 6 7 9,pure nutrition omega unique 3 5 6 7,1,HER-HERBS,,,1999.0
+PUR0366,pure nutrition omega 3 marine fish oil cap 60's,,capsule,pure nutrition omega 3 marine fish oil,pure nutrition omega 3 marine fish oil 60s,1,pure nutrition omega 3 marine fish,pure nutrition omega 3 marine,pure nutrition omega 3,1,HER-HERBS,,,799.0
+PUR0373,pure nutrition ashwa gandha veg cap 60's,,capsule,pure nutrition ashwa gandha veg,pure nutrition ashwa gandha veg 60s,1,pure nutrition ashwa gandha,pure nutrition ashwa,pure nutrition,1,HER-HERBS,,,999.0
+PUR0396,pure foods omega-3 fish oil 1250mg omega softgel cap 60's,,capsule,pure foods omega 3 fish oil,pure foods omega 3 fish oil 1250 softgel 60s,1,pure foods omega 3 fish,pure foods omega 3,pure foods omega,1,ROLLINS INTERNATIONAL PVT LTD,,,1050.0
+PUR0399,pure foods vitamin-d3 2000iu softgel cap 60's,,capsule,pure foods vitamin d3 2000iu softgel,pure foods vitamin d3 2000iu softgel 60s,1,pure foods vitamin d3 2000iu,pure foods vitamin d3,pure foods vitamin,1,ROLLINS INTERNATIONAL PVT LTD,,,499.0
+PUR0400,pure foods vitamin-e softgel cap 60's,,capsule,pure foods vitamin e softgel,pure foods vitamin e softgel 60s,1,pure foods vitamin e,pure foods vitamin,pure foods,1,ROLLINS INTERNATIONAL PVT LTD,,,899.0
+PUR0418,pure nutrition progut 50 billion cfu 600mg cap 60's,,capsule,pure nutrition progut 50 billion cfu,pure nutrition progut 50 billion cfu 600 60s,1,pure nutrition progut 50 billion,pure nutrition progut 50,pure nutrition progut,1,HER-HERBS,,,1299.0
+PUR0427,pure nutrition curcumin with c3 complex 760mg cap 60's,,capsule,pure nutrition curcumin with c3 complex,pure nutrition curcumin with c3 complex 760 60s,1,pure nutrition curcumin with c3,pure nutrition curcumin with,pure nutrition curcumin,1,HER-HERBS,,,999.0
+PUR0429,pure nutrition apple cider vinegar 610mg cap 60's,,capsule,pure nutrition apple cider vinegar,pure nutrition apple cider vinegar 610 60s,1,pure nutrition apple cider,pure nutrition apple,pure nutrition,1,HER-HERBS,,,999.0
+PUR0438,pure nutrition shilajit triple gold 700mg veg cap 30's,,capsule,pure nutrition shilajit triple gold,pure nutrition shilajit triple gold 700 veg 30s,1,pure nutrition shilajit triple,pure nutrition shilajit,pure nutrition,1,HER-HERBS,,,529.0
+PYK0001,pykure cap 10's,,capsule,pykure,pykure 10s,1,pykure,pykure,pykure,10,ABBOTT LABORATORIES,,,17.0
+PYL0004,pylapy cap 10's,,capsule,pylapy,pylapy 10s,1,pylapy,pylapy,pylapy,10,ADONIS LABORATORIES PVT LTD,,,3.84
+PYR0176,pyropill cap,,capsule,pyropill,pyropill capsule,1,pyropill,pyropill,pyropill,10,DELVIN FORMULATIONS PVT LTD,,,36.7
+QIK0002,qikk callus cap 45's,,capsule,qikk callus,qikk callus 45s,1,qikk,qikk,qikk,1,ZOIC LIFE SCIENCES,,,585.0
+QNT0071,qnt daily vitamins & minerals cap 60's,,capsule,qnt daily vitamins & minerals,qnt daily vitamins & minerals 60s,1,qnt daily vitamins &,qnt daily vitamins,qnt daily,1,QNT SPORT INDIA PVT LTD,,,849.0
+QNT0077,qnt omega 3 pure epa & dha cap 30's,,capsule,qnt omega 3 pure epa & dha,qnt omega 3 pure epa & dha 30s,1,qnt omega 3 pure epa &,qnt omega 3 pure epa,qnt omega 3 pure,1,QNT SPORT INDIA PVT LTD,,,699.0
+QST0012,qstone cap,,capsule,qstone,qstone capsule,1,qstone,qstone,qstone,1,EXC-EXCEL CARE PHARMA,,,7.7
+QUI0188,quicfrac cap 30's,,capsule,quicfrac,quicfrac 30s,1,quicfrac,quicfrac,quicfrac,1,RENAISSANCE HEALTH CARE,,,375.0
+RAB0477,rabecia it cap 10's,,capsule,rabecia it,rabecia it 10s,1,rabecia,rabecia,rabecia,10,GENIAL,,,15.5
+RAB0713,rabecia ls cap 10's,,capsule,rabecia ls,rabecia ls 10s,1,rabecia,rabecia,rabecia,10,GENECIA HEALTH CARE PVT LTD,,,16.9
+RAD0096,radiant look cap 30's,,capsule,radiant look,radiant look 30s,1,radiant,radiant,radiant,1,INDIAN HERBALS REMEDIES,,,150.0
+RAF0030,rafael cap 10's,,capsule,rafael,rafael 10s,1,rafael,rafael,rafael,10,LOR-LORETO PHARAMCEUTICALS,,,23.0
+RAJ0016,rajshree cap,,capsule,rajshree,rajshree capsule,1,rajshree,rajshree,rajshree,1,SRIBIOTIC,,,12.0
+RAM0019,ramistar -a  -cap 10's,,capsule,ramistar a,ramistar a 10s,1,ramistar,ramistar,ramistar,10,LUPIN LABORATORIES LTD,,,5.85
+RAM0023,ramistar h 2.5mg cap 10's,,capsule,ramistar h,ramistar h 2.5 10s,1,ramistar,ramistar,ramistar,10,LUPIN LABORATORIES LTD,,,8.1
+RAM0027,ramistar h 5mg cap 15's,,capsule,ramistar h,ramistar h 5 15s,1,ramistar,ramistar,ramistar,15,LUPIN LABORATORIES LTD,,,12.2
+RAM0060,ramistar h 10mg cap 10's,,capsule,ramistar h,ramistar h 10 10s,1,ramistar,ramistar,ramistar,10,LUPIN LABORATORIES LTD,,,16.35
+RAN0248,ranger cap 10's (vasu),,capsule,ranger,ranger 10s vasu,1,ranger,ranger,ranger,10,VAS-VASU HEALTHCATRE,,,5.0
+RAW0013,rawrx calcium + d3 capsules 30's,,capsule,rawrx calcium plus d3,rawrx calcium plus d3 30s,1,rawrx calcium plus,rawrx calcium,rawrx,1,BLUEDAY LIVING PVT LTD,,,745.0
+RAW0014,rawrx vegan omega-3 capsules 60's,,capsule,rawrx vegan omega,rawrx vegan omega 3 60s,1,rawrx vegan,rawrx,rawrx,1,BLUEDAY LIVING PVT LTD,,,1190.0
+REA0168,reaxon od cap 10's,,capsule,reaxon od,reaxon od 10s,1,reaxon,reaxon,reaxon,10,FINE FORMULATIONS,,,30.0
+REC0370,rectiheal cap 30's (emerland),,capsule,rectiheal,rectiheal 30s emerland,1,rectiheal,rectiheal,rectiheal,1,EMERALD LABS LTD,,,130.0
+REC0383,rectone cap 10's (shree ayurvedic),,capsule,rectone,rectone 10s shree ayurvedic,1,rectone,rectone,rectone,10,SHREE AYURVEDIC PHARMACEUTICALS,,,4.0
+RED0089,redgold cap 10's,,capsule,redgold,redgold 10s,1,redgold,redgold,redgold,10,ACCRA PAC PVT LTD,,,5.0
+REF0120,refill cap 30's (mediwin),,capsule,refill,refill 30s mediwin,1,refill,refill,refill,1,MEDIWIN LABORATORIES PVT LTD,,,490.0
+REI0009,reiki cap 10's,,capsule,reiki,reiki 10s,1,reiki,reiki,reiki,10,WOR-WORTH,,,3.3
+REJ0177,rejvon cap 10's (jaffman),,capsule,rejvon,rejvon 10s jaffman,1,rejvon,rejvon,rejvon,10,JAF-JAFFMAN,,,16.0
+REL0069,relact cap,,capsule,relact,relact capsule,1,relact,relact,relact,10,ABBOTT LABORATORIES,,,4.5
+REN0094,renolith cap,,capsule,renolith,renolith capsule,1,renolith,renolith,renolith,1,PINK INDIA LIFE SCIENCES LID,,,45.0
+REN0246,renewa gel toe cap l/xl,,capsule,renewa gel toe,renewa gel toe l/xl,1,renewa gel,renewa,renewa,1,DR.SAYANIS HEALTH CARE PVT LTD,,,250.0
+REN0247,renewa gel toe cap small/ medium,,capsule,renewa gel toe,renewa gel toe small/ medium,1,renewa gel,renewa,renewa,1,DR.SAYANIS HEALTH CARE PVT LTD,,,250.0
+REN0436,renflow cap 10's (meridian),,capsule,renflow,renflow 10s meridian,1,renflow,renflow,renflow,10,MERIDIAN PHARMACEUTICALS,,,5.2
+REN0494,renflow cap 30's (meridian),,capsule,renflow,renflow 30s meridian,1,renflow,renflow,renflow,1,MERIDIAN PHARMACEUTICALS,,,280.0
+REN0499,renali cap 30's (green remedies),,capsule,renali,renali 30s green remedies,1,renali,renali,renali,30,GREEN REMEDIES,,,5.33
+RES0419,resto z cap 10's,,capsule,resto z,resto z 10s,1,resto,resto,resto,10,CLIDE INTERNATIONAL PVT LTD,,,6.6
+RET0022,retogar   cap 10's,,capsule,retogar,retogar 10s,1,retogar,retogar,retogar,10,ADONIS LABORATORIES PVT LTD,,,3.23
+RET0094,reti herb cap,,capsule,reti herb,reti herb capsule,1,reti,reti,reti,1,BERRY & HERBS PHARMA PVT LTD,,,630.0
+REV0913,revel 100 softgel cap 10's (rowez),,capsule,revel 100 softgel,revel 100 softgel 10s rowez,1,revel 100,revel,revel,10,ROWEZ LIFESCIENCES PVT LTD,,,18.59
+REZ0059,rezurv caps 30's,,capsule,rezurv,rezurv 30s,1,rezurv,rezurv,rezurv,1,PHYTO CASTLE,,,9.97
+REZ0074,rezurv plus cap,,capsule,rezurv plus,rezurv plus capsule,1,rezurv,rezurv,rezurv,1,PHYTO CASTLE,,,450.0
+RHE0049,rheumo jeevi  gold cap,,capsule,rheumo jeevi gold,rheumo jeevi gold capsule,1,rheumo jeevi,rheumo,rheumo,1,SANJIVINI BIOTECH PVT LTD,,,8.5
+RHE0075,rheumo d.s cap 10's,,capsule,rheumo d.s,rheumo d.s 10s,1,rheumo,rheumo,rheumo,10,SHR-SHREE DHANWANTRI HERBALS,,,9.0
+RHU0062,rhuval active cap 60's,,capsule,rhuval active,rhuval active 60s,1,rhuval,rhuval,rhuval,1,ELIPH NUTRITION PVT LTD,,,999.0
+RIC0059,richelth cap,,capsule,richelth,richelth capsule,1,richelth,richelth,richelth,20,CHARAK PHARMACEUTICALS IND,,,7.45
+RIG0013,riga gold cap,,capsule,riga gold,riga gold capsule,1,riga,riga,riga,10,FABINO LIFE SCIENCE PVT LTD,,,25.0
+RMC0001,rm cap 30's (dharmvir),,capsule,rm,rm 30s dharmvir,1,rm,rm,rm,1,DHARMVIR AYURVEDA PVT LTD,,,210.0
+ROC0048,rocket - f capsules 20's,,capsule,rocket f,rocket f 20s,1,rocket,rocket,rocket,1,GLA-GLAMOUR WORLD INDUSTRIES P,,,325.0
+ROC0053,rocket - m capsules 20's,,capsule,rocket m,rocket m 20s,1,rocket,rocket,rocket,1,GLA-GLAMOUR WORLD INDUSTRIES P,,,325.0
+ROG0025,roghan badam shirin capsule 15's,,capsule,roghan badam shirin,roghan badam shirin 15s,1,roghan badam,roghan,roghan,15,HAMDARD LABORATORIES PVT LTD,,,150.0
+ROS0443,rosycap-asp 20/150 cap 10's,,capsule,rosy,rosy asp 20/150s 10s,2,rosy,rosy,rosy,10,AKUMENTIS HEALTHCARE LTD,,,11.9
+ROS0513,rosycap asp 10/150 cap 10's,,capsule,rosy,rosy asp 10/150s 10s,2,rosy,rosy,rosy,10,AKUMENTIS HEALTHCARE LTD,,,4.79
+ROS0695,rosubest cv 10mg cap 10's,,capsule,rosubest cv,rosubest cv 10 10s,1,rosubest,rosubest,rosubest,10,ZYDUS CADILA HEALTHCARE LTD,,,14.97
+ROS0763,rosubest gold 10mg cap 10's,,capsule,rosubest gold,rosubest gold 10 10s,1,rosubest,rosubest,rosubest,10,ZYDUS CADILA HEALTHCARE LTD,,,13.1
+ROS0817,rosucus gold 10/75/75mg cap 10's,,capsule,rosucus gold,rosucus gold 10/75/75 10s,1,rosucus,rosucus,rosucus,10,PFICUS DE MED PVT LTD,,,13.0
+ROS0818,rosucus gold 20/75/75mg cap 10's,,capsule,rosucus gold,rosucus gold 20/75/75 10s,1,rosucus,rosucus,rosucus,10,PFICUS DE MED PVT LTD,,,22.0
+ROS1220,rosikrit-bd cap 14's (lakriticale),,capsule,rosikrit bd,rosikrit bd 14s lakriticale,1,rosikrit,rosikrit,rosikrit,1,LAKRITICALE INDIA PHARMACEUTICALS,,,749.0
+ROS1221,rosikrit new cap 14's (lakriticale),,capsule,rosikrit new,rosikrit new 14s lakriticale,1,rosikrit,rosikrit,rosikrit,1,LAKRITICALE INDIA PHARMACEUTICALS,,,549.0
+ROS1238,rosycap-asp 10/150 cap 15's,,capsule,rosy,rosy asp 10/150s 15s,2,rosy,rosy,rosy,15,AKUMENTIS HEALTHCARE LTD,,,6.8
+ROZ0140,rozera cap,,capsule,rozera,rozera capsule,1,rozera,rozera,rozera,15,DUMMY,,,243.0
+RTO0002,rtoid 600mg cap 10's (perseus),,capsule,rtoid,rtoid 600 10s perseus,1,rtoid,rtoid,rtoid,10,PERSEUS BIOTECH,,,18.0
+RTO0003,rtoid forte cap 14's (perseus),,capsule,rtoid forte,rtoid forte 14s perseus,1,rtoid,rtoid,rtoid,1,PERSEUS BIOTECH,,,350.0
+RUD0015,rudrol cap 10's,,capsule,rudrol,rudrol 10s,1,rudrol,rudrol,rudrol,10,RUDRA REMEDIES,,,4.8
+RUM0024,rumartho gold cap 10's,,capsule,rumartho gold,rumartho gold 10s,1,rumartho,rumartho,rumartho,10,SHREE BAIDYANATH AYURVED BHAWAN PVT. LTD,,,10.93
+RUM0034,rumatone cap,,capsule,rumatone,rumatone capsule,1,rumatone,rumatone,rumatone,1,CHARAK PHARMA PVT LTD,,,2.75
+RUM0056,rumanor cap 10's,,capsule,rumanor,rumanor 10s,1,rumanor,rumanor,rumanor,10,RUDRA REMEDIES,,,6.6
+RYM0003,rymanyl caps,,capsule,rymanyl,rymanyl capsule,1,rymanyl,rymanyl,rymanyl,1,CHARAK PHARMACEUTICALS IND,,,3.45
+RYS0004,rysis cap 30's,,capsule,rysis,rysis 30s,1,rysis,rysis,rysis,1,ARISE BIOCARE PVT LTD,,,130.0
+SAC0073,sacrimmune plus cap,,capsule,sacrimmune plus,sacrimmune plus capsule,1,sacrimmune,sacrimmune,sacrimmune,1,DEL-DELTRAN,,,780.0
+SAD0012,sadamanjil cap 30's (annai),,capsule,sadamanjil,sadamanjil 30s annai,1,sadamanjil,sadamanjil,sadamanjil,1,ANNAI ARAVINDH HERBALS,,,60.0
+SAG0012,sagun caps 30,,capsule,sagun,sagun 30,1,sagun,sagun,sagun,1,BHU-BHUVENENDRA,,,100.0
+SAK0007,sakshu caps 500mg dharsai osadh,,capsule,sakshu,sakshu 500 dharsai osadh,1,sakshu,sakshu,sakshu,1,RANBAXY PHARMA LTD,,,240.0
+SAL0227,sal+ caps,,capsule,sal+,sal+ capsule,1,sal+,sal+,sal+,1,MEDITEK INDIA,,,6.3
+SAN0280,sandhika cap 30's,,capsule,sandhika,sandhika 30s,1,sandhika,sandhika,sandhika,1,SURYA PHARMACEUTICALS,,,225.0
+SAR0082,sargam junior caps  200mg,,capsule,sargam paediatric,sargam paediatric 200,1,sargam,sargam,sargam,1,ULTRATECH PHARMACEUTICALS,,,300.0
+SAR0083,sargam senior caps 300mg,,capsule,sargam senior,sargam senior 300,1,sargam,sargam,sargam,1,ULTRA DRUGS PVT LTD,,,330.0
+SAR0084,sargam young caps  400mg,,capsule,sargam young,sargam young 400,1,sargam,sargam,sargam,1,ULTRA DRUGS PVT LTD,,,360.0
+SAY0027,sayostone cap 10's,,capsule,sayostone,sayostone 10s,1,sayostone,sayostone,sayostone,10,ZOTA HEALTH CARE LTD,,,5.0
+SEA0021,sevenseas original cod liver oil caps 100's (p&g),,capsule,sevenseas original cod liver oil,sevenseas original cod liver oil 100s p&g,1,sevenseas original cod liver,sevenseas original cod,sevenseas original,1,SANOFI AVENTIS INDIA LTD,,,181.18
+SEA0084,search cordial cap 15's (search),,capsule,search cordial,search cordial 15s,1,search,search,search,15,SEARCH ORBIS PHARMACEUTICALS PVT LTD,,,5.53
+SEG0002,sego-knee cap (xl),,capsule,sego knee,sego knee capsule,1,sego,sego,sego,1,DYNA TECHNO MEDICAL PVT LTD,,,240.0
+SEG0006,sego-knee cap (l),,capsule,sego knee,sego knee l,1,sego,sego,sego,1,SEG-SEGO PVT LTD,,,240.0
+SEG0007,sego knee cap (m),,capsule,sego knee,sego knee m,1,sego,sego,sego,1,FLAMINGO PHARMACEUTICALS,,,460.0
+SEG0044,sego-knee cap-xxl (dynamic),,capsule,sego knee,sego knee xxl dynamic,1,sego,sego,sego,1,DYNAMIC TECHNO MEDICALS PVT LTD,,,260.0
+SEM0012,semanto cap 10's,,capsule,semanto,semanto 10s,1,semanto,semanto,semanto,10,AIMIL PHARMA INDIA PVT LTD,,,7.6
+SEN0311,senfresh cap 30's,,capsule,senfresh,senfresh 30s,1,senfresh,senfresh,senfresh,1,BIOTIS PHARMACEUTICALS,,,260.0
+SER0547,seretone cap,,capsule,seretone,seretone capsule,1,seretone,seretone,seretone,10,ADONIS LABORATORIES PVT LTD,,,18.0
+SEV0121,seven seas cod liver oil new cap 60's,,capsule,seven seas cod liver oil new,seven seas cod liver oil new 60s,1,seven seas cod liver oil,seven seas cod liver,seven seas cod,1,RICHESM HEALTHCARE PVT LTD,,,2499.0
+SEV0122,seven seas cod liver oil new cap 120's,,capsule,seven seas cod liver oil new,seven seas cod liver oil new 120s,1,seven seas cod liver oil,seven seas cod liver,seven seas cod,1,RICHESM HEALTHCARE PVT LTD,,,6563.0
+SHA0101,shankhpushpihills cap,,capsule,shankhpushpihills,shankhpushpihills capsule,1,shankhpushpihills,shankhpushpihills,shankhpushpihills,1,HER-HERBAL HILLS,,,2.45
+SHA0103,shatavarihills cap,,capsule,shatavarihills,shatavarihills capsule,1,shatavarihills,shatavarihills,shatavarihills,1,HER-HERBAL HILLS,,,125.0
+SHA0241,shaiwal cap,,capsule,shaiwal,shaiwal capsule,1,shaiwal,shaiwal,shaiwal,6,DUMMY,,,20.0
+SHA0324,shaktidata gold cap,,capsule,shaktidata gold,shaktidata gold capsule,1,shaktidata,shaktidata,shaktidata,1,SHR-SHREE PRAKASH PHARMACEUTIC,,,65.0
+SHA0346,shaktida cap 30's (dharmvir),,capsule,shaktida,shaktida 30s dharmvir,1,shaktida,shaktida,shaktida,1,DHARMVIR AYURVEDA PVT LTD,,,336.0
+SHE0123,shebest cap 10's (herbo cruze),,capsule,shebest,shebest 10s herbo cruze,1,shebest,shebest,shebest,10,HERBOCRUZE,,,6.5
+SHE0168,sheelajeet cap ( baid ),,capsule,sheelajeet,sheelajeet baid,1,sheelajeet,sheelajeet,sheelajeet,1,3M INDIA LTD,,,205.0
+SHI0019,shilajeet cap 10's,,capsule,shilajeet,shilajeet 10s,1,shilajeet,shilajeet,shilajeet,10,DABUR INDIA LTD,,,6.5
+SHI0031,shilajithills cap,,capsule,shilajithills,shilajithills capsule,1,shilajithills,shilajithills,shilajithills,1,DABUR INDIA LTD,,,6.5
+SHO0032,shoot cap 10's,,capsule,shoot,shoot 10s,1,shoot,shoot,shoot,10,SKM-S K M HERBOCEUTICALS,,,30.0
+SHR0028,shred matrix 120 cap,,capsule,shred matrix,shred matrix 120 capsule,1,shred,shred,shred,1,BPI SPORTS,,,4200.0
+SID0038,sidh time & power gold cap,,capsule,sidh time & power gold,sidh time & power gold capsule,1,sidh time & power,sidh time &,sidh time,1,SID-SIDH INDIA,,,30.0
+SID0051,siddhayu winostress cap 30's,,capsule,siddhayu winostress,siddhayu winostress 30s,1,siddhayu,siddhayu,siddhayu,1,SHREE BAIDYANATH AYURVED BHAWAN PVT. LTD,,,225.0
+SID0061,siddhayu sleep yogue cap 60's,,capsule,siddhayu sleep yogue,siddhayu sleep yogue 60s,1,siddhayu sleep,siddhayu,siddhayu,1,SIDDHAYU AYURVEDIC RESEARCH FOUNDATION PVT LTD,,,395.0
+SIL0632,silifit cap 60's (habitus),,capsule,silifit,silifit 60s habitus,1,silifit,silifit,silifit,1,HABITUS PHARMA PVT LTD,,,999.0
+SIM0066,simlim capsule,,capsule,simlim,siim capsule,1,simlim,simlim,simlim,1,RAY-RATAN AYURVEDIC,,,3.5
+SKO0034,skoolslim cap 60's (skoda),,capsule,skoolslim,skoolslim 60s skoda,1,skoolslim,skoolslim,skoolslim,1,SKODA PHARMA,,,999.0
+SLI0019,slim&slim cap 10's,,capsule,slim&slim,slim&slim 10s,1,slim&slim,slim&slim,slim&slim,10,ADONIS LABORATORIES PVT LTD,,,21.0
+SLI0028,slimfast-60 cap 10's,,capsule,slimfast,slimfast 60 10s,1,slimfast,slimfast,slimfast,10,DUMMY,,,352.0
+SLI0044,slimlip caps,,capsule,slimlip,sliip capsule,1,slimlip,slimlip,slimlip,1,DUMMY,,,4.0
+SLI0071,slimris-c cap 40's,,capsule,slimris c,slimris c 40s,1,slimris,slimris,slimris,1,SUNIRIS ENTERPRISES OPC PVT LTD,,,270.0
+SLI0074,slimit cap 60's (vital care),,capsule,slimit,slimit 60s vital care,1,slimit,slimit,slimit,1,VITAL FORMULATONS LIMITED,,,271.0
+SNO0015,snoril cap 10's,,capsule,snoril,snoril 10s,1,snoril,snoril,snoril,10,ADONIS LABORATORIES PVT LTD,,,25.0
+SOF0322,sofric softgel cap 30's,,capsule,sofric softgel,sofric softgel 30s,1,sofric,sofric,sofric,1,REAL CARE LIFESCIENCES LTD,,,10.0
+SOL0452,solar plus 60k softgel cap 4's,,capsule,solar plus 60k softgel,solar plus 60k softgel 4s,1,solar plus 60k,solar plus,solar,10,ERIKSON PHARMA LTD,,,30.42
+SOR0017,sories-10 caps,,capsule,sories,sories 10 capsule,1,sories,sories,sories,10,DUMMY,,,6.0
+SOR0020,sorijack cap 10's,,capsule,sorijack,sorijack 10s,1,sorijack,sorijack,sorijack,10,JACKSON LABORATORIES LTD,,,6.5
+SOR0080,soronil cap,,capsule,soronil,soronil capsule,1,soronil,soronil,soronil,10,AAKASH PHARMACEUTICALS LTD,,,7.0
+SPA0203,spa cap 10's,,capsule,spa,spa 10s,1,spa,spa,spa,10,AZONE PHARMA LTD,,,8.5
+SPA0283,sparvita cap 10's,,capsule,sparvita,sparvita 10s,1,sparvita,sparvita,sparvita,10,INFLUX HEALTHCARE LTD,,,9.0
+SPE0091,spermon   cap 10's,,capsule,spermon,spermon 10s,1,spermon,spermon,spermon,10,MANO PHARMA PVT LTD,,,9.0
+SPE0131,spermigen cap 10's,,capsule,spermigen,spermigen 10s,1,spermigen,spermigen,spermigen,10,PHYTO CASTLE,,,7.4
+SPI0079,spirulina plus (good care) 60's  cap,,capsule,spirulina plus good care 60s,spirulina plus good care 60s capsule,1,spirulina plus good care,spirulina plus good,spirulina plus,1,GOODCARE PHARMA PVT LTD,,,2.83
+SPI0278,spin vital cap 10's,,capsule,spin vital,spin vital 10s,1,spin,spin,spin,10,SPINE HEALTHCARE PVT LTD,,,10.0
+SPI0328,spirovera cap 10's (owshadh),,capsule,spirovera,spirovera 10s owshadh,1,spirovera,spirovera,spirovera,10,OWSHADH PHARMACEUTICALS,,,9.9
+SPO0159,spondylon softgel cap 10's (nagarjuna),,capsule,spondylon softgel,spondylon softgel 10s nagarjuna,1,spondylon,spondylon,spondylon,10,NAG-NAGARJUNA HERBAL CONCENTRA,,,7.0
+SRI0071,sri sri tattva flaxeed oil veg capsules 30's,,capsule,sri sri tattva flaxeed oil veg,sri tattva flaxeed oil veg 30s,1,sri sri tattva flaxeed oil,sri sri tattva flaxeed,sri sri tattva,1,SRI VEDA SATTVA PVT LTD,,,235.0
+STE0487,sterile luer cap lock type (morrisons),,capsule,sterile luer,sterile luer lock type morrisons,1,sterile,sterile,sterile,1,MORRISONS,,,10.0
+STE0531,steatonil cap 10's (phyto),,capsule,steatonil,steatonil 10s phyto,1,steatonil,steatonil,steatonil,10,PHYTO CASTLE,,,13.5
+STH0002,sthoolhar cap,,capsule,sthoolhar,sthoolhar capsule,1,sthoolhar,sthoolhar,sthoolhar,1,SHR-SHREE PRAKASH PHARMACEUTIC,,,220.0
+STI0055,stimulact cap 10's,,capsule,stimulact,stimulact 10s,1,stimulact,stimulact,stimulact,10,DUMMY,,,4.9
+STI0084,stimupflora cap,,capsule,stimupflora,stimupflora capsule,1,stimupflora,stimupflora,stimupflora,10,INDICON PHARMACEUTICALS,,,12.7
+STI0098,stimul ova cap,,capsule,stimul ova,stimul ova capsule,1,stimul,stimul,stimul,10,HERBALLIFE INT INDIA LTD,,,4.9
+STI0158,stimulex cap 10's (dabur),,capsule,stimulex,stimulex 10s dabur,1,stimulex,stimulex,stimulex,10,DABUR INDIA LTD,,,14.2
+STO0208,stomtab 50 caps,,capsule,stomtab,stomtab 50 capsule,1,stomtab,stomtab,stomtab,1,SAG-SAGAR,,,50.0
+STO0237,stonide cap,,capsule,stonide,stonide capsule,1,stonide,stonide,stonide,1,CLIDE INTERNATIONAL PVT LTD,,,5.42
+STO0332,stocil cap 30's (emerland),,capsule,stocil,stocil 30s emerland,1,stocil,stocil,stocil,1,EMERALD LABS LTD,,,130.0
+STR0563,stremzza cap 30's (medilief),,capsule,stremzza,stremzza 30s medilief,1,stremzza,stremzza,stremzza,1,MEDILIEF BIOSCIENCE PVT LTD,,,341.35
+SUC0233,suction tip cap,,capsule,suction tip,suction tip capsule,1,suction,suction,suction,1,SUN-SUN INDIA,,,250.0
+SUD0013,sudol (ratan) 10's cap 10's,,capsule,sudol ratan 10s,sudol ratan 10s,1,sudol ratan,sudol,sudol,10,SHREE BAIDYANATH AYURVED BHAWAN PVT. LTD,,,10.0
+SUD0019,sudol body toner cap,,capsule,sudol body toner,sudol body toner capsule,1,sudol body,sudol,sudol,1,RAY-RATAN AYURVEDIC,,,8.0
+SUD0020,sudol cap,,capsule,sudol,sudol capsule,1,sudol,sudol,sudol,1,AYU-AYURVEDIC,,,10.0
+SUG0127,sugarno cap 10's,,capsule,sugarno,sugarno 10s,1,sugarno,sugarno,sugarno,10,GREENCO BIOLOGICALS,,,6.5
+SUG0180,sugarsun cap 60's (jeewan jyoti),,capsule,sugarsun,sugarsun 60s jeewan jyoti,1,sugarsun,sugarsun,sugarsun,1,JEEWAN JYOTI PHARMACY PVT LTD,,,360.0
+SUN0102,sunarin cap,,capsule,sunarin,sunarin capsule,1,sunarin,sunarin,sunarin,30,PHYTO CASTLE,,,2.5
+SUN0290,sunsex gold cap 10's,,capsule,sunsex gold,sunsex gold 10s,1,sunsex,sunsex,sunsex,10,JOLLY AYURVEDIC,,,25.0
+SUP0180,suprada cap 10's,,capsule,suprada,suprada 10s,1,suprada,suprada,suprada,10,AYU-AYU LABS,,,4.0
+SUR0014,surgeon cap (jit & jit),,capsule,surgeon,surgeon jit &,1,surgeon,surgeon,surgeon,1,DUMMY,,,5.0
+SUR0016,surgeon disposable cap care plus (ramson),,capsule,surgeon disposable,surgeon disposable care plus ramson,1,surgeon,surgeon,surgeon,1,ROM-ROMSONS SCIENTIFIC & SURGICAL,,,5.87
+SUR0021,surgeons cap (elacons ),,capsule,surgeons,surgeons elacons,1,surgeons,surgeons,surgeons,1,J B CHEMICALS & PHARMACEUTICALS LTD,,,10.0
+SUR0023,surgeons cap (mediklin),,capsule,surgeons,surgeons mediklin,1,surgeons,surgeons,surgeons,100,DOC- DOCTOR CHOICE,,,7.5
+SUR0025,surgeons hood caps(mediklin),,capsule,surgeons hood,surgeons hood mediklin,1,surgeons,surgeons,surgeons,1,MEDIKLIN HEALTH CARE LTD,,,18.0
+SUR0031,surgical cap ( r.l.fashions,,capsule,surgical,surgical r.l.fashions,1,surgical,surgical,surgical,1,RLF-R.L.FASHIONS,,,6.5
+SUR0059,surgeon's cap(flora),,capsule,surgeons,surgeons flora,1,surgeons,surgeons,surgeons,1,FLORENTIA FASHION LTD,,,10.0
+SUR0076,surgeons cap (seni),,capsule,surgeons,surgeons seni,1,surgeons,surgeons,surgeons,1,DUMMY,,,7.0
+SUR0077,surgeons cap (prescot),,capsule,surgeons,surgeons prescot,1,surgeons,surgeons,surgeons,1,DUMMY,,,7.0
+SUR0201,surgeon cap(breathe easy),,capsule,surgeon,surgeon breathe easy,1,surgeon,surgeon,surgeon,1,ACS PHARMA PVT LTD,,,750.0
+SUR0211,surgeon cap (amkay),,capsule,surgeon,surgeon amkay,1,surgeon,surgeon,surgeon,1,AMKAY PRODUCTS PVT LTD,,,3.75
+SUR0240,surgeons female cap,,capsule,surgeons female,surgeons female capsule,1,surgeons,surgeons,surgeons,1,3M INDIA LIMITED,,,5.0
+SUR0243,surgeons caps - supra,,capsule,surgeons,surgeons supra,1,surgeons,surgeons,surgeons,1,SUCHI PHARMA,,,6.5
+SUR0247,surgeons cap (drs.choice),,capsule,surgeons,surgeons drs.choice,1,surgeons,surgeons,surgeons,100,DRC-DR.CHOICE,,,750.0
+SUR0266,surgeons  cap   3m,,capsule,surgeons,surgeons 3m,1,surgeons,surgeons,surgeons,1,3M INDIA LIMITED,,,5.4
+SUR0270,surgeons cap(premium),,capsule,surgeons,surgeons premium,1,surgeons,surgeons,surgeons,1,PRE-PREMIUM PLASTIC &CO,,,5.0
+SUR0272,surgeons cap (singh),,capsule,surgeons,surgeons singh,1,surgeons,surgeons,surgeons,1,PRS-PRESCOT PROTECTIONS,,,10.0
+SUR0274,surgeon cap blue 100's (premium),,capsule,surgeon,surgeon blue 100s premium,1,surgeon,surgeon,surgeon,1,PREMIUM HEALTHCARE,,,5.0
+SUR0282,surgeon nurses cap premium,,capsule,surgeon nurses,surgeon nurses premium,1,surgeon,surgeon,surgeon,1,PRE-PREMIUM PLASTIC &CO,,,7.5
+SUR0384,surya shakti cap 10's,,capsule,surya shakti,surya shakti 10s,1,surya,surya,surya,10,DUMMY,,,47.0
+SUR0401,surgeon cap (bulk ),,capsule,surgeon,surgeon bulk,1,surgeon,surgeon,surgeon,1,MED-MEDICUBE HEALTH CARE PVT L,,,750.0
+SUR0405,surgeon cap 100's,,capsule,surgeon,surgeon 100s,1,surgeon,surgeon,surgeon,1,MED-MEDICUBE HEALTH CARE PVT L,,,7.5
+SUR0457,surgeons cap (lifeline),,capsule,surgeons,surgeons lifeline,1,surgeons,surgeons,surgeons,1,LIFELINE SYSTEMS PVT.LTD.,,,15.0
+SUR0497,surgeon cap-non woven (shulkon),,capsule,surgeon,surgeon non woven shulkon,1,surgeon,surgeon,surgeon,1,SHULKON HEALTHCARE PVT LTD,,,15.0
+SUR0510,surgeon cap 100's (hesh),,capsule,surgeon,surgeon 100s hesh,1,surgeon,surgeon,surgeon,100,HES-HESH,,,12.0
+SUR0512,surgeon cap non-woven 100's (ambay),,capsule,surgeon,surgeon non woven 100s ambay,1,surgeon,surgeon,surgeon,100,AMBAY MEDICAL DEVICES,,,12.0
+SWA0016,swasth vardhak cap,,capsule,swasth vardhak,swasth vardhak capsule,1,swasth,swasth,swasth,1,SUN PHARMA LABORATORIES LTD.,,,2.4
+SWA0103,swadeshi sexobest combo oil15ml + caps 20's,,capsule,swadeshi sexobest combo oil15ml plus,swadeshi sexobest combo oil15 plus 20s,1,swadeshi sexobest combo oil15ml,swadeshi sexobest combo,swadeshi sexobest,1,SWASWADESHI,,,320.0
+SWI0120,swiss count cap 10's,,capsule,swiss count,swiss count 10s,1,swiss,swiss,swiss,10,FRISKA NUTRACEUTICALS PVT LTD,,,54.0
+SWI0160,swisse daily digestive probiotic cap 30's,,capsule,swisse daily digestive probiotic,swisse daily digestive probiotic 30s,1,swisse daily digestive,swisse daily,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,1749.0
+SWI0161,swisse ultiboost 150mg co-enzyme q10 cap 50's,,capsule,swisse ultiboost,swisse ultiboost 150 co enzyme q10 50s,1,swisse,swisse,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,1899.0
+SWI0162,swisse ultiboost heart health softgel cap 30's,,capsule,swisse ultiboost heart health softgel,swisse ultiboost heart health softgel 30s,1,swisse ultiboost heart health,swisse ultiboost heart,swisse ultiboost,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,1599.0
+SWI0163,swisse ultiboost 1800mg 4 x strength wild fish oil cap 60's,,capsule,swisse ultiboost,swisse ultiboost 1800 4 x strength wild fish oil 60s,1,swisse,swisse,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,2449.0
+SWI0164,swisse ultiboost 1500mg high strength wild fish oil cap 60's,,capsule,swisse ultiboost,swisse ultiboost 1500 high strength wild fish oil 60s,1,swisse,swisse,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,999.0
+SWI0165,swisse ultiboost 1500mg high strength wild fish oil cap 90's,,capsule,swisse ultiboost,swisse ultiboost 1500 high strength wild fish oil 90s,1,swisse,swisse,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,1399.0
+SWI0166,swisse ultiboost 25000mg high strength cranberry cap 30's,,capsule,swisse ultiboost,swisse ultiboost 25000 high strength cranberry 30s,1,swisse,swisse,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,1299.0
+SWI0191,swisse ultiboost 1500mg high strength wild fish oil cap 40's,,capsule,swisse ultiboost,swisse ultiboost 1500 high strength wild fish oil 40s,1,swisse,swisse,swisse,1,HEALTH & HAPPINESS TRADING INDIA PVT LTD,,,699.0
+TCY0003,tcyte cap,,capsule,tcyte,tcyte capsule,1,tcyte,tcyte,tcyte,10,MCW HEALTHCARE PVT LTD,,,12.0
+TEE0041,teen omega 3 fish oils orange flav chew cap 30's,,capsule,teen omega 3 fish oils orange flav chew,teen omega 3 fish oils orange flav chew 30s,1,teen omega 3 fish oils orange flav,teen omega 3 fish oils orange,teen omega 3 fish oils,1,HOLLAND AND BARRETT,,,799.0
+TEJ0006,tejoderm cap 10's (sagar),,capsule,tejoderm,tejoderm 10s sagar,1,tejoderm,tejoderm,tejoderm,10,SAG-SAGAR,,,2.5
+TEK0036,tekme cap 10's (friska),,capsule,tekme,tekme 10s friska,1,tekme,tekme,tekme,10,FRISKA NUTRACEUTICALS PVT LTD,,,32.0
+TEN0019,tentex royal caps,,capsule,tentex royal,tentex royal capsule,1,tentex,tentex,tentex,10,THE HIMALAYA DRUG COMPANY-(WELLNESS),,,12.0
+TEN0130,tennis elbow cap (visco),,capsule,tennis elbow,tennis elbow visco,1,tennis,tennis,tennis,1,VIS-VISCO,,,160.0
+TEX0042,texcurmin cap 60's (biotexus),,capsule,texcurmin,texcurmin 60s biotexus,1,texcurmin,texcurmin,texcurmin,1,BIOTEXA LIFE SCIENCES,,,2930.0
+TEX0057,texcurmin cap 30's (biotexus),,capsule,texcurmin,texcurmin 30s biotexus,1,texcurmin,texcurmin,texcurmin,1,BIOTEXUS PHARMACEUTICAL PVT LTD,,,1560.0
+TEZ0001,tezo 1 cap,,capsule,tezo,tezo 1 capsule,1,tezo,tezo,tezo,6,IND SWIFT LTD,,,16.58
+THR0114,thrombup cap 10's,,capsule,thrombup,thrombup 10s,1,thrombup,thrombup,thrombup,10,INTAS PHARMACEUTICALS LTD,,,18.9
+THR0137,thromboeve cap 20's,,capsule,thromboeve,thromboeve 20s,1,thromboeve,thromboeve,thromboeve,1,EVEPURE PHARMA,,,1260.0
+THY0168,thyrot cap,,capsule,thyrot,thyrot capsule,1,thyrot,thyrot,thyrot,1,NETTLE PHARMACEUTICALS LTD,,,249.0
+THY0219,thyro q 250mg caps 60's,,capsule,thyro q,thyro q 250 60s,1,thyro,thyro,thyro,1,NUZEN HERBAL PVT.LTD,,,1960.0
+THY0319,thymopil-500 cap 10's (evita),,capsule,thymopil,thymopil 500 10s evita,1,thymopil,thymopil,thymopil,10,EVITA HEALTHCARE LTD,,,11.5
+TON0069,tonosori  caps,,capsule,tonosori,tonosori capsule,1,tonosori,tonosori,tonosori,1,SAG-SAGAR,,,400.0
+TON0126,tonsari cap 10's (sagar),,capsule,tonsari,tonsari 10s sagar,1,tonsari,tonsari,tonsari,10,SAG-SAGAR,,,4.25
+TOR0007,tormoxin plus 250 mg cap 10's,,capsule,tormoxin plus,tormoxin plus 250 10s,1,tormoxin,tormoxin,tormoxin,10,TORRENT PHARMACEUTICALS LTD,,,5.6
+TOR0235,torchfree cap 10's,,capsule,torchfree,torchfree 10s,1,torchfree,torchfree,torchfree,10,PHYTO CASTLE,,,5.0
+TOS0017,tossex d cap 10's,,capsule,tossex d,tossex d 10s,1,tossex,tossex,tossex,10,NICHOLAS PIRAMAL INDIA LTD,,,6.04
+TOZ0014,tozex l cap 10's,,capsule,tozex l,tozex l 10s,1,tozex,tozex,tozex,10,ANGLICA HEALTHCARE,,,10.0
+TRA0376,transducer cap for hp dome,,capsule,transducer,transducer for hp dome,1,transducer,transducer,transducer,1,GENERAL PHARMA,,,400.0
+TRA0794,transfer set cap (mitra),,capsule,transfer set,transfer set mitra,1,transfer,transfer,transfer,1,MIT-MITRA INDUSTRIES P LTD,,,48.0
+TRE0050,trentis cap 10's,,capsule,trentis,trentis 10s,1,trentis,trentis,trentis,10,TRI-TRIUM,,,4.0
+TRI0096,triphala 60's cap,,capsule,triphala 60s,triphala 60s capsule,1,triphala,triphala,triphala,1,THE HIMALAYA DRUG COMPANY-(WELLNESS),,,132.0
+TRI0150,trichup cap,,capsule,trichup,trichup capsule,1,trichup,trichup,trichup,30,VASU HEALTHCARE PVT.LTD.,,,4.0
+TRI0223,triphala 30's cap,,capsule,triphala 30s,triphala 30s capsule,1,triphala,triphala,triphala,1,THE HIMALAYA DRUG COMPANY-(WELLNESS),,,0.91
+TRI0360,trimohills cap,,capsule,trimohills,trimohills capsule,1,trimohills,trimohills,trimohills,1,HER-HERBAL HILLS,,,25.0
+TRI0658,triphala cap 120s,,capsule,triphala,triphala 120s,1,triphala,triphala,triphala,1,SHREE BAIDYANATH AYURVED BHAWAN PVT. LTD,,,1.41
+TRI0661,triphala guggulu capsule baidyanath,,capsule,triphala guggulu,triphala guggulu baidyanath,1,triphala,triphala,triphala,1,SHREE BAIDYANATH AYURVED BHAWAN PVT. LTD,,,77.0
+TRI0781,trimpil cap,,capsule,trimpil,trimpil capsule,1,trimpil,trimpil,trimpil,1,MEDITEK INDIA,,,9.3
+TRI0916,triglyze 50 caps,,capsule,triglyze,triglyze 50 capsule,1,triglyze,triglyze,triglyze,1,ZENLABS INDIA,,,115.0
+TRI1547,trichup cap 10's,,capsule,trichup,trichup 10s,1,trichup,trichup,trichup,10,VASU ORGANICS PVT LTD,,,6.0
+TRO0090,troynuron al cap 10's,,capsule,troynuron al,troynuron al 10s,1,troynuron,troynuron,troynuron,10,ADONIS LABORATORIES PVT LTD,,,8.95
+TRO0115,troynuron cap 10's,,capsule,troynuron,troynuron 10s,1,troynuron,troynuron,troynuron,10,TROIKAA PHARMACEUTICALS,,,15.0
+TRU0535,truelact cap 10's (indus),,capsule,truelact,truelact 10s indus,1,truelact,truelact,truelact,10,IND-INDUS LIFECARE,,,6.0
+TT70001,tt 750 with tribulosin 90 caps,,capsule,tt 750 with tribulosin,tt 750 with tribulosin 90 capsule,1,tt 750 with,tt 750,tt,1,USP MEDICAFT,,,1799.0
+TUN0010,tuneph cap 18's,,capsule,tuneph,tuneph 18s,1,tuneph,tuneph,tuneph,18,IND-INDO-ITALLA,,,144.0
+TUR0116,turmijoint cap 10's ( zerico),,capsule,turmijoint,turmijoint 10s zerico,1,turmijoint,turmijoint,turmijoint,10,ZERICO LIFESCIENCES PVT LTD,,,16.5
+TVC0001,tvc ashwagandha cap 60's,,capsule,tvc ashwagandha,tvc ashwagandha 60s,1,tvc,tvc,tvc,1,SPORTECH SOLUTIONS,,,999.0
+TVC0002,tvc ginseng x cap 60's,,capsule,tvc ginseng x,tvc ginseng x 60s,1,tvc ginseng,tvc,tvc,1,SPORTECH SOLUTIONS,,,1399.0
+TVC0003,tvc glucosamine chondroitin optimsm cap 60's,,capsule,tvc glucosamine chondroitin optimsm,tvc glucosamine chondroitin optimsm 60s,1,tvc glucosamine chondroitin,tvc glucosamine,tvc,1,SPORTECH SOLUTIONS,,,999.0
+TVC0004,tvc lean up cap 60's,,capsule,tvc lean up,tvc lean up 60s,1,tvc lean,tvc,tvc,1,SPORTECH SOLUTIONS,,,1399.0
+TVC0005,tvc omega 3-6-9 cap 60's,,capsule,tvc omega 3 6,tvc omega 3 6 9 60s,1,tvc omega 3,tvc omega,tvc,1,SPORTECH SOLUTIONS,,,1399.0
+TVC0006,tvc omega-3 fish oil cap 60's,,capsule,tvc omega 3 fish oil,tvc omega 3 fish oil 60s,1,tvc omega 3 fish,tvc omega 3,tvc omega,1,SPORTECH SOLUTIONS,,,1099.0
+TVC0007,tvc re-live sexual formula cap 60's,,capsule,tvc re live sexual formula,tvc re live sexual formula 60s,1,tvc re live sexual,tvc re live,tvc re,1,SPORTECH SOLUTIONS,,,1399.0
+TVC0008,tvc spirulina cap 60's,,capsule,tvc spirulina,tvc spirulina 60s,1,tvc,tvc,tvc,1,SPORTECH SOLUTIONS,,,999.0
+TVC0009,tvc tribulus men's performance cap 60's,,capsule,tvc tribulus mens performance,tvc tribulus mens performance 60s,1,tvc tribulus mens,tvc tribulus,tvc,1,SPORTECH SOLUTIONS,,,1099.0
+TVC0010,tvc vitamin-c cap 60's,,capsule,tvc vitamin c,tvc vitamin c 60s,1,tvc vitamin,tvc,tvc,1,SPORTECH SOLUTIONS,,,899.0
+TVC0011,tvc zinc & magnesium cap 60's,,capsule,tvc zinc & magnesium,tvc zinc & magnesium 60s,1,tvc zinc &,tvc zinc,tvc,1,SPORTECH SOLUTIONS,,,1199.0
+TVC0012,tvc liver cleanse cap 60's,,capsule,tvc liver cleanse,tvc liver cleanse 60s,1,tvc liver,tvc,tvc,1,SPORTECH SOLUTIONS,,,899.0
+TVC0013,tvc moringa extract cap 60's,,capsule,tvc moringa extract,tvc moringa extract 60s,1,tvc moringa,tvc,tvc,1,SPORTECH SOLUTIONS,,,899.0
+TVC0014,tvc biotin with zinc cap 60's,,capsule,tvc biotin with zinc,tvc biotin with zinc 60s,1,tvc biotin with,tvc biotin,tvc,1,SPORTECH SOLUTIONS,,,999.0
+TVC0015,tvc womens multi-vitamin cap 60's,,capsule,tvc womens multi vitamin,tvc womens multi vitamin 60s,1,tvc womens multi,tvc womens,tvc,1,SPORTECH SOLUTIONS,,,799.0
+TVC0022,tvc mens multi-vitamin cap 60's,,capsule,tvc mens multi vitamin,tvc mens multi vitamin 60s,1,tvc mens multi,tvc mens,tvc,1,SPORTECH SOLUTIONS,,,799.0
+TVC0023,tvc cla + l-carnitine cap 60's,,capsule,tvc cla plus l carnitine,tvc cla plus l carnitine 60s,1,tvc cla plus l,tvc cla plus,tvc cla,1,SPORTECH SOLUTIONS,,,899.0
+TVC0025,tvc l-arginine cap 60's,,capsule,tvc l arginine,tvc l arginine 60s,1,tvc l,tvc,tvc,1,SPORTECH SOLUTIONS,,,1299.0
+TYU0003,tyuchit cap 10's,,capsule,tyuchit,tyuchit 10s,1,tyuchit,tyuchit,tyuchit,10,LOG-LOGIN PH,,,13.9
+ULS0021,ulset cap 10's (shankar),,capsule,ulset,ulset 10s shankar,1,ulset,ulset,ulset,10,SHA-SHANKAR PHARMACY,,,4.5
+UNE0004,uneclot cap,,capsule,uneclot,uneclot capsule,1,uneclot,uneclot,uneclot,1,GD PHARMACEUTICALSS PVT LTD,,,2.9
+UNE0012,uneclot forte cap 10's,,capsule,uneclot forte,uneclot forte 10s,1,uneclot,uneclot,uneclot,10,THE UNION PHARMA,,,14.5
+UNI0327,unite cap,,capsule,unite,unite capsule,1,unite,unite,unite,1,ARM-ARMADEN BIOCEUTIES,,,20.66
+UNI0352,unimerge+ cap 30's,,capsule,unimerge+,unimerge+ 30s,1,unimerge+,unimerge+,unimerge+,1,BIOMORPH LIFESCIENCES PVT LTD,,,15.0
+UNT0001,un tox active enzymes 375mg 2's caps,,capsule,un tox active enzymes,un tox active enzymes 375 2s capsule,1,un tox active,un tox,un,1,PIRAMAL PHARMA LIMITED,,,199.0
+UPR0004,uprostone  cap 10's,,capsule,uprostone,uprostone 10s,1,uprostone,uprostone,uprostone,10,ADONIS LABORATORIES PVT LTD,,,7.4
+URE0100,ureflora cap 14's,,capsule,ureflora,ureflora 14s,1,ureflora,ureflora,ureflora,14,CUREILL PHARMA PVT LTD,,,28.5
+URI0173,uritone cap 10's,,capsule,uritone,uritone 10s,1,uritone,uritone,uritone,10,ISCON LABORATORIES PVT LTD,,,11.7
+URI0214,uriway cap 18's,,capsule,uriway,uriway 18s,1,uriway,uriway,uriway,1,INNOVEXIA LIFE SCIENCE PVT LTD,,,9.7
+URI0215,urivin cap 30's,,capsule,urivin,urivin 30s,1,urivin,urivin,urivin,1,BIOZENESIS HEALTHCARE LTD,,,279.9
+URI0235,uriblast cap 18's,,capsule,uriblast,uriblast 18s,1,uriblast,uriblast,uriblast,1,INNOVEXIA LIFE SCIENCE PVT LTD,,,225.0
+URI0261,uri-sl cap 30's,,capsule,uri sl,uri sl 30s,1,uri,uri,uri,1,SLB HEALTHCARE PVT LTD,,,180.0
+URO0062,uro capsule,,capsule,uro,uro capsule,1,uro,uro,uro,1,T.P.U-T.P.USA,,,50.0
+URO0137,urobliss cap 10's,,capsule,urobliss,urobliss 10s,1,urobliss,urobliss,urobliss,10,BRIO BLISS LIFE SCIENCE PVT LTD,,,8.91
+URO0149,urowin-forte cap,,capsule,urowin forte,urowin forte capsule,1,urowin,urowin,urowin,1,SUREWIN HEALTHCARE,,,330.0
+UTI0043,uti heal cap 10's,,capsule,uti heal,uti heal 10s,1,uti,uti,uti,10,STARUS PHARMACEUTICALS PVT LTD,,,20.0
+UTZ0001,ut - zen cap. zlp,,capsule,ut zen,ut zen zlp,1,ut,ut,ut,1,ZENLABS INDIA,,,38.0
+V070008,v0717 knee cap # small pat rib,,capsule,v0717 knee,v0717 knee small pat rib,1,v0717,v0717,v0717,1,3M INDIA LTD,,,420.0
+V070026,v0705 knee cap  small,,capsule,v0705 knee,v0705 knee small,1,v0705,v0705,v0705,1,3M INDIA LTD,,,320.0
+V070033,v0705 knee cap  3x-larg,,capsule,v0705 knee,v0705 knee 3x larg,1,v0705,v0705,v0705,1,3M INDIA LTD,,,439.0
+V070034,v0705 knee cap  xx-large,,capsule,v0705 knee,v0705 knee xx large,1,v0705,v0705,v0705,1,3M INDIA LTD,,,399.0
+V070036,v0705 knee cap large,,capsule,v0705 knee,v0705 knee large,1,v0705,v0705,v0705,1,3M INDIA LTD,,,352.0
+V070058,v0714 knee cap pat holes,,capsule,v0714 knee,v0714 knee pat holes,1,v0714,v0714,v0714,1,3M INDIA LTD,,,347.0
+V070059,v0714 knee cap pat holexl,,capsule,v0714 knee,v0714 knee pat holexl,1,v0714,v0714,v0714,1,3M INDIA LTD,,,390.0
+V070066,v0717 knee cap xxl pat ribb,,capsule,v0717 knee,v0717 knee xxl pat ribb,1,v0717,v0717,v0717,1,3M INDIA LTD,,,443.0
+V070069,v0717 knee cap patella ribbed (medium),,capsule,v0717 knee,v0717 knee patella ribbed medium,1,v0717,v0717,v0717,1,3M INDIA LTD,,,468.0
+V270001,v2704 pro-3d knee cap <m>,,capsule,v2704 pro 3d knee,v2704 pro 3d knee <m>,1,v2704 pro 3d,v2704 pro,v2704,1,3M INDIA LTD,,,616.0
+V270002,v2704 pro-3d knee cap <l>,,capsule,v2704 pro 3d knee,v2704 pro 3d knee <l>,1,v2704 pro 3d,v2704 pro,v2704,1,3M INDIA LTD,,,616.0
+V270004,v2704 pro-3d knee cap large,,capsule,v2704 pro 3d knee,v2704 pro 3d knee large,1,v2704 pro 3d,v2704 pro,v2704,1,3M INDIA LTD,,,616.0
+V270006,v2704 pro-3d knee cap l,,capsule,v2704 pro 3d knee,v2704 pro 3d knee l,1,v2704 pro 3d,v2704 pro,v2704,1,3M INDIA LTD,,,616.0
+V270007,v2704 pro-3d knee cap s,,capsule,v2704 pro 3d knee,v2704 pro 3d knee s,1,v2704 pro 3d,v2704 pro,v2704,1,3M INDIA LTD,,,616.0
+V2M0001,v2m cap 10's,,capsule,v2m,v2m 10s,1,v2m,v2m,v2m,10,NOVARTIS INDIA LTD,,,9.5
+VAA0001,vaajee boost cap,,capsule,vaajee boost,vaajee boost capsule,1,vaajee,vaajee,vaajee,1,MICRO LABS LTD,,,6.0
+VAJ0002,vajeekaran   cap,,capsule,vajeekaran,vajeekaran capsule,1,vajeekaran,vajeekaran,vajeekaran,1,AYURVED SUMSHODHANALAYA PVT LTD,,,24.0
+VAL0101,vallarai 400mg cap,,capsule,vallarai,vallarai 400 capsule,1,vallarai,vallarai,vallarai,1,ADONIS LABORATORIES PVT LTD,,,2.0
+VAL0366,valfree cap 30's,,capsule,valfree,valfree 30s,1,valfree,valfree,valfree,1,ALN- ALNA BIOTECH,,,149.0
+VAR0132,varstome cap 10's (zota),,capsule,varstome,varstome 10s zota,1,varstome,varstome,varstome,10,ZOTA HEALTH CARE LTD,,,6.0
+VAS0085,vasaka caps,,capsule,vasaka,vasaka capsule,1,vasaka,vasaka,vasaka,1,GD PHARMACEUTICALSS PVT LTD,,,100.0
+VAS0196,vaseer cap 10's,,capsule,vaseer,vaseer 10s,1,vaseer,vaseer,vaseer,10,JOLLY AYURVEDIC,,,7.0
+VAS0233,vasmin cap 10's,,capsule,vasmin,vasmin 10s,1,vasmin,vasmin,vasmin,10,PHYTO CASTLE,,,18.0
+VAS0307,vasishta fem-calm 500mg cap 60's,,capsule,vasishta fem calm,vasishta fem calm 500 60s,1,vasishta fem,vasishta,vasishta,1,DRV-DR.VASISHTHS,,,200.0
+VAT0020,vathapy  cap 10's,,capsule,vathapy,vathapy 10s,1,vathapy,vathapy,vathapy,10,ADONIS LABORATORIES PVT LTD,,,5.46
+VAY0002,vayco caps,,capsule,vayco,vayco capsule,1,vayco,vayco,vayco,1,3M INDIA LTD,,,2.0
+VCV0002,vcvein cap 10's (relacion),,capsule,vcvein,vcvein 10s relacion,1,vcvein,vcvein,vcvein,10,RELACION PHARMACEUTICALS,,,13.5
+VEG0183,vegoliv cap 10's,,capsule,vegoliv,vegoliv 10s,1,vegoliv,vegoliv,vegoliv,10,ARV-ARVIND REMEDIES,,,4.5
+VEI0032,veincoze cap 20's (elizence),,capsule,veincoze,veincoze 20s elizence,1,veincoze,veincoze,veincoze,20,ELIZENCE OVERSIS,,,13.5
+VEL0214,velfree cap 30's (alna),,capsule,velfree,velfree 30s alna,1,velfree,velfree,velfree,1,ALT-ALNA BIO-TECH,,,149.0
+VER0299,verator capsule,,capsule,verator,verator capsule,1,verator,verator,verator,1,NEI-NEISS WELLNESS INDIA LIMIT,,,17.1
+VHY0001,vhyteflo cap 30's (sahajanand),,capsule,vhyteflo,vhyteflo 30s sahajanand,1,vhyteflo,vhyteflo,vhyteflo,1,SAHAJANAND HEALTH CARE,,,150.0
+VIB0033,vibrunt x cap 10's,,capsule,vibrunt x,vibrunt x 10s,1,vibrunt,vibrunt,vibrunt,10,KDC-KDC,,,15.0
+VIC0387,vicky knee cap-xl (steriware),,capsule,vicky knee,vicky knee steriware,1,vicky,vicky,vicky,1,STERIWARE PRODUCTS,,,195.0
+VIG0023,vigrovit forte cap,,capsule,vigrovit forte,vigrovit forte capsule,1,vigrovit,vigrovit,vigrovit,1,SWIFT LTD,,,15.0
+VIL0010,villo cap 10's,,capsule,villo,villo 10s,1,villo,villo,villo,10,AAKASH PHARMACEUTICALS LTD,,,6.0
+VIL0054,vil-spur cap 30's (vardaan),,capsule,vil spur,vil spur 30s vardaan,1,vil,vil,vil,1,VARDAAN LABORATORIES,,,750.0
+VIS0153,visentin cap 10's,,capsule,visentin,visentin 10s,1,visentin,visentin,visentin,10,AJANTA PHARMA LTD,,,17.5
+VIT0014,vitalux plus tr cap 30's ***,,capsule,vitalux plus tr,vitalux plus tr 30s,1,vitalux plus,vitalux,vitalux,1,NOVARTIS INDIA LTD,,,306.0
+VIT0143,vitalux plus tr cap 30's,,capsule,vitalux plus tr,vitalux plus tr 30s,1,vitalux plus,vitalux,vitalux,1,NOVARTIS INDIA LTD,,,10.2
+VIT0165,vitality cap,,capsule,vitality,vitality capsule,1,vitality,vitality,vitality,1,ORGA-ORGANIC  INDIA,,,8.5
+VIT0215,vitaglow cap 10's,,capsule,vitaglow,vitaglow 10s,1,vitaglow,vitaglow,vitaglow,10,ADONIS LABORATORIES PVT LTD,,,6.9
+VIT0246,vitanim cap,,capsule,vitanim,vitanim capsule,1,vitanim,vitanim,vitanim,1,NIM-NIMBA ASWATHA,,,15.0
+VIT0766,vitafest plus cap 10's,,capsule,vitafest plus,vitafest plus 10s,1,vitafest,vitafest,vitafest,10,HOLY LIFE SCIENCES,,,12.0
+VIT0792,vitone cap 10's (zota),,capsule,vitone,vitone 10s zota,1,vitone,vitone,vitone,1,ZOTA HEALTH CARE LTD,,,82.0
+VIT1114,vitarex plus cap 10's,,capsule,vitarex plus,vitarex plus 10s,1,vitarex,vitarex,vitarex,10,MORPHIL LIFE SCIENCES PVT LTD,,,11.0
+VIT1214,viticare cap 10's (briskinn),,capsule,viticare,viticare 10s briskinn,1,viticare,viticare,viticare,10,BRISKINN SOLUTIONS,,,6.8
+VIV0134,vivadona cap 15's,,capsule,vivadona,vivadona 15s,1,vivadona,vivadona,vivadona,15,SHI-SHILAJIT  KESHAR,,,7.65
+VIV0164,vivadona cap 20's (charak),,capsule,vivadona,vivadona 20s charak,1,vivadona,vivadona,vivadona,20,CHARAK PHARMACEUTICALS IND,,,9.0
+VP20002,vp2704 pro knee cap large,,capsule,vp2704 pro knee,vp2704 pro knee large,1,vp2704 pro,vp2704,vp2704,1,3M INDIA LTD,,,616.0
+VP20013,vp2704 large pro-3dknee cap,,capsule,vp2704 large pro 3dknee,vp2704 large pro 3dknee capsule,1,vp2704 large pro,vp2704 large,vp2704,1,3M INDIA LTD,,,616.0
+VP20014,vp2704 xl pro-3dknee cap,,capsule,vp2704 pro 3dknee,vp2704 pro 3dknee capsule,1,vp2704 pro,vp2704,vp2704,1,3M INDIA LTD,,,638.0
+VP20027,vp2703 2d knee cap medium,,capsule,vp2703 2d knee,vp2703 2d knee medium,1,vp2703 2d,vp2703,vp2703,1,3M INDIA LTD,,,430.0
+WEI0047,weitrol cap 60's,,capsule,weitrol,weitrol 60s,1,weitrol,weitrol,weitrol,1,VARMA INDUSTRIES,,,500.0
+WEL0004,wellman cap 15's,,capsule,wellman,wellman 15s,1,wellman,wellman,wellman,15,VITALIS LIFE SCIENCES,,,12.77
+WEL0308,weltone gold softgel cap 10's,,capsule,weltone gold softgel,weltone gold softgel 10s,1,weltone gold,weltone,weltone,10,AKUMENTIS HEALTHCARE LTD,,,18.7
+WEL0343,wellbeing nutrition slow burn cap 60's,,capsule,wellbeing nutrition slow burn,wellbeing nutrition slow burn 60s,1,wellbeing nutrition slow,wellbeing nutrition,wellbeing,1,NUTRITIONALAB PVT LTD,,,1899.0
+WEL0344,wellbeing nutrition slow hair & skin & nails cap 60's,,capsule,wellbeing nutrition slow hair & skin & nails,wellbeing nutrition slow hair & skin nails 60s,1,wellbeing nutrition slow hair & skin &,wellbeing nutrition slow hair & skin,wellbeing nutrition slow hair &,1,NUTRITIONALAB PVT LTD,,,2199.0
+WEL0345,wellbeing nutrition slow liver health cap 60's,,capsule,wellbeing nutrition slow liver health,wellbeing nutrition slow liver health 60s,1,wellbeing nutrition slow liver,wellbeing nutrition slow,wellbeing nutrition,1,NUTRITIONALAB PVT LTD,,,1899.0
+WEL0346,wellbeing nutrition slow multi for her cap 60's,,capsule,wellbeing nutrition slow multi for her,wellbeing nutrition slow multi for her 60s,1,wellbeing nutrition slow multi for,wellbeing nutrition slow multi,wellbeing nutrition slow,1,NUTRITIONALAB PVT LTD,,,2199.0
+WEL0347,wellbeing nutrition slow multi for him cap 60's,,capsule,wellbeing nutrition slow multi for him,wellbeing nutrition slow multi for him 60s,1,wellbeing nutrition slow multi for,wellbeing nutrition slow multi,wellbeing nutrition slow,1,NUTRITIONALAB PVT LTD,,,2199.0
+WEL0348,wellbeing nutrition slow virgin omega 3 cap 60's,,capsule,wellbeing nutrition slow virgin omega,wellbeing nutrition slow virgin omega 3 60s,1,wellbeing nutrition slow virgin,wellbeing nutrition slow,wellbeing nutrition,1,NUTRITIONALAB PVT LTD,,,1899.0
+WHI0175,whiral caps,,capsule,whiral,whiral capsule,1,whiral,whiral,whiral,1,ZANDU PHARMACEUTICAL WORKS,,,30.0
+WIL0030,wilma cap 10's,,capsule,wilma,wilma 10s,1,wilma,wilma,wilma,10,ABBOTT LABORATORIES,,,7.0
+WIN0044,winolax cap 10's,,capsule,winolax,winolax 10s,1,winolax,winolax,winolax,10,WIN MEDICARE LTD,,,6.0
+WIT0019,witha fort cap 10's (fort),,capsule,witha fort,witha fort 10s,1,witha,witha,witha,10,FOR-FORT HERBAL,,,4.0
+WOU0022,woundcer cap,,capsule,woundcer,woundcer capsule,1,woundcer,woundcer,woundcer,10,GIOCON PHARMA LTD,,,30.0
+WWB0001,wwb 60 cap,,capsule,wwb,wwb 60 capsule,1,wwb,wwb,wwb,1,3M INDIA LTD,,,170.0
+XCE0028,xceed cap,,capsule,xceed,xceed capsule,1,xceed,xceed,xceed,1,OJAS,,,299.0
+XEC0011,xecap  500mg cap 10's,,capsule,xe,xe 500s 10s,2,xe,xe,xe,10,RPG LIFESCIENCES LTD,,,150.0
+XIN0032,xingbuta cap 45's (natel),,capsule,xingbuta,xingbuta 45s natel,1,xingbuta,xingbuta,xingbuta,1,NATEL NEUTRATEC PVT LTD,,,188.0
+YAS0011,yashti cap 60 's,,capsule,yashti,yashti 60 s,1,yashti,yashti,yashti,1,HIM-HIMALAYA AYUR CONCEPTS,,,1.66
+YAW0001,yawin forte cap,,capsule,yawin forte,yawin forte capsule,1,yawin,yawin,yawin,1,NIM-NIMBA ASWATHA,,,15.0
+YUJ0001,yujasthi cap 15's (ananya),,capsule,yujasthi,yujasthi 15s ananya,1,yujasthi,yujasthi,yujasthi,15,ANAYA HEALTHCARE,,,5.0
+ZAN0286,zandu methi healthy sugar level cap 60's,,capsule,zandu methi healthy sugar level,zandu methi healthy sugar level 60s,1,zandu methi healthy sugar,zandu methi healthy,zandu methi,1,EMAMI LTD,,,250.0
+ZAN0289,zandu karela healthy sugar level cap 60's,,capsule,zandu karela healthy sugar level,zandu karela healthy sugar level 60s,1,zandu karela healthy sugar,zandu karela healthy,zandu karela,1,EMAMI LTD,,,250.0
+ZEN0316,"zen nuts rer, gs ext & red wine extract  240 cap",,capsule,zen nuts rer gs ext & red wine extract,zen nuts rer gs ext & red wine extract 240 capsule,1,zen nuts rer gs ext & red wine,zen nuts rer gs ext & red,zen nuts rer gs ext &,1,ZENITH NUTRITION,,,2280.0
+ZEN0319,"zen nuts res,gs ext & redwine extract  60 cap",,capsule,zen nuts res gs ext & redwine extract,zen nuts res gs ext & redwine extract 60 capsule,1,zen nuts res gs ext & redwine,zen nuts res gs ext &,zen nuts res gs ext,1,ZENITH NUTRITION,,,740.0
+ZEN0322,zen nuts sm milk thistle st  400mg 60 cap,,capsule,zen nuts sm milk thistle st,zen nuts sm milk thistle st 400 60 capsule,1,zen nuts sm milk thistle,zen nuts sm milk,zen nuts sm,1,ZENITH NUTRITION,,,980.0
+ZEN0324,zen nuts res plus  gymnema sylvestre  60 cap,,capsule,zen nuts res plus gymnema sylvestre,zen nuts res plus gymnema sylvestre 60 capsule,1,zen nuts res plus gymnema,zen nuts res plus,zen nuts res,1,ZENITH NUTRITION,,,1300.0
+ZEN0327,zen nuts resveratrol/green tea/c/gs plus  60 cap,,capsule,zen nuts resveratrol/green tea/c/gs plus,zen nuts resveratrol/green tea/c/gs plus 60 capsule,1,zen nuts resveratrol/green tea/c/gs,zen nuts resveratrol/green,zen nuts,1,ZENITH NUTRITION,,,910.0
+ZEN0331,zen nuts gin bil with bilberry & lutein  60 cap,,capsule,zen nuts gin bil with bilberry & lutein,zen nuts gin bil with bilberry & lutein 60 capsule,1,zen nuts gin bil with bilberry &,zen nuts gin bil with bilberry,zen nuts gin bil with,1,ZENITH NUTRITION,,,1520.0
+ZEN0333,zen nut curcumin with piperine - 60 capsules,,capsule,zen nut curcumin with piperine,zen nut curcumin with piperine 60 capsule,1,zen nut curcumin with,zen nut curcumin,zen nut,1,ZENITH NUTRITION,,,1980.0
+ZEN0336,zen nut green coffee bean extract-400mg - 120  cap,,capsule,zen nut green coffee bean extract,zen nut green coffee bean extract 400 120 capsule,1,zen nut green coffee bean,zen nut green coffee,zen nut green,1,ZENITH NUTRITION,,,2080.0
+ZEN0338,zen nut green coffee bean extract  400 mg 60 cap,,capsule,zen nut green coffee bean extract,zen nut green coffee bean extract 400 60 capsule,1,zen nut green coffee bean,zen nut green coffee,zen nut green,1,ZENITH NUTRITION,,,1220.0
+ZEN0345,zen nuts pine bark ext with grape seed ext  30 cap,,capsule,zen nuts pine bark ext with grape seed ext,zen nuts pine bark ext with grape seed 30 capsule,1,zen nuts pine bark ext with grape seed,zen nuts pine bark ext with grape,zen nuts pine bark ext with,1,ZENITH NUTRITION,,,1220.0
+ZEN0346,zen nuts lycopene with calcium - 30 capsules,,capsule,zen nuts lycopene with calcium,zen nuts lycopene with calcium 30 capsule,1,zen nuts lycopene with,zen nuts lycopene,zen nuts,1,ZENITH NUTRITION,,,620.0
+ZEN0349,zen nuts cal + magnesium + vitamin d 180 cap,,capsule,zen nuts cal plus magnesium plus vitamin d,zen nuts cal plus magnesium vitamin d 180 capsule,1,zen nuts cal plus magnesium plus vitamin,zen nuts cal plus magnesium plus,zen nuts cal plus magnesium,1,ZENITH NUTRITION,,,780.0
+ZEN0351,zen nut lycopene with calcium - 60 capsules,,capsule,zen nut lycopene with calcium,zen nut lycopene with calcium 60 capsule,1,zen nut lycopene with,zen nut lycopene,zen nut,1,ZENITH NUTRITION,,,1180.0
+ZEN0370,zen nuts vitamin-d & calcium - 180 capsules,,capsule,zen nuts vitamin d & calcium,zen nuts vitamin d & calcium 180 capsule,1,zen nuts vitamin d &,zen nuts vitamin d,zen nuts vitamin,1,ZENITH NUTRITION,,,840.0
+ZEN0379,zen nuts glucosamine with chondroitin - 120 cap,,capsule,zen nuts glucosamine with chondroitin,zen nuts glucosamine with chondroitin 120 capsule,1,zen nuts glucosamine with,zen nuts glucosamine,zen nuts,1,ZENITH NUTRITION,,,1020.0
+ZEN0380,zen nuts garlic with lecithin 200 capsules,,capsule,zen nuts garlic with lecithin,zen nuts garlic with lecithin 200 capsule,1,zen nuts garlic with,zen nuts garlic,zen nuts,1,ZENITH NUTRITION,,,1120.0
+ZEN0385,zen nut mucuna pruriens plus - 200 mg - 60 cap,,capsule,zen nut mucuna pruriens plus,zen nut mucuna pruriens plus 200 60 capsule,1,zen nut mucuna pruriens,zen nut mucuna,zen nut,1,ZENITH NUTRITION,,,650.0
+ZEN0386,zen nuts lycopene with multivitamins - 200 cap,,capsule,zen nuts lycopene with multivitamins,zen nuts lycopene with multivitamins 200 capsule,1,zen nuts lycopene with,zen nuts lycopene,zen nuts,1,ZENITH NUTRITION,,,1060.0
+ZEN0396,zen nuts lycopene with saw palmetto - 120 capsules,,capsule,zen nuts lycopene with saw palmetto,zen nuts lycopene with saw palmetto 120 capsule,1,zen nuts lycopene with saw,zen nuts lycopene with,zen nuts lycopene,1,ZENITH NUTRITION,,,2280.0
+ZEN0398,zen nuts turmeric curcumin ext 300mg - 60 capsules,,capsule,zen nuts turmeric curcumin ext,zen nuts turmeric curcumin ext 300 60 capsule,1,zen nuts turmeric curcumin,zen nuts turmeric,zen nuts,1,ZENITH NUTRITION,,,600.0
+ZEN0403,zen nuts pine bark ext with calcium - 60 capsules,,capsule,zen nuts pine bark ext with calcium,zen nuts pine bark ext with calcium 60 capsule,1,zen nuts pine bark ext with,zen nuts pine bark ext,zen nuts pine bark,1,ZENITH NUTRITION,,,740.0
+ZEN0412,zen nut lycopene with saw palmetto - 60 capsules,,capsule,zen nut lycopene with saw palmetto,zen nut lycopene with saw palmetto 60 capsule,1,zen nut lycopene with saw,zen nut lycopene with,zen nut lycopene,1,ZENITH NUTRITION,,,1200.0
+ZEN0413,zen nuts ginseng with ashwagandha - 240 capsules,,capsule,zen nuts ginseng with ashwagandha,zen nuts ginseng with ashwagandha 240 capsule,1,zen nuts ginseng with,zen nuts ginseng,zen nuts,1,ZENITH NUTRITION,,,1560.0
+ZEN0414,zen nuts folic acid - 2000 - 100 capsules,,capsule,zen nuts folic acid 2000,zen nuts folic acid 2000 100 capsule,1,zen nuts folic acid,zen nuts folic,zen nuts,1,ZENITH NUTRITION,,,400.0
+ZEN0415,zen nuts grape seed extract 250mg - 100 capsules,,capsule,zen nuts grape seed extract,zen nuts grape seed extract 250 100 capsule,1,zen nuts grape seed,zen nuts grape,zen nuts,1,ZENITH NUTRITION,,,1220.0
+ZEN0426,zen nuts alpha lipoic acid 300mg - 120 capsules,,capsule,zen nuts alpha lipoic acid,zen nuts alpha lipoic acid 300 120 capsule,1,zen nuts alpha lipoic,zen nuts alpha,zen nuts,1,ZENITH NUTRITION,,,1020.0
+ZEN0429,zen nuts super calcium 600 - 180 capsules,,capsule,zen nuts super calcium 600,zen nuts super calcium 600 180 capsule,1,zen nuts super calcium,zen nuts super,zen nuts,1,ZENITH NUTRITION,,,580.0
+ZEN0435,zen nuts grape seed extract 100mg - 60 capsules,,capsule,zen nuts grape seed extract,zen nuts grape seed extract 100 60 capsule,1,zen nuts grape seed,zen nuts grape,zen nuts,1,ZENITH NUTRITION,,,830.0
+ZEN0436,zen nuts grape seed extract 150mg - 60 capsules,,capsule,zen nuts grape seed extract,zen nuts grape seed extract 150 60 capsule,1,zen nuts grape seed,zen nuts grape,zen nuts,1,ZENITH NUTRITION,,,1050.0
+ZEN0437,zen nuts vitamin b-complex - 180 capsules,,capsule,zen nuts vitamin b complex,zen nuts vitamin b complex 180 capsule,1,zen nuts vitamin b,zen nuts vitamin,zen nuts,1,ZENITH NUTRITION,,,800.0
+ZEN0439,zen nuts grape seed extract 500mg - 60 capsules,,capsule,zen nuts grape seed extract,zen nuts grape seed extract 500 60 capsule,1,zen nuts grape seed,zen nuts grape,zen nuts,1,ZENITH NUTRITION,,,1220.0
+ZEN0441,zen nuts green tea extract 250mg - 100 capsules,,capsule,zen nuts green tea extract,zen nuts green tea extract 250 100 capsule,1,zen nuts green tea,zen nuts green,zen nuts,1,ZENITH NUTRITION,,,750.0
+ZEN0450,zen nuts super garlic 1000 - 90 capsules,,capsule,zen nuts super garlic 1000,zen nuts super garlic 1000 90 capsule,1,zen nuts super garlic,zen nuts super,zen nuts,1,ZENITH NUTRITION,,,840.0
+ZEN0451,zen nuts vegan omega-3 dha - 90 capsules,,capsule,zen nuts vegan omega 3 dha,zen nuts vegan omega 3 dha 90 capsule,1,zen nuts vegan omega 3,zen nuts vegan omega,zen nuts vegan,1,ZENITH NUTRITION,,,1420.0
+ZEN0463,zen nut alpha lipoic acid 100mg - 240 capsules,,capsule,zen nut alpha lipoic acid,zen nut alpha lipoic acid 100 240 capsule,1,zen nut alpha lipoic,zen nut alpha,zen nut,1,ZENITH NUTRITION,,,1020.0
+ZEN0481,zen nut green tea plus - 500 mg - 120 capsules,,capsule,zen nut green tea plus,zen nut green tea plus 500 120 capsule,1,zen nut green tea,zen nut green,zen nut,1,ZENITH NUTRITION,,,1650.0
+ZEN0490,zen nuts curcumin with piperine - 120 capsules,,capsule,zen nuts curcumin with piperine,zen nuts curcumin with piperine 120 capsule,1,zen nuts curcumin with,zen nuts curcumin,zen nuts,1,ZENITH NUTRITION,,,3200.0
+ZEN0499,zen nuts omega-3 efa - 120 capsules,,capsule,zen nuts omega 3 efa,zen nuts omega 3 efa 120 capsule,1,zen nuts omega 3,zen nuts omega,zen nuts,1,ZENITH NUTRITION,,,940.0
+ZEN0507,zen nuts grape seed extract 50mg - 60 capsules,,capsule,zen nuts grape seed extract,zen nuts grape seed extract 50 60 capsule,1,zen nuts grape seed,zen nuts grape,zen nuts,1,ZENITH NUTRITION,,,534.0
+ZEN0512,zen nuts grape seed extract plus - 60 capsules,,capsule,zen nuts grape seed extract plus,zen nuts grape seed extract plus 60 capsule,1,zen nuts grape seed extract,zen nuts grape seed,zen nuts grape,1,ZENITH NUTRITION,,,1150.0
+ZEN0514,zen nuts green tea extract 400mg - 60 capsules,,capsule,zen nuts green tea extract,zen nuts green tea extract 400 60 capsule,1,zen nuts green tea,zen nuts green,zen nuts,1,ZENITH NUTRITION,,,720.0
+ZEN0520,zen nut green tea plus - 500 mg - 60 capsules,,capsule,zen nut green tea plus,zen nut green tea plus 500 60 capsule,1,zen nut green tea,zen nut green,zen nut,1,ZENITH NUTRITION,,,850.0
+ZEN0528,zen nuts lycopene with calcium - 120 capsules,,capsule,zen nuts lycopene with calcium,zen nuts lycopene with calcium 120 capsule,1,zen nuts lycopene with,zen nuts lycopene,zen nuts,1,ZENITH NUTRITION,,,2080.0
+ZEN0529,zen nuts pine bark ext - 100mg - 200 capsules,,capsule,zen nuts pine bark ext,zen nuts pine bark ext 100 200 capsule,1,zen nuts pine bark,zen nuts pine,zen nuts,1,ZENITH NUTRITION,,,2620.0
+ZEN0530,zen nuts vitamin b-100 complex - 100 capsules,,capsule,zen nuts vitamin b 100 complex,zen nuts vitamin b 100 complex capsule,1,zen nuts vitamin b 100,zen nuts vitamin b,zen nuts vitamin,1,ZENITH NUTRITION,,,550.0
+ZEN0534,zen nut pine bark ext - 100mg - 100 capsules,,capsule,zen nut pine bark ext,zen nut pine bark ext 100 capsule,1,zen nut pine bark,zen nut pine,zen nut,1,ZENITH NUTRITION,,,1420.0
+ZEO0021,zeotone plus cap,,capsule,zeotone plus,zeotone plus capsule,1,zeotone,zeotone,zeotone,10,AVN-AVN,,,12.65
+ZER0183,zerogap cap 30's (medinn),,capsule,zerogap,zerogap 30s medinn,1,zerogap,zerogap,zerogap,1,MED-MEDINN BELLE HERBAL CARE,,,315.0
+ZEV0003,zeva 50 mg cap 10's,,capsule,zeva,zeva 50 10s,1,zeva,zeva,zeva,10,WANBURY LTD,,,5.3
+ZIN0172,zinc cap 10's,,capsule,zinc,zinc 10s,1,zinc,zinc,zinc,10,ADONIS LABORATORIES PVT LTD,,,5.0
+ZIN0285,zinc lac cap 10's,,capsule,zinc lac,zinc lac 10s,1,zinc,zinc,zinc,10,EAST WEST PHARMACEUTICALS PVT LTD,,,2.88
+ZIN0469,zinc vibe cap 28's,,capsule,zinc vibe,zinc vibe 28s,1,zinc,zinc,zinc,1,NUTRIFIRM THERAPEUTICS,,,280.0
+ZMA0002,zma pro 90 caps,,capsule,zma pro,zma pro 90 capsule,1,zma,zma,zma,1,ADONIS LABORATORIES PVT LTD,,,2500.0
+ZQZ0001,zqzaar softgel cap 10's,,capsule,zqzaar softgel,zqzaar softgel 10s,1,zqzaar,zqzaar,zqzaar,10,ZUNISON HEALTHCARE,,,64.99
+ZVA0001,zvasya elder's shield cap 60's (intellio),,capsule,zvasya elders shield,zvasya elders shield 60s intellio,1,zvasya elders,zvasya,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,745.0
+ZVA0002,zvasya herb-o-vit cap 60's (intellio),,capsule,zvasya herb o vit,zvasya herb o vit 60s intellio,1,zvasya herb o,zvasya herb,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,695.0
+ZVA0003,zvasya fem-potion cap 60's (intellio),,capsule,zvasya fem potion,zvasya fem potion 60s intellio,1,zvasya fem,zvasya,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,625.0
+ZVA0004,zvasya innate immunity cap 60's (intellio),,capsule,zvasya innate immunity,zvasya innate immunity 60s intellio,1,zvasya innate,zvasya,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,695.0
+ZVA0006,zvasya spiru-boost cap 60's (intellio),,capsule,zvasya spiru boost,zvasya spiru boost 60s intellio,1,zvasya spiru,zvasya,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,645.0
+ZVA0007,zvasya zv-ashwa cap 60's (intellio),,capsule,zvasya zv ashwa,zvasya zv ashwa 60s intellio,1,zvasya zv,zvasya,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,575.0
+ZVA0008,zvasya liv-guard cap 60's (intellio),,capsule,zvasya liv guard,zvasya liv guard 60s intellio,1,zvasya liv,zvasya,zvasya,1,INTELLIO HEALTHCARE PVT LTD,,,675.0
+ZYO0001,zyoxy cap,,capsule,zyoxy,zyoxy capsule,1,zyoxy,zyoxy,zyoxy,1,ABBOTT LABORATORIES,,,10.8
+ZYS0023,zystrim cap 30's (evax),,capsule,zystrim,zystrim 30s evax,1,zystrim,zystrim,zystrim,1,EVAX HEALTHCARE PVT LTD,,,690.0
