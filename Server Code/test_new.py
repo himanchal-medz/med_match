@@ -1,6 +1,5 @@
-import numpy as np
-import pandas as pd
-from collections import OrderedDict
+
+path='/home/ubuntu/filestore'
 
 def wrapper(dist_name):
         
@@ -34,20 +33,20 @@ def wrapper(dist_name):
     ################ Directory where input file is stored and output files will be saved ################
     #####################################################################################################
     
-    os.chdir('../Output/')
+    #os.chdir('../Output/')
     #os.chdir('/Arun/_SelfLearn/Mapping/')
     print('dist_name:',dist_name)
     inputdata=dist_name+"_data.csv"
-    outfile1=dist_name+"_"+"Combined_results.csv"
-    outfile2=dist_name+"_"+"exact_mapped.csv"
-    outfile3=dist_name+"_"+"partial_mapped.csv"
+    outfile1=dist_name+";;"+"Combined_results.csv"
+    outfile2=dist_name+";;"+"exact_mapped.csv"
+    outfile3=dist_name+";;"+"partial_mapped.csv"
     outfile4=dist_name+"_"+"historical_mapped.csv"
     
     #####################################################################################################
     #df_master = pd.read_csv('drug_master2.csv') 
-    df_master = pd.read_csv('../Master Mappings/drug_master_07March.csv', encoding='ISO-8859-1') # Updated Master Data with sku for all
+    df_master = pd.read_csv('drug_master_07March.csv', encoding='ISO-8859-1') # Updated Master Data with sku for all
     #df_distributor = pd.read_csv('distributor_data.csv') # New Distributor data to be mapped
-    df_distributor = pd.read_csv('../Datasets/Apollo_unmapped_07March.csv', encoding='ISO-8859-1') # New Distributor data to be mapped
+    df_distributor = pd.read_csv(inputdata, encoding='ISO-8859-1') # New Distributor data to be mapped
     #df_distributor = df_distributor[['item_code', 'brand', 'pack', 'manufacturer', 'catg', 'subcatg', 'mrp']]
     
     # Required Schema of Distributor Data - ['item_code', 'brand', 'pack', 'manufacturer', 'catg', 'subcatg', 'mrp']
@@ -289,7 +288,7 @@ def wrapper(dist_name):
 
     final_mapped = final_mapped[['item_code_x','brand','brand_y','drug_master_id']]
     final_mapped.to_csv(outfile4, index = False)
-
+    
     final = final[final['brand_x'].isnull()].reset_index(drop = True)
     final = final[['item_code_x', 'brand', 'pack', 'manufacturer', 'catg', 'subcatg', 'mrp','Master Catalogue name']]
     final = final.rename(columns = {'item_code_x':'item_code'})
@@ -2665,5 +2664,34 @@ def wrapper(dist_name):
     df_exact_match[['item_code', 'brand_x', 'brand_y', 'manufacturer', 'id', 'mrp']].to_csv(outfile2, index = False)
     df_others[['item_code', 'brand_x', 'brand_y', 'manufacturer', 'id', 'mrp', 'count']].to_csv(outfile3, index = False)
 
+    url = 'https://beta-api.medz91.com/enigma/v1/mapping-file/public/'+ dist_name +'_;;_'+'distributor_data.csv/status-update'
+    print(url)
+    myobj = {'failure_reason': 'File is Uploaded SuccessFully', 'file_name' : dist_name +'_;;_distributor_data.csv', 
+    'status': 'SUCCESS' }
+    x = requests.post(url, json = myobj)
+    print(x.text)
 
-wrapper('Apollo')
+
+#read valid files which has ;; as separator
+from datetime import datetime
+from datetime import date
+import os 
+
+def read_text_file(file_path):
+    with open(file_path, 'r') as f:
+        print(f.read())
+end_date=date.today().strftime('%d-%m-%Y').replace("-", "_")
+os.chdir(path)
+print("***********************************************Note: Started cron - {}************************".format(datetime.now().strftime("%d/%m/%Y %H:%M:%S")))
+ 
+# iterate through all file
+for file in os.listdir():
+    # Check whether file is in text format or not
+    if file.find("_;;_")>0:
+        dist_name,secondpart=file.split("_;;_")
+        renamedfile=dist_name+"_data.csv"
+        archivedname=dist_name+"_data_"+end_date+".csv"
+        os.rename(file,renamedfile)
+        print("***********************************************Note: Now running for Distributor - {}************************".format(dist_name))
+        wrapper(dist_name)
+        os.rename(renamedfile,archivedname)
